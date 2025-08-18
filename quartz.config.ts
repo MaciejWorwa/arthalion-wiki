@@ -19,6 +19,7 @@ const config: QuartzConfig = {
     baseUrl: "https://maciejworwa.github.io/arthalion-wiki",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
+    output: "public", 
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,

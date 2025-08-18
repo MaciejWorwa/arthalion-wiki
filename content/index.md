@@ -11,13 +11,13 @@ Znajdziesz tu opisy krain i miast, kroniki wydarzeń, wierzenia, a także katalo
 
 ## Najważniejsze działy
 
-- **[Lokacje](/Lokacje)** – opisy krain, miast i miejsc o szczególnym znaczeniu
-- **[Wydarzenia](/Wydarzenia)** – dzieje i przełomowe momenty historii świata
-- **[Religia](/Religia)** – bogowie, kulty i wierzenia kształtujące życie mieszkańców
-- **[Społeczności](/Społeczności)** – ludy, nacje i kultury
-- **[Bestiariusz](/Bestiariusz)** – katalog znanych stworzeń i potworów
-- **[Flora](/Flora)** – rozmaite rośliny i grzyby
-- **[Przedmioty](/Przedmioty)** – od codziennego wyposażenia po legendarne artefakty
+- **[[Lokacje|Lokacje]]** – opisy krain, miast i miejsc o szczególnym znaczeniu
+- **[[Wydarzenia|Wydarzenia]]** – dzieje i przełomowe momenty historii świata
+- **[[Religia|Religia]]** – bogowie, kulty i wierzenia kształtujące życie mieszkańców
+- **[[Społeczności|Społeczności]]** – ludy, nacje i kultury
+- **[[Bestiariusz|Bestiariusz]]** – katalog znanych stworzeń i potworów
+- **[[Flora|Flora]]** – rozmaite rośliny i grzyby
+- **[[Przedmioty|Przedmioty]]** – od codziennego wyposażenia po legendarne artefakty
 
 ---
 

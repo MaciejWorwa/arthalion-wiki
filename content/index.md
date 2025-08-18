@@ -21,12 +21,6 @@ Znajdziesz tu opisy krain i miast, kroniki wydarzeń, wierzenia, a także katalo
 
 ---
 
-## Ostatnie aktualizacje
-
-{{RecentNotes limit=5}}
-
----
-
 ## O projekcie
 
 Projekt powstał, aby zebrać w jednym miejscu całą wiedzę o uniwersum **Arthalionu**.  

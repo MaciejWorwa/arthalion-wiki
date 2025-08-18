@@ -1,7 +1,4 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
-    <loc>https://https://maciejworwa.github.io/arthalion-wiki/Amalren</loc>
-    <lastmod>2025-08-14T14:02:06.000Z</lastmod>
-  </url><url>
     <loc>https://https://maciejworwa.github.io/arthalion-wiki/Bestiariusz/Hasai</loc>
     <lastmod>2025-08-14T14:02:06.000Z</lastmod>
   </url><url>
@@ -10,6 +7,9 @@
   </url><url>
     <loc>https://https://maciejworwa.github.io/arthalion-wiki/Bestiariusz/Li%C5%9Bciopi%C3%B3r</loc>
     <lastmod>2025-08-14T14:02:06.000Z</lastmod>
+  </url><url>
+    <loc>https://https://maciejworwa.github.io/arthalion-wiki/Bestiariusz/Morgras</loc>
+    <lastmod>2025-08-18T21:14:16.000Z</lastmod>
   </url><url>
     <loc>https://https://maciejworwa.github.io/arthalion-wiki/Bestiariusz/Po%C5%BCeracze-Dusz</loc>
     <lastmod>2025-08-14T14:02:06.000Z</lastmod>
@@ -25,6 +25,9 @@
   </url><url>
     <loc>https://https://maciejworwa.github.io/arthalion-wiki/Bestiariusz/Torfun</loc>
     <lastmod>2025-08-14T14:02:06.000Z</lastmod>
+  </url><url>
+    <loc>https://https://maciejworwa.github.io/arthalion-wiki/Bestiariusz/Wargul</loc>
+    <lastmod>2025-08-18T20:59:34.624Z</lastmod>
   </url><url>
     <loc>https://https://maciejworwa.github.io/arthalion-wiki/Bestiariusz/Z%C5%82odziej-My%C5%9Bli</loc>
     <lastmod>2025-08-14T14:02:06.000Z</lastmod>
@@ -148,6 +151,9 @@
   </url><url>
     <loc>https://https://maciejworwa.github.io/arthalion-wiki/Lokacje/Stary-Kontynent/Ligort/Wilcze-Bory</loc>
     <lastmod>2025-08-14T14:02:06.000Z</lastmod>
+  </url><url>
+    <loc>https://https://maciejworwa.github.io/arthalion-wiki/Lokacje/Stary-Kontynent/Mardania/Amalren</loc>
+    <lastmod>2025-07-31T09:26:09.014Z</lastmod>
   </url><url>
     <loc>https://https://maciejworwa.github.io/arthalion-wiki/Lokacje/Stary-Kontynent/Mardania/B%C5%82%C4%99kitna-Zatoka</loc>
     <lastmod>2025-08-14T14:02:06.000Z</lastmod>
@@ -330,5 +336,5 @@
     <lastmod>2025-08-14T14:02:06.000Z</lastmod>
   </url><url>
     <loc>https://https://maciejworwa.github.io/arthalion-wiki/</loc>
-    <lastmod>2025-08-14T14:34:55.947Z</lastmod>
+    <lastmod>2025-08-18T20:49:25.468Z</lastmod>
   </url></urlset>

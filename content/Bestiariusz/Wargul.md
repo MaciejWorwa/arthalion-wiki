@@ -2,7 +2,7 @@
 
 ![[wargul.png|400]]
 
-Wargule to masywne, czworonożne stworzenia wielkości konia, zamieszkujące głębokie podziemia. Choć dzikie są śmiertelnie niebezpieczne, zostały oswojone przez [[Morgras|morgrasów]] i stanowią podstawę ich gospodarki. Wykorzystywane są jako wierzchowce, zwierzęta pociągowe oraz istoty zdolne do drążenia tuneli.
+Wargule to masywne, czworonożne stworzenia wielkości konia, zamieszkujące głębokie podziemia. Choć dzikie są śmiertelnie niebezpieczne, zostały oswojone przez [[Morgrasi|morgrasów]] i stanowią podstawę ich gospodarki. Wykorzystywane są jako wierzchowce, zwierzęta pociągowe oraz istoty zdolne do drążenia tuneli.
 
 ### Wygląd
 

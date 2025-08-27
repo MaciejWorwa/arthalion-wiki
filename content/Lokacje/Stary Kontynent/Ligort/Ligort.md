@@ -1,3 +1,3 @@
 #Państwo
 
-![[flaga Ligortu 1.png|400]]
+![[flaga Ligortu nowa.png|400]]

@@ -88,8 +88,8 @@ Kaldorn, stolica rycerskiego Ligortu, jest miastem, w którym **rycerskość** i
 
 ### Święta
 
-- **Dzień Dwóch Rzek** – uroczystość związana z rzekami, które oplatają miasto. Procesje wodne, puszczanie lampionów i ofiary z zielonych gałązek do rzek mają zapewnić czystość i dostatek. Dla kupców to także dzień błogosławieństwa handlu – rzeki bowiem są krwiobiegiem gospodarki.
-- **Festiwal Łowów** – połączenie polowania i rycerskiego turnieju. Rycerze i szlachta urządzają wielką pogoń w pobliskich lasach, a zdobycz staje się głównym daniem uczty. Towarzyszą temu pieśni, walki na arenie oraz występy bardów.
+- **Święto Dwóch Rzek** – odbywa się pierwszego dnia wiosny. Uroczystość związana z rzekami, które oplatają miasto. Procesje wodne, puszczanie lampionów i ofiary z zielonych gałązek do rzek mają zapewnić czystość i dostatek. Dla kupców to także dzień błogosławieństwa handlu – rzeki bowiem są krwiobiegiem gospodarki.
+- **Festiwal Łowiecki** – rozpoczyna się pierwszego dnia jesieni i zazwyczaj trwa trzy dni. Jest to połączenie polowania i rycerskiego turnieju. Rycerze i szlachta urządzają wielką pogoń w pobliskich lasach, a zdobycz staje się głównym daniem uczty. Towarzyszą temu pieśni, walki na arenie oraz występy bardów. Ostatniego dnia festiwalu, schwytane w lesie bestie takie jak wilki lub niedźwiedzie (a czasami nawet [[Troll Leśny|trolle leśne]]) są wypuszczane do walki z najdzielniejszymi rycerzami na arenie Amfiteatru.
 
 ### Rycerskość
 

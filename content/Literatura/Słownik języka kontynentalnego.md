@@ -5,7 +5,7 @@
 - **ankan** - pole, łąka
 - **ant** - wielki, duży
 - **art** - serce
-- **atel** - 
+- **atel** - dom
 - **ather** - mądrość, rozsądek
 
 ### B
@@ -20,6 +20,7 @@
 - **dil** - wieś
 - **dorn** - miasto
 - **dren** - drzewo
+- **drim** - mamut
 - **dur** - góra
 
 ### E
@@ -35,12 +36,16 @@
 
 ### G
 
+- **gal** - kuc
 - **grann** - granica, koniec
+- **gras** - gryźć
+- **gul** - koń
 
 ### H
 
 - **ha** - dwa, podwójne
 - **hal** - zamek, twierdza
+- **har** - jeździec
 - **hond** - wilk
 
 ### I
@@ -68,6 +73,7 @@
 
 - **marwe** - zielony
 - **maur** - ciemność
+- **morg** - węgiel
 - **myrrena** - tajemnica
 
 ### N
@@ -121,6 +127,7 @@
 ### W
 
 - **walen** - świątynia, klasztor
+- **war** - jaskinia, podziemia
 - **wern** - kopalnia
 
 ### X

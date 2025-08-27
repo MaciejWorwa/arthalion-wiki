@@ -1,9 +1,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
     <loc>https://https://maciejworwa.github.io/arthalion-wiki/Bestiariusz/Drimharowie</loc>
-    <lastmod>2025-08-19T22:22:05.559Z</lastmod>
+    <lastmod>2025-08-19T22:36:33.000Z</lastmod>
   </url><url>
     <loc>https://https://maciejworwa.github.io/arthalion-wiki/Bestiariusz/Hasai</loc>
     <lastmod>2025-08-14T14:02:06.000Z</lastmod>
+  </url><url>
+    <loc>https://https://maciejworwa.github.io/arthalion-wiki/Bestiariusz/Kurhaniec</loc>
+    <lastmod>2025-08-27T13:49:33.181Z</lastmod>
   </url><url>
     <loc>https://https://maciejworwa.github.io/arthalion-wiki/Bestiariusz/Licz</loc>
     <lastmod>2025-08-14T14:02:06.000Z</lastmod>
@@ -12,16 +15,16 @@
     <lastmod>2025-08-14T14:02:06.000Z</lastmod>
   </url><url>
     <loc>https://https://maciejworwa.github.io/arthalion-wiki/Bestiariusz/Mamut</loc>
-    <lastmod>2025-08-19T22:24:18.533Z</lastmod>
-  </url><url>
-    <loc>https://https://maciejworwa.github.io/arthalion-wiki/Bestiariusz/Morgras</loc>
-    <lastmod>2025-08-18T21:17:35.000Z</lastmod>
+    <lastmod>2025-08-19T22:36:33.000Z</lastmod>
   </url><url>
     <loc>https://https://maciejworwa.github.io/arthalion-wiki/Bestiariusz/Morgrasi</loc>
-    <lastmod>2025-08-18T21:14:16.000Z</lastmod>
+    <lastmod>2025-08-19T22:36:33.000Z</lastmod>
+  </url><url>
+    <loc>https://https://maciejworwa.github.io/arthalion-wiki/Bestiariusz/Nosoro%C5%BCec-W%C5%82ochaty</loc>
+    <lastmod>2025-08-27T13:50:07.092Z</lastmod>
   </url><url>
     <loc>https://https://maciejworwa.github.io/arthalion-wiki/Bestiariusz/Peszak</loc>
-    <lastmod>2025-08-19T19:03:18.750Z</lastmod>
+    <lastmod>2025-08-19T22:36:33.000Z</lastmod>
   </url><url>
     <loc>https://https://maciejworwa.github.io/arthalion-wiki/Bestiariusz/Po%C5%BCeracze-Dusz</loc>
     <lastmod>2025-08-14T14:02:06.000Z</lastmod>
@@ -38,8 +41,11 @@
     <loc>https://https://maciejworwa.github.io/arthalion-wiki/Bestiariusz/Torfun</loc>
     <lastmod>2025-08-14T14:02:06.000Z</lastmod>
   </url><url>
+    <loc>https://https://maciejworwa.github.io/arthalion-wiki/Bestiariusz/Troll</loc>
+    <lastmod>2025-08-27T14:22:17.494Z</lastmod>
+  </url><url>
     <loc>https://https://maciejworwa.github.io/arthalion-wiki/Bestiariusz/Wargul</loc>
-    <lastmod>2025-08-18T21:17:35.000Z</lastmod>
+    <lastmod>2025-08-19T22:36:33.000Z</lastmod>
   </url><url>
     <loc>https://https://maciejworwa.github.io/arthalion-wiki/Bestiariusz/Z%C5%82odziej-My%C5%9Bli</loc>
     <lastmod>2025-08-14T14:02:06.000Z</lastmod>
@@ -58,6 +64,9 @@
   </url><url>
     <loc>https://https://maciejworwa.github.io/arthalion-wiki/Flora/Z%C5%82amaniec</loc>
     <lastmod>2025-08-14T14:02:06.000Z</lastmod>
+  </url><url>
+    <loc>https://https://maciejworwa.github.io/arthalion-wiki/Flora/%C5%BBmijoro%C5%9Bl</loc>
+    <lastmod>2025-08-22T14:04:17.831Z</lastmod>
   </url><url>
     <loc>https://https://maciejworwa.github.io/arthalion-wiki/Literatura/Legenda-o-R%C3%B3wnych-%C5%BBywio%C5%82om</loc>
     <lastmod>2025-08-14T14:02:06.000Z</lastmod>
@@ -96,7 +105,7 @@
     <lastmod>2025-08-14T14:02:06.000Z</lastmod>
   </url><url>
     <loc>https://https://maciejworwa.github.io/arthalion-wiki/Lokacje/Stary-Kontynent/Ant-Ryian/Wyspy-Przekl%C4%99tych</loc>
-    <lastmod>2025-08-19T22:31:37.823Z</lastmod>
+    <lastmod>2025-08-19T22:36:33.000Z</lastmod>
   </url><url>
     <loc>https://https://maciejworwa.github.io/arthalion-wiki/Lokacje/Stary-Kontynent/Ant-Ryian/Z%C5%82ota-Knieja</loc>
     <lastmod>2025-08-14T14:02:06.000Z</lastmod>
@@ -121,6 +130,12 @@
   </url><url>
     <loc>https://https://maciejworwa.github.io/arthalion-wiki/Lokacje/Stary-Kontynent/Galithia/Mglista-Prze%C5%82%C4%99cz</loc>
     <lastmod>2025-08-14T14:02:06.000Z</lastmod>
+  </url><url>
+    <loc>https://https://maciejworwa.github.io/arthalion-wiki/Lokacje/Stary-Kontynent/Galithia/Morawa</loc>
+    <lastmod>2025-08-27T09:32:41.539Z</lastmod>
+  </url><url>
+    <loc>https://https://maciejworwa.github.io/arthalion-wiki/Lokacje/Stary-Kontynent/Galithia/Rubie%C5%BCe-Umar%C5%82ych</loc>
+    <lastmod>2025-08-27T14:23:10.838Z</lastmod>
   </url><url>
     <loc>https://https://maciejworwa.github.io/arthalion-wiki/Lokacje/Stary-Kontynent/Galithia/Sulien</loc>
     <lastmod>2025-08-14T14:02:06.000Z</lastmod>
@@ -147,7 +162,7 @@
     <lastmod>2025-08-14T14:02:06.000Z</lastmod>
   </url><url>
     <loc>https://https://maciejworwa.github.io/arthalion-wiki/Lokacje/Stary-Kontynent/Ligort/Kaldorn</loc>
-    <lastmod>2025-08-14T14:02:06.000Z</lastmod>
+    <lastmod>2025-08-19T22:36:33.000Z</lastmod>
   </url><url>
     <loc>https://https://maciejworwa.github.io/arthalion-wiki/Lokacje/Stary-Kontynent/Ligort/Ligort</loc>
     <lastmod>2025-08-14T14:02:06.000Z</lastmod>
@@ -266,14 +281,23 @@
     <loc>https://https://maciejworwa.github.io/arthalion-wiki/Postacie/Ostilgar</loc>
     <lastmod>2025-08-14T14:02:06.000Z</lastmod>
   </url><url>
+    <loc>https://https://maciejworwa.github.io/arthalion-wiki/Postacie/Skadra</loc>
+    <lastmod>2025-08-27T14:08:00.608Z</lastmod>
+  </url><url>
     <loc>https://https://maciejworwa.github.io/arthalion-wiki/Przedmioty/B%C5%82%C4%99kitnik</loc>
     <lastmod>2025-08-14T14:02:06.000Z</lastmod>
+  </url><url>
+    <loc>https://https://maciejworwa.github.io/arthalion-wiki/Przedmioty/Czerwona-Stal</loc>
+    <lastmod>2025-08-26T22:18:21.525Z</lastmod>
+  </url><url>
+    <loc>https://https://maciejworwa.github.io/arthalion-wiki/Przedmioty/M%C5%82ot-Ostilgara</loc>
+    <lastmod>2025-08-26T22:48:35.055Z</lastmod>
   </url><url>
     <loc>https://https://maciejworwa.github.io/arthalion-wiki/Religia/Buaan</loc>
     <lastmod>2025-08-14T14:02:06.000Z</lastmod>
   </url><url>
     <loc>https://https://maciejworwa.github.io/arthalion-wiki/Religia/Hrothmir</loc>
-    <lastmod>2025-08-19T22:17:04.414Z</lastmod>
+    <lastmod>2025-08-19T22:36:33.000Z</lastmod>
   </url><url>
     <loc>https://https://maciejworwa.github.io/arthalion-wiki/Religia/Kainer</loc>
     <lastmod>2025-08-14T14:02:06.000Z</lastmod>
@@ -298,6 +322,9 @@
   </url><url>
     <loc>https://https://maciejworwa.github.io/arthalion-wiki/Spo%C5%82eczno%C5%9Bci/Bagniarze</loc>
     <lastmod>2025-08-14T14:02:06.000Z</lastmod>
+  </url><url>
+    <loc>https://https://maciejworwa.github.io/arthalion-wiki/Spo%C5%82eczno%C5%9Bci/Druidzi</loc>
+    <lastmod>2025-08-22T12:43:24.300Z</lastmod>
   </url><url>
     <loc>https://https://maciejworwa.github.io/arthalion-wiki/Spo%C5%82eczno%C5%9Bci/Krasnoludy-ze-Szczeliny</loc>
     <lastmod>2025-08-14T14:02:06.000Z</lastmod>
@@ -342,7 +369,7 @@
     <lastmod>2025-08-14T14:02:06.000Z</lastmod>
   </url><url>
     <loc>https://https://maciejworwa.github.io/arthalion-wiki/Wydarzenia/Obl%C4%99%C5%BCenie-Kaldornu</loc>
-    <lastmod>2025-08-19T19:44:14.194Z</lastmod>
+    <lastmod>2025-08-19T22:36:33.000Z</lastmod>
   </url><url>
     <loc>https://https://maciejworwa.github.io/arthalion-wiki/Wydarzenia/Powstanie-Doliny-Trzcinowej</loc>
     <lastmod>2025-08-14T14:02:06.000Z</lastmod>
@@ -355,6 +382,9 @@
   </url><url>
     <loc>https://https://maciejworwa.github.io/arthalion-wiki/Wydarzenia/Wojna-Smok%C3%B3w</loc>
     <lastmod>2025-08-14T14:02:06.000Z</lastmod>
+  </url><url>
+    <loc>https://https://maciejworwa.github.io/arthalion-wiki/Wydarzenia/%C5%9Awi%C4%99to-M%C5%82ota</loc>
+    <lastmod>2025-08-26T22:33:42.942Z</lastmod>
   </url><url>
     <loc>https://https://maciejworwa.github.io/arthalion-wiki/</loc>
     <lastmod>2025-08-18T22:59:10.000Z</lastmod>

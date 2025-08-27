@@ -1,6 +1,6 @@
 #Państwo
 
-![[flaga Mardanii.png|400]]
+![[flaga Mardanii nowa.png|400]]
 
 
 **Położenie:** Południowy wschód [[Stary Kontynent|Starego Kontynentu]]

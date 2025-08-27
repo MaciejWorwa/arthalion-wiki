@@ -4,7 +4,7 @@
 
 ### Wygląd
 
-Drimharowie, zwani potocznie Olbrzymami to istoty osiągające od **3 do 4 metrów wzrostu**, o szerokich barkach i muskularnych ciałach. Ich skóra jest blada, często pokryta bliznami i tatuażami, które mają znaczenie rytualne. Włosy – jasne lub płowe – zaplatają w długie warkocze, a brody zdobią w kościane lub metalowe pierścienie. Oczy mają najczęściej szare lub niebieskie. Noszą futra i skóry [[Mamut|mamutów]], ozdabiają się trofeami z polowań oraz fragmentami kości swych ofiar.
+Drimharowie, zwani potocznie Olbrzymami to istoty osiągające od **3 do 4 metrów wzrostu**, o szerokich barkach i muskularnych ciałach. Ich skóra jest blada i ma niebieski odcień. Często pokryta jest bliznami i tatuażami, które mają znaczenie rytualne. Włosy – jasne lub płowe – zaplatają w długie warkocze, a brody zdobią w kościane lub metalowe pierścienie. Oczy mają najczęściej szare lub niebieskie. Noszą futra i skóry [[Mamut|mamutów]], ozdabiają się trofeami z polowań oraz fragmentami kości swych ofiar.
 
 ### Kultura i życie codzienne
 

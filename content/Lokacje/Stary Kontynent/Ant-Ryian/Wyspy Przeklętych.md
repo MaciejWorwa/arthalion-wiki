@@ -1,6 +1,7 @@
 #Miejsce 
 
-![[Wyspy Przeklętych.png|400]]
+![[Wyspy Przeklętych nowe.png|600]]
+
 
 Na południowych rubieżach [[Ant-Ryian|Ant-Ryianu]], tam gdzie Stary Kontynent kończy się w wodach oceanu, leży archipelag znany jako **Wyspy Przeklętych**. To najdalej wysunięty na południe obszar znanego świata, kraina odludna i zdradliwa.
 

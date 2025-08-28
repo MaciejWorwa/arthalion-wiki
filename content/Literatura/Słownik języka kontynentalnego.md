@@ -39,6 +39,7 @@
 - **gal** - kuc
 - **grann** - granica, koniec
 - **gras** - gryźć
+- **grave** - duch
 - **gul** - koń
 
 ### H

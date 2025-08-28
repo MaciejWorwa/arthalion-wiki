@@ -27,9 +27,11 @@ Co ciekawe, wbrew pozorom nie są zwierzętami bezmyślnymi – potrafią długo
 
 ## Kurhańce jako wierzchowce
 
-Niektóre plemiona [[Pustynne Elfy|Pustynnych Elfów]] z Barin-Amal od wieków próbują ujarzmiać kurhańce. Choć większość dzikich osobników pozostaje nieokiełznana, elfy potrafiły wyselekcjonować i wychować część młodych, czyniąc z nich **wierzchowce bojowe**.
+Jedynie goblińskie plemię **[[Krwawe Pióra]]**, zamieszkujące **[[Spękane Równiny]]**, zdołało ujarzmić te niebezpieczne bestie. Choć większość dzikich Kurhańców pozostaje nieokiełznana i stanowi zagrożenie dla wszystkich, gobliny potrafią porwać młode osobniki i wychować je jako **wierzchowce bojowe**.
 
-Kurhańce doskonale sprawdzają się w walce na otwartych równinach – ich szybkość i wytrzymałość czynią je przewyższającymi konie, a ich dzikość dodaje jeźdźcom aury grozy. Jeździec na kurhańcu to widok budzący przerażenie – ptak o sępim dziobie i pazurach szarżujący na wroga jest równie zabójczy, co nieustępliwy.
+Kurhańce w rękach goblinów nie są jednak w pełni oswojone – plemię wprawia je w szał biciem, ogniem i głodem, a następnie pcha w wir bitwy. To właśnie czyni z nich tak przerażającą broń.
+
+Na otwartych równinach są niezrównane – szybkie, wytrzymałe i dzikie. Jeździec na Kurhańcu to widok budzący grozę: ptak o sępim dziobie i szponach szarżujący na wroga, niosący na grzbiecie uzbrojonego goblina, jest równie zabójczy, co nieustępliwy.
 
 ![[Pusytnny Elf na Kurhańcu.png|400]]
 

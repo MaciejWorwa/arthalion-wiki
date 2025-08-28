@@ -33,3 +33,7 @@ Dla Drimharów największym zaszczytem jest, gdy prochy zostaną rozsypane w mie
 
 - **Z Galithią** – postrach pogranicza; co kilka lat z gór schodzą wielkie najazdy, które palą wsie i porywają mieszkańców.
 - **Z krasnoludami** – jedyny godny wróg; opowieści krasnoludzkie pełne są legendarnych bitew w przełęczach, gdzie obie rasy zostawiały góry trupów.
+
+### Znani Drimharowie
+
+[[Skadra]] - najwybitniejsza wojowniczka i przywódczyni klanu Rogatych Czaszek

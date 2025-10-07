@@ -2,7 +2,7 @@
 
 #### Tło historyczne
 
-Druga Era, znana jako Era Wielkich Migracji, trwała od zakończenia Wojny Smoków. Był to czas względnego pokoju, ale również rosnących napięć między rasami. Konflikty o dziedzictwo, terytoria i wpływy w końcu doprowadziły do otwartego konfliktu, który przeszedł do historii jako Wojna Czterech Królestw.
+[[II Era|Druga Era]], znana jako Era Wielkich Migracji, trwała od zakończenia [[Wojna Smoków|Wojny Smoków]]. Był to czas względnego pokoju, ale również rosnących napięć między rasami. Konflikty o dziedzictwo, terytoria i wpływy w końcu doprowadziły do otwartego konfliktu, który przeszedł do historii jako Wojna Czterech Królestw.
 
 #### Przebieg
 

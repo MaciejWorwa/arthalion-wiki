@@ -22,7 +22,7 @@
 
 #### Wielka Epidemia - Lata 615-643
 
-* Wielka Epidemia, która nawiedziła kontynent w latach 615-643, była jedną z najtragiczniejszych i najbardziej niszczycielskich pandemii w historii. Jej początki sięgają roku 615, gdy pierwsze objawy choroby odnotowano w [[Elonhall]] gdzie początkowo uważano ją za lokalną dolegliwość. Jednak w ciągu zaledwie kilku lat, patogen rozprzestrzenił się z zawrotną prędkością, siejąc spustoszenie na całym kontynencie.
+* [[Blady Głód|Wielka Epidemia]], która nawiedziła kontynent w latach 615-643, była jedną z najtragiczniejszych i najbardziej niszczycielskich pandemii w historii. Jej początki sięgają roku 615, gdy pierwsze objawy choroby odnotowano w [[Elonhall]] gdzie początkowo uważano ją za lokalną dolegliwość. Jednak w ciągu zaledwie kilku lat, patogen rozprzestrzenił się z zawrotną prędkością, siejąc spustoszenie na całym kontynencie.
 
 #### Odkrycie [[Nowy Kontynent|Nowego Kontynentu]] - Rok 681
 

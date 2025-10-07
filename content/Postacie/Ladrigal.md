@@ -3,7 +3,7 @@
 **Rasa**: człowiek
 **Wiek**: 63 lata
 **Tytuł:** Król Ligortu
-**Czasy panowania:** III Era, obecnie
+**Czasy panowania:** [[III Era]], obecnie
 
 ![[Ladrigal.jpg|300]]
 ## Opis

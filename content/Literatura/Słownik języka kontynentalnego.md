@@ -2,8 +2,10 @@
 ### A
 
 - **amal** - morze
+- **ana** - bóg
 - **ankan** - pole, łąka
 - **ant** - wielki, duży
+- **ark** - mgła
 - **art** - serce
 - **atel** - dom
 - **ather** - mądrość, rozsądek
@@ -95,6 +97,7 @@
 
 ### R
 
+- **rei** - gniew, złość
 - **ren** - brama
 - **ri** - byk
 - **ros** - dziecko
@@ -129,6 +132,7 @@
 
 - **walen** - świątynia, klasztor
 - **war** - jaskinia, podziemia
+- **well** - dolina, dziura
 - **wern** - kopalnia
 
 ### X

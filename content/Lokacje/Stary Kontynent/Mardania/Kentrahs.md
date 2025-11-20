@@ -109,7 +109,7 @@ Choć stanowi **płuca gospodarcze Kentrahs**, mieszkańcy z innych dzielnic pat
 ### Dzielnica Rzemieślnicza
 
 - Kowale, garbarze, jubilerzy, tkacze – dzielnica cechów i produkcji.
-- Duże znaczenie mają bractwa: **Bractwo Młota**, **Zakon Wiatru i Kształtu**, **Cech Pieśniarzy Kamienia**.
+- Duże znaczenie mają bractwa: **Bractwo Młota**, **Zakon Wiatru**, **Cech Synów Kamienia**.
 - Dzielnica gęsto zabudowana, dymiąca, pełna rytmu młotów i śpiewu pracy.
 
 Usytuowana na północnym brzegu rzeki Kentra, **Dzielnica Rzemieślnicza** to pulsujące serce pracy fizycznej i fachu.  

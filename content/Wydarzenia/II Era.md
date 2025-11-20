@@ -26,7 +26,7 @@
 
 #### Wielki Sojusz - Rok 1816
 
-* Wojna Czterech Królestw dobiegła końca, przynosząc nowy porządek polityczny na świecie. Zawarte porozumienia zakończyły Drugą Erę, otwierając drogę do nowej epoki, w której rasy mogły współistnieć na bardziej pokojowych warunkach.
+* Wojna Czterech Królestw dobiegła końca, przynosząc nowy porządek polityczny na świecie. Zawarte porozumienia, zwane [[Wielki Sojusz|Wielkim Sojuszem]] zakończyły Drugą Erę, otwierając drogę do nowej epoki, w której rasy mogły współistnieć na bardziej pokojowych warunkach.
 
 ----
 W ten sposób Druga Era zakończyła się po prawie dwóch tysiącach lat burzliwego rozwoju, pozostawiając po sobie zarówno blizny z konfliktów, jak i fundamenty pod przyszłe współistnienie różnych ras i narodów.

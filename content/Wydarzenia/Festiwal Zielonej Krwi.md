@@ -22,6 +22,6 @@ Po długich negocjacjach reprezentanci mieszkańców Dolnej Tarczy wywalczyli **
 
 ### Znaczenie społeczne:
 
-- Festiwal ten **jednoczy Dolną Tarczę**, ale też **napiętnuje różnice** – bywa powodem napięć z elficką społecznością.
+- Festiwal ten **jednoczy Dolną Tarczę**, ale też bywa powodem napięć z elficką społecznością.
 - W dzień festiwalu **straż miejska obsadza granice dzielnicy**, monitorując porządek i zapobiegając eskalacjom – co przez wielu mieszkańców postrzegane jest jako akt nieufności.
 - Dla młodych Mardanów to **moment inicjacji i dumy** – bywa, że z tej okazji **tatuują sobie zielony pierścień wokół nadgarstka**, symbolicznie wiążąc się z własnym ludem.

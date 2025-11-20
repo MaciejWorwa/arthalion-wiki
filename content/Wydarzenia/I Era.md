@@ -27,10 +27,12 @@
 **6. Wojna Smoków - Lata 2087-2344**
 
 - Rozpoczęła się Wojna Smoków, w której Kainer, wspierany przez armię mrocznych stworzeń, próbował przejąć władzę nad światem. Kluczową rolę w tej wojnie odegrała rasa Lanarów, znana z potężnej magii i umiejętności dosiadania smoków.
+- Podczas Wojny Smoków, gdy walki przerodziły się w katastrofę mogącą doprowadzić do rozpadu samego świata, bogowie podjęli decyzję o wykorzystaniu najpotężniejszej znanej sobie magii: zakrzywienia rzeczywistości. Bogowie wspólnie utworzyli kilka innych, odległych i niedostępnych wymiarów, a także monumentalne [[Wrota Wymiarów|bramy]], łączące te krainy.
+- Po zwycięstwie nad Kainerem bogowie opuścili [[Wymiar Śmiertelników]].  
 
 **7. Upadek Lanarów - Rok 2344**
 
-- Po intensywnej wieloletniej wojnie, udało się powstrzymać Kainera, jednak rasa Lanarów została całkowicie wymordowana. Ich dziedzictwo przetrwało jednak do dzisiaj.
+- Po intensywnej wieloletniej wojnie, udało się powstrzymać Kainera, jednak rasa [[Laranowie|Lanarów]] została całkowicie wymordowana. Ich dziedzictwo przetrwało jednak do dzisiaj.
 
 ---
 

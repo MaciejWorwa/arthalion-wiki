@@ -2,7 +2,9 @@
 
 ![[Pansus.webp|400]]
 
- **Pansus** – bóg żywiołu ziemi. Otrzymał pieczę nad ludźmi oraz nad zachodnią częścią kontynentu, obecnie znaną jako [[Ligort]], a także nad [[Wyspa Naruson|wyspą Naruson]], gdzie niegdyś wybudował olbrzymią cytadelę. W tej właśnie cytadeli, zwanej [[Cytadela Śmierci|Cytadelą Śmierci]], Pansus uwięził całą rasę ludzką, która sprzeciwiła się jego władzy, odmawiając służby bogom.
+ **Pansus** –  bóg żywiołu ziemi, patron tajemnic, podziemi i przetrwania. Nazywany Strażnikiem Cieni. W mitach bywa zarówno opiekunem, jak i zdrajcą — bogiem, który zna każde kłamstwo, bo sam je wymyślił.
+
+Otrzymał pieczę nad ludźmi oraz nad zachodnią częścią kontynentu, obecnie znaną jako [[Ligort]], a także nad [[Wyspa Naruson|wyspą Naruson]], gdzie niegdyś wybudował olbrzymią cytadelę. W tej właśnie cytadeli, zwanej [[Cytadela Śmierci|Cytadelą Śmierci]], Pansus uwięził całą rasę ludzką, która sprzeciwiła się jego władzy, odmawiając służby bogom.
 
 ### Historia
 
@@ -10,12 +12,25 @@ Pansus otrzymał władzę nad ludźmi bezpośrednio od [[Kirgon|Kirgona]], co wy
 
 ### Wygląd i Symbolika
 
-Pansus, bóg żywiołu ziemi, przybiera postać kamiennego psa o ogromnej sile i majestacie. Jego ciało zbudowane jest z surowych, twardych kamieni, ale również korzeni drzew i innych naturalnych elementów, które wkomponowują się w jego formę. Świątynie Pansusa są głównie budowane pod ziemią, w jaskiniach lub w rozległych podziemnych kompleksach. Dominującym materiałem w tych budowlach jest kamień, który często jest ozdobiony szlachetnymi minerałami. Ściany i posadzki są zbudowane z solidnych bloków kamiennych, a wnętrza często zawierają misternie wykonane rzeźby i ornamenty związane z naturą, takie jak stylizowane korony drzew czy fragmenty gór.
+Pansus, bóg żywiołu ziemi, przybiera postać kamiennego psa o ogromnej sile i majestacie. Jego ciało zbudowane jest z surowych, twardych kamieni, ale również korzeni drzew i innych naturalnych elementów, które wkomponowują się w jego formę. 
+
+Świątynie Pansusa są głównie budowane pod ziemią, w jaskiniach lub w rozległych podziemnych kompleksach. Dominującym materiałem w tych budowlach jest kamień, który często jest ozdobiony szlachetnymi minerałami. 
+Ściany i posadzki są zbudowane z solidnych bloków kamiennych, a wnętrza często zawierają misternie wykonane rzeźby i ornamenty związane z naturą, takie jak stylizowane korony drzew czy fragmenty gór.
 
 ### Wyznawcy
 
-Pansus jest patronem złodziei, szpiegów, przemytników oraz osób działających w cieniu. Jego wyznawcy to osoby, które muszą polegać na sprycie, oszustwie i manipulacji w swoim codziennym życiu. Pansus jest także bóstwem osób, które operują w ukryciu. Jego wyznawcy często spotykają się w trudno dostępnych miejscach, gdzie mogą praktykować swoje rytuały w tajemnicy przed światem zewnętrznym.
+Pansus jest patronem osób, które muszą polegać na sprycie, oszustwie i manipulacji w swoim codziennym życiu. Pansus jest także bóstwem osób, które operują w ukryciu. Jego wyznawcy często spotykają się w trudno dostępnych miejscach, gdzie mogą praktykować swoje rytuały w tajemnicy przed światem zewnętrznym.
+
+Wśród jego wyznawców są:
+
+- złodzieje,  
+- szpiedzy,  
+- przemytnicy,  
+- górnicy,  
+- ludzie żyjący w cieniu.
 
 ### Rytuały
 
-Rytuały Pansusa najczęściej odbywają się w jego podziemnych świątyniach. Jego wyznawcy składają ofiary z cennych minerałów i kamieni, aby zapewnić sobie przychylność boga. Rytuały często obejmują zakopywanie symbolicznych przedmiotów w ziemi oraz praktyki mające na celu ochronę ich przed wykryciem.
+Rytuały Pansusa najczęściej odbywają się w jego podziemnych świątyniach. Jego wyznawcy składają ofiary z cennych minerałów i kamieni, aby zapewnić sobie przychylność boga. 
+
+Rytuały często obejmują zakopywanie symbolicznych przedmiotów w ziemi oraz praktyki mające na celu ochronę ich przed wykryciem.

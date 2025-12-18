@@ -28,7 +28,7 @@
 
 * Żeglarze z Ligortu, płynąc na zachód, odkrywają nowe lądy, które okazują się być zupełnie nieznanym kontynentem. Nowe odkrycia wzbudzają wielkie zainteresowanie i nadzieje na bogactwa oraz możliwości, jakie mogą przynieść nowe ziemie. Ekspedycje wyruszają, by zbadać te tereny, co prowadzi do powstania nowych osad i rozpoczęcia pierwszych kontaktów z lokalnymi, nieznanymi dotąd społecznościami.
 
-#### Otwarcie Wrót Wymiarów - Rok 969
+#### Otwarcie Wrót Wymiarów - Rok 989
 
 * Zaczęły napływać niepokojące doniesienia o pojawieniu się mrocznych stworzeń na północnym wschodzie Galithii. Wszelkie ślady wskazują na otwarcie [[Wrota Wymiarów|Wrót Wymiarów]] i powrót Kainera, co wywołuje panikę i mobilizację sił zbrojnych w całym regionie.
 

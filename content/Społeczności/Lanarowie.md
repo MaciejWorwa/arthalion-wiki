@@ -1,6 +1,6 @@
 #Nacja 
 
-![[Lanar.png|400]]
+![[Lanar_1.png|400]]
 
 **Lanarowie** to pradawna rasa, która z niejasnych przyczyn wymarła pod koniec [[I Era|I Ery]], w trakcie tzw. [[Wojna Smoków|Wojny Smoków]]. Ich wyginięcie jest owiane tajemnicą i przedmiotem licznych legend. Najpopularniejsza z nich mówi o ich całkowitej zagładzie w walce przeciwko [[Kainer|Kainerowi]] i jego mrocznym sługom. Lanarowie poświęcili się, aby powstrzymać armię Kainera, co przyczyniło się do ostatecznego zwycięstwa nad bogiem śmierci.
 

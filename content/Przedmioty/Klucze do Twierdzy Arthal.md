@@ -2,6 +2,9 @@
 
 **Klucze do Twierdzy Arthal** to pięć legendarnych artefaktów stworzonych przez boga [[Kirgon|Kirgona]]. Uważane są za najstarsze zachowane przedmioty boskiego pochodzenia w całym świecie. Cztery z nich pełnią obecnie rolę **insygniów władzy** poszczególnych państw, a piąty pozostaje jedną z największych tajemnic w dziejach świata.
 
+![[klucze.png|400]]
+Na grafice, od lewej do prawej, przedstawiono klucze Vinriego, Buaana, Orillana, Pansusa oraz Tigarusa.
+
 ## Historia powstania
 
 ### Stworzenie kluczy przez Kirgona

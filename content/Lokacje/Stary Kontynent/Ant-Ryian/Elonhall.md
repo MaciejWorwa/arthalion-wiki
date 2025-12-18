@@ -4,6 +4,8 @@
 **Mieszkańcy:** 100 000 (34% ludzie, 28% krasnoludy, 20% gnomy, 18% elfy) 
 **Władza:** [[Rada Złotych Pierścieni]], [[Eldric XIX]]
 **Gospodarka:** handel, rolnictwo, browarnictwo, hodowla bydła i owiec
+**Herb:**
+![[herb elonhall.png|200]]
 
 ![[mapa Elonhall z mostami.png|300]]
 

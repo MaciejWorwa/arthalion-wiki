@@ -44,3 +44,21 @@ Najczęstsze obrzędy:
 - wypalanie symboli na broni lub skórze,  
 - medytacje przy płomieniach.
 
+
+### Trzecie Oko Lanarów
+
+Według powszechnie przyjętych wierzeń, to Tigarus obdarzył lanarów trzecim okiem, czyniąc z nich swój wybrany lud i narzędzie boskiej woli. Dar ten nie był jednak bezwarunkowy — w zamian Tigarus zażądał bezwzględnej lojalności, posłuszeństwa oraz gotowości do wypełniania jego rozkazów bez wahania.
+
+Z tego powodu symbol oka do dziś funkcjonuje jako znak lojalności, posłuszeństwa i oddania — zarówno wobec Tigarusa, jak i wobec przełożonych czy przysięgi wojennej.
+
+### Słońce
+
+W powszechnej wierze słońce nazywane jest Okiem Tigarusa. Uważa się, że poprzez nie bóg obserwuje świat i osądza czyny istot rozumnych. Światło dnia traktowane jest jako bezpośredni przejaw boskiej obecności, a wszystko, co dzieje się pod otwartym niebem, odbywa się — według tej doktryny — w zasięgu boskiego spojrzenia.
+
+Z tego powodu ludzie bogobojni zachowują się inaczej w dzień niż w nocy. Dzień sprzyja modlitwie, dyscyplinie i publicznemu przestrzeganiu prawa, podczas gdy noc postrzegana jest jako czas, w którym Oko Tigarusa nie patrzy bezpośrednio na świat. Wśród prostego ludu powszechne jest przekonanie, że grzechy popełnione nocą nie ściągają natychmiastowej zemsty boga, choć kapłani Tigarusa potępiają takie myślenie jako niebezpieczne uproszczenie.
+
+### Twierdza Tigarusa
+
+Stare legendy głoszą, że Tigarus niegdyś zamieszkiwał na słońcu, gdzie wznosiła się jego boska twierdza. Miejsce to miało być centrum jego władzy nad światem śmiertelników, smokami oraz lanarami. Według tych podań, zanim Tigarus opuścił wymiar śmiertelników, rządził bezpośrednio z tej ognistej domeny.
+
+Po jego odejściu słońce nie przestało jednak pełnić swojej roli. W wierzeniach kapłanów i ludu przyjmuje się, że Tigarus nadal obserwuje świat poprzez słońce, choć nie ingeruje już w niego w sposób jawny. Boska twierdza miała zostać opuszczona, lecz samo Oko pozostało — wiecznie czuwające, milczące i nieubłagane.

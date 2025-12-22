@@ -10,6 +10,8 @@ Orillan, bóg żywiołu lodu, przybiera postać majestatycznego, lodowego orła.
 
 Świątynie Orillana znajdują się w surowych, górskich rejonach, często w pobliżu lodowców i górskich szczytów. Budowle te są zbudowane z lodu i kamienia, często z masywnymi, ozdobnymi rzeźbami zwierząt i elementów naturalnych, które odzwierciedlają jego majestat. Ich wnętrza są chłodne i przestronne, z dużymi oknami, które wpuszczają naturalne światło, oraz z elementami przypominającymi lodowe sople.
 
+![[symbol Orillana 1.png|150]]
+
 ### Wyznawcy
 
 Orillan jest patronem myśliwych, wędrowców, gór oraz hodowców, a także osób zmagających się z trudnymi warunkami naturalnymi. 

@@ -4,6 +4,9 @@
 
 **Kirgon** to postać centralna w religii [[Stary Kontynent|Starego Kontynentu]]. Jest on uznawany za pierwotny byt, stwórcę tego świata i wszelkich istot zamieszkujących jego krainy. W wierzeniach wielu ras, Kirgon jest uważany za pierwszego i najpotężniejszego z bogów, którego dzieło obejmuje stworzenie wszystkiego, co istnieje.
 
+Symbol Kirgona:
+![[symbol Kirgona 1.png|150]]
+
 ###  Stworzenie Świata i Bogów
 
 Według legend, Kirgon rozpoczął swoje dzieło od stworzenia świata, formując kontynenty, wody, góry i inne elementy krajobrazu. Po uformowaniu świata i stworzeniu istot, które go zamieszkiwały, Kirgon zrozumiał, że potrzebuje pomocników do zarządzania tym rozległym, skomplikowanym uniwersum. Dlatego powołał do życia pięciu bogów, zrodzonych z mocy żywiołów, aby wspomagali go w rządzeniu i sprawowaniu opieki nad światem, który stworzył.
@@ -26,3 +29,9 @@ Jednak Pansus, działając z ukrycia, wraz z pomocą ludzi uwolnił Kainera. Wkr
 Kirgon zamieszkiwał legendarną twierdzę znaną jako [[Twierdza Arthal|Arthal]], której istnienie jest owiane tajemnicą. Niewiele jest wiadomo o jej rzeczywistej lokalizacji czy wyglądzie, co sprawia, że Arthal stała się przedmiotem licznych spekulacji. Niektórzy wierzą, że Arthal rzeczywiście istniała i była miejscem, z którego Kirgon zarządzał swoim światem. Inni traktują ją jedynie jako mit.
 
 Mówi się, że odnalezienie twierdzy Arthal może zwiastować ponowne wskrzeszenie duszy Kirgona, który zjednoczy pozostałych bogów przeciwko Kainerowi, by pokonać zło raz na zawsze.
+
+### Wymiar Snów
+
+Podczas kształtowania świata Kirgon stworzył również [[Wymiar Snów]], jednak istnienie tej sfery zataił przed innymi bogami, nie ujawniając jej miejsca ani praw, którymi się rządzi. 
+
+Choć powszechnie uważa się, że Kirgon zginął całkowicie z ręki Kainera, prawda jest bardziej złożona. Część istoty Kirgona — fragment jego świadomości lub boskiej esencji — nie została unicestwiona, lecz została przeniesiona do Wymiaru Snów. Tam trwa w stanie zawieszenia, poza czasem i historią, być może śniąc… a być może czekając.

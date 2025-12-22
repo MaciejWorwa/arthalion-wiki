@@ -16,6 +16,7 @@ Tigarus, bóg żywiołu ognia, przybiera postać płonącego tygrysa, którego g
 
 Jego świątynie są często umiejscowione w miejscach o dużym ryzyku, takich jak regiony w pobliżu wulkanów czy miejsca, gdzie żywioł ognia przejawia się najpełniej. Często są to struktury zbudowane z czerwonego kamienia, z wewnętrznymi komnatami pełnymi płonących motywów i symboli, a także świec lub ognisk, które nigdy nie gasną.
 
+![[symbol Tigarusa 1.png|150]]
 ### Wyznawcy
 
 Tigarus jest szczególnie czczony przez wojowników oraz osoby kierujące się zemstą. Wśród ludzi wyznawcy Tigarusa często prowadzą tryb życia ascetów, starając się odpokutować za grzechy swojej rasy z początków świata.
@@ -53,12 +54,10 @@ Z tego powodu symbol oka do dziś funkcjonuje jako znak lojalności, posłuszeń
 
 ### Słońce
 
-W powszechnej wierze słońce nazywane jest Okiem Tigarusa. Uważa się, że poprzez nie bóg obserwuje świat i osądza czyny istot rozumnych. Światło dnia traktowane jest jako bezpośredni przejaw boskiej obecności, a wszystko, co dzieje się pod otwartym niebem, odbywa się — według tej doktryny — w zasięgu boskiego spojrzenia.
+W powszechnej wierze słońce nazywane jest **Okiem Tigarusa**. Uważa się, że poprzez nie bóg obserwuje świat i osądza czyny istot rozumnych. Światło dnia traktowane jest jako bezpośredni przejaw boskiej obecności, a wszystko, co dzieje się pod otwartym niebem, odbywa się — według tej doktryny — w zasięgu boskiego spojrzenia.
 
 Z tego powodu ludzie bogobojni zachowują się inaczej w dzień niż w nocy. Dzień sprzyja modlitwie, dyscyplinie i publicznemu przestrzeganiu prawa, podczas gdy noc postrzegana jest jako czas, w którym Oko Tigarusa nie patrzy bezpośrednio na świat. Wśród prostego ludu powszechne jest przekonanie, że grzechy popełnione nocą nie ściągają natychmiastowej zemsty boga, choć kapłani Tigarusa potępiają takie myślenie jako niebezpieczne uproszczenie.
 
-### Twierdza Tigarusa
+Tigarus zamieszkał na słońcu dopiero po opuszczeniu Wymiaru Śmiertelników, w końcowej fazie [[Wojna Smoków|Wojny Smoków]].  Od tamtego czasu słońce stało się jego domeną.
 
-Stare legendy głoszą, że Tigarus niegdyś zamieszkiwał na słońcu, gdzie wznosiła się jego boska twierdza. Miejsce to miało być centrum jego władzy nad światem śmiertelników, smokami oraz lanarami. Według tych podań, zanim Tigarus opuścił wymiar śmiertelników, rządził bezpośrednio z tej ognistej domeny.
 
-Po jego odejściu słońce nie przestało jednak pełnić swojej roli. W wierzeniach kapłanów i ludu przyjmuje się, że Tigarus nadal obserwuje świat poprzez słońce, choć nie ingeruje już w niego w sposób jawny. Boska twierdza miała zostać opuszczona, lecz samo Oko pozostało — wiecznie czuwające, milczące i nieubłagane.

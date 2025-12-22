@@ -21,6 +21,7 @@ Miasto pełni funkcję **centrum politycznego, handlowego i religijnego** króle
 - Pod twierdzą znajduje się **Wielka Krypta** – największa świątynia [[Pansus|Pansusa]] na całym Starym Kontynencie.
     - To rozległy podziemny kompleks, dostępny wyłącznie dla kapłanów oraz nielicznych dostojników wybranych przez króla.
     - Wnętrza świątyni przypominają naturalne groty: ciężkie, kamienne filary oświetlone płomieniami lamp oliwnych wspierają nieregularny strop.
+    - W samym sercu Krypty wznosi się monumentalna rzeźba [[Złota Wierzba|Złotej Wierzby]], wykuta z prawdziwego złota.  Jest ona symbolicznym odwzorowaniem pradawnego drzewa Pansusa, które niegdyś rosło w miejscu dzisiejszego miasta.  Rzeźba przedstawia potężny pień, splątane korzenie wnikające w kamień oraz zwisające gałęzie pozbawione liści — znak odejścia boga i utraty jego bezpośredniej obecności w świecie. Według kapłanów część złota użytego do wykonania rzeźby pochodzi z liści prawdziwej Złotej Wierzby, zebranych przed jej ostatecznym obumarciem.
     - Wejście do krypty strzeżone jest dniem i nocą przez gwardię królewskich paladynów.
 - Nieopodal świątyni znajduje się **Kwatera Paladynów** – elitarnej gwardii królewskiej.
     - To zakon paladynów, których zadaniem jest ochrona władcy i obrona boskich sanktuariów.

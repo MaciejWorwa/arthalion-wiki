@@ -17,6 +17,8 @@ Pansus, bóg żywiołu ziemi, przybiera postać kamiennego psa o ogromnej sile i
 Świątynie Pansusa są głównie budowane pod ziemią, w jaskiniach lub w rozległych podziemnych kompleksach. Dominującym materiałem w tych budowlach jest kamień, który często jest ozdobiony szlachetnymi minerałami. 
 Ściany i posadzki są zbudowane z solidnych bloków kamiennych, a wnętrza często zawierają misternie wykonane rzeźby i ornamenty związane z naturą, takie jak stylizowane korony drzew czy fragmenty gór.
 
+![[symbol Pansusa 1.png|150]]
+
 ### Wyznawcy
 
 Pansus jest patronem osób, które muszą polegać na sprycie, oszustwie i manipulacji w swoim codziennym życiu. Pansus jest także bóstwem osób, które operują w ukryciu. Jego wyznawcy często spotykają się w trudno dostępnych miejscach, gdzie mogą praktykować swoje rytuały w tajemnicy przed światem zewnętrznym.

@@ -1,27 +1,83 @@
 #Nacja 
 
-**Krasnoludy ze Szczeliny** to wyjątkowa społeczność krasnoludów, które zamieszkują jeden z najbardziej niezwykłych terenów w całym znanym świecie – gigantyczny kanion zwany [[Przełom Gniewu|Przełomem Gniewu]], choć w codziennym języku nazywany jest po prostu Szczeliną. Krasnoludy te, zwane potocznie **"Szczelinowcami"**, przystosowały się do życia w tym niezwykle trudnym środowisku, budując swoje miasta na stromych ścianach kanionu i adaptując się do otaczających je lasów. Tym samym utworzyły one własne suwerenne państwo, uznawane za odrębne od Ligortu i Ant-Ryianu, i nie podlegają pod jurysdykcję żadnego z nich.
+**Krasnoludy ze Szczeliny** (w mowie potocznej: **Szczelinowcy**, w języku kontynentalnym: Brog-Khar) to unikalna społeczność krasnoludów zamieszkująca pionowe ściany [[Przełom Gniewu|Przełomu Gniewu]]. W odróżnieniu od swoich kuzynów z głębokich gór, Szczelinowcy porzucili izolację w zamkniętych tunelach na rzecz życia w otwartej przestrzeni, zawieszeni nad kilometrową przepaścią. Są suwerennym społeczeństwem słynącym z inżynierii i metalurgii.
 
-#### Historia
+## 1. Fizjologia i Mentalność
 
-Początki Krasnoludów ze Szczeliny sięgają czasów, gdy ich przodkowie, poszukiwacze schronienia i surowców, natrafili na Przełom Gniewu. Oczarowani niepowtarzalnym krajobrazem oraz obfitością minerałów ukrytych w ścianach kanionu, postanowili osiedlić się w tym miejscu na stałe. Przełom Gniewu, mimo swojej groźnej natury, stał się domem dla społeczności, która przez wieki zdołała stworzyć z niego bezpieczne i prosperujące miejsce do życia.
+Ewolucja i setki lat życia na krawędzi przepaści wpłynęły na fizjonomię Szczelinowców. Są oni nieco niżsi i lżejsi od krasnoludów górskich, ale posiadają nieproporcjonalnie silne ramiona i chwytne dłonie, przystosowane do wspinaczki.
 
-Legendy głoszą, że pierwsze krasnoludzkie osady powstawały w ukrytych grotach kanionu, gdzie mieszkańcy mogli chronić się przed niebezpieczeństwem. Z biegiem czasu osady te przekształciły się w imponujące miasta, które dziś zdobią strome ściany kanionu niczym kamienne twierdze, doskonale wtapiając się w otoczenie.
+- **Brak lęku wysokości:** Szczelinowcy rodzą się bez instynktownego lęku przed spadaniem. Dla nich otwarta przestrzeń pod stopami jest naturalnym środowiskiem.
+- **Wzrok:** Ich oczy przystosowały się do gwałtownych zmian oświetlenia – od mroku panującego w cieniu klifów po oślepiający blask odbijany przez system luster. Często noszą charakterystyczne gogle z przyciemnianego szkła wulkanicznego.
+- **Mentalność:** Są pragmatyczni i obsesyjnie dbają o jakość konstrukcji. W ich kulturze "zrobić coś byle jak" to nie tylko lenistwo, to próba zabójstwa (gdyż słaby nit w moście może zabić całą grupę).
 
-W miarę upływu lat, Przełom Gniewu stał się ważnym centrum handlowym i rzemieślniczym. Umiejętności krasnoludów w obróbce kamienia i metalu oraz położenie w trudno dostępnym kanionie pozwoliły im na rozwój i bogacenie się, co umożliwiło im utrzymanie suwerenności i niezależności.
+## 2. Społeczeństwo
 
-Obecnie krasnoludy ze Szczeliny pozostają jednym z najbardziej niezależnych społeczeństw na Starym Kontynencie. Są aktywne w handlu i dyplomacji, utrzymując silne więzi z innymi rasami i krainami.
+Struktura społeczna Szczelinowców jest dosłownie odzwierciedleniem ich miejsca zamieszkania na ścianach kanionu. Pozycja społeczna zależy od "poziomu", na którym żyjesz.
 
-#### Architektura
+### Korona (elita handlowa, wojsko i zwiadowcy)
 
-Architektura Krasnoludów ze Szczeliny jest niezwykle charakterystyczna i ściśle związana z surowym środowiskiem, w którym żyją. Ich miasta zostały wykute bezpośrednio w skałach kanionu, a domy, świątynie i hale są zbudowane na półkach skalnych, wiszących nad przepaściami. Mosty z kamienia i żelaza łączą poszczególne części miast, tworząc skomplikowaną sieć połączeń, które tylko krasnoludy potrafią bezpiecznie przebyć.
+Krasnoludy żyjące na szczycie klifów i w lasach otaczających Przełom. Zajmują się handlem z [[Ligort|Ligortem]] i [[Ant-Ryian|Ant-Ryianem]], pobieraniem ceł oraz hodowlą zwierząt. Są najbardziej otwarci na obcych.
 
-Budynki krasnoludzkie są masywne i solidne, z grubymi ścianami i małymi oknami, które chronią przed chłodem, wiatrem oraz deszczem. Zdobienia architektoniczne często przedstawiają motywy związane z ogniem, lawą i gniewem Tigarusa, odzwierciedlając zarówno historię powstania kanionu, jak i szacunek dla potężnego boga ognia.
+### Żebra (rzemieślnicy i inżynierowie)
 
-Wnętrza budynków są przestronne, z wysokimi sufitami wspieranymi na masywnych kolumnach. Krasnoludy przykładają ogromną wagę do detali, dlatego każde pomieszczenie jest ozdobione rzeźbami, gobelinami i metalowymi ornamentami, które opowiadają historię ich ludu oraz legendy o Przełomie Gniewu.
+Serce narodu. Mieszkańcy wiszących miast. Tutaj żyją **Budowniczy Mostów** – elitarna kasta inżynierów, którzy cieszą się najwyższym szacunkiem. To oni decydują o rozbudowie miasta i konserwacji **Pajęczyny** (systemu mostów).
 
-#### Kultura i Społeczeństwo
+### Dno (górnicy i skazańcy)
 
-Kultura Krasnoludów ze Szczeliny jest głęboko zakorzeniona w ich środowisku i historii. Jako potomkowie górników i kowali, Szczelinowcy są mistrzami w obróbce kamienia i metalu. Wytwarzają jedne z najlepszych zbroi i broni, a także narzędzia i przedmioty codziennego użytku, które cieszą się ogromnym uznaniem wśród innych ras.
+Najniższa warstwa społeczna, pracująca w trujących oparach na dnie Przełomu. Wydobywają rzadkie minerały z zastygłej boskiej lawy. Często są to skazańcy lub osoby, które się zhańbiły.
 
-Otoczenie kanionu to bujne lasy, w których krasnoludy również odnalazły swoje miejsce. Polują one na dziki, niedźwiedzie i inne leśne stworzenia, które wykorzystują jako wierzchowce oraz pomocników w codziennych pracach.
+## 3. Architektura i technologia
+
+Miasta Szczelinowców nie stoją na ziemi – one "trzymają się" skał. Budynki są wkuwane w pionowe ściany lub wieszane na potężnych łańcuchach i stalowych belkach.
+
+### System Zwierciadeł (Heliografy)
+
+Największym osiągnięciem technologicznym Szczelinowców jest opanowanie światła. Ponieważ słońce rzadko zagląda w głąb wąskiego kanionu, krasnoludy stworzyły system gigantycznych luster na krawędziach, które przesyłają promienie słoneczne w dół.
+
+- **Hutnictwo Świetlne:** Szczelinowcy nie używają tylko węgla. Ich najlepsze kuźnie wykorzystują skoncentrowane wiązki światła słonecznego (odbitego przez setki luster), by osiągnąć temperatury niemożliwe dla zwykłych palenisk. Stal hartowana w ten sposób nazywana jest **"Solarytem"**.
+
+#### Heliurgowie
+
+**Heliurg** to mistrz heliurgiki – inżynierii luster. Heliurdzy mają rangę porównywalną z Budowniczymi Mostów i często zasiadają w radach miasta,
+
+Odpowiada za:
+- projektowanie całych układów zwierciadeł,
+- wyliczanie kątów padania światła,
+- korekty wraz ze zmianą pozycji słońca w ciągu roku.
+
+### Mosty
+
+Dla Szczelinowca most to coś więcej niż droga – to symbol życia. Ich mosty są modułowe; w razie ataku wroga inżynierowie mogą zwolnić blokady i zrzucić całe sekcje mostu w przepaść w ciągu kilku sekund, odcinając najeźdźcę.
+
+## 4. Kultura i religia
+
+Szczelinowcy czczą [[Tigarus|Tigarusa]], ale interpretują go inaczej niż ludzie. Nie jest on dla nich tylko bogiem ognia i zemsty, ale tym, który otworzył ziemię, by ukazać jej skarby.
+
+- **Kult Oka:** Szczelinowcy wierzą, że Słońce to fizyczna manifestacja spojrzenia Tigarusa. Rzemiosło wykonywane w skupionych wiązkach luster traktowane jest jak nabożeństwo – dowód kunsztu składany bezpośrednio przed obliczem boga. Noc, jako czas poza zasięgiem jego wzroku, uchodzi za „Czas Ślepoty”. Wtedy często praca ustaje, gdyż to, czego nie widzi bóg, jest pozbawione błogosławieństwa.
+
+- **Obrzędy:**
+
+    - **Próba Dojrzałości:** Młody krasnolud wchodzi w dorosłość, gdy samodzielnie przejdzie po nieukończonym przęśle mostu bez zabezpieczenia.
+    - **Łapanie Spojrzenia:** W samo południe, gdy słońce świeci pionowo w dół kanionu bez pomocy luster cała populacja wychodzi na balkony i mosty, by chłonąć "bezpośrednie spojrzenie" swojego boga. Praca i inne obowiązki są wtedy wstrzymywane.
+
+## 5. Militaria
+
+Armia Szczelinowców nie jest bardzo liczna, ale niezwykle wyspecjalizowana w walce w trudnym terenie.
+
+- **Strażnicy Krawędzi:** Jeźdźcy dosiadający **Skalnych Niedźwiedzi** – masywnych bestii potrafiących wspinać się po niemal pionowych ścianach dzięki potężnym pazurom.
+
+![[Strażnik Krawędzi.png|300]]
+
+- **Piechota Mostowa:** Żołnierze uzbrojeni w długie piki z hakami (do zrzucania wrogów w przepaść) oraz tarcze wypolerowane na lustro, które służą do oślepiania przeciwnika lub przesyłania sygnałów świetlnych.
+- **Taktyka:** Szczelinowcy nigdy nie walczą na otwartym polu. Wciągają wroga na mosty, a następnie albo zrzucają go w przepaść, albo palą skoncentrowanymi wiązkami luster bojowych.
+
+## 6. Stosunki z sąsiadami
+
+Szczelinowcy utrzymują chłodną neutralność.
+
+- **Wobec [[Ligort|Ligortu]]:** Sprzedają im broń i rudę, ale gardzą ich feudalną strukturą. Uważają rycerzy Ligortu za "ciężkich i niezdarnych".
+- **Wobec [[Ant-Ryian|Ant-Ryianu]]:** Handlują, ale z dużą ostrożnością. Kulturowy tygiel oraz nieokiełznana, dzika natura sąsiadów stoją w sprzeczności z krasnoludzkim umiłowaniem porządku i hierarchii.
+
+
+> **Cytat z kroniki:**  
+> "Mówią, że krasnoludy kochają ziemię. To kłamstwo. Szczelinowcy kochają pustkę między skałami. Tylko tam czują się wolni, wisząc na nici pajęczyny, patrząc w dół na śmierć i w górę na boga." – Albrek Złotooki, ambasador Ligortu.

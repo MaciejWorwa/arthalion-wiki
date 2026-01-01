@@ -1,5 +1,7 @@
 #Miejsce
 
+![[Kentrahs.png|500]]
+
 **Położenie:** północny-zachód [[Mardania|Mardanii]], nad rzeką [[Kentra|Kentrą]]
 **Populacja:** 115 000 (elfy 53%, ludzie 31%, półelfy 12%, gnomy 4%)
 **Władza:** Król [[Keldaros]]

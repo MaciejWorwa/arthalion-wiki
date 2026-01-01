@@ -1,5 +1,7 @@
 #Przedmiot 
 
+![[Czerwona Stal.png|300]]
+
 **Czerwona Stal** to unikalny stop metalu wytwarzany przez krasnoludy z [[Durvan|Durvanu]]. Jest jednym z najbardziej cenionych i rozpoznawalnych surowców całego [[Stary Kontynent|Starego Kontynentu]], stanowiąc zarówno podstawę potęgi militarnej, jak i źródło bogactwa krasnoludzkich twierdz.
 
 ## Charakterystyka

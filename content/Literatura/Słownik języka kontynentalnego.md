@@ -6,8 +6,10 @@
 - **ana** - bóg
 - **ankan** - pole, łąka
 - **ant** - wielki, duży
+- **arge** - pająk
 - **ark** - mgła
 - **art** - serce
+- **ash** - cichy, cisza
 - **atel** - dom
 - **ather** - mądrość, rozsądek
 
@@ -34,6 +36,7 @@
 - **dath** - piasek, pył
 - **dil** - wieś
 - **dorn** - miasto
+- **drak** - smok
 - **dren** - drzewo
 - **drennar** - las
 - **drim** - mamut
@@ -42,6 +45,7 @@
 ### E
 
 - **elon -** handel
+- **ent** - wisieć
 - **es** - być, jest
 - **estra** - wiara
 - **evan** - życie
@@ -95,6 +99,7 @@
 - **kazal** - wulkan
 - **kelda** - pokój, zgoda
 - **kentra** - nadzieja
+- **khar** - kanion, szczelina
 - **kir** - król, władca
 - **krag** - wojna
 
@@ -102,6 +107,7 @@
 
 - **lach** - żelazo
 - **lan** - lód
+- **lei** - klucz
 - **lien** - żal, smutek
 - **lun** - księżyc
 
@@ -117,6 +123,7 @@
 - **naru** - wyspa
 - **ner** - wstać, obudzić się
 - **nil** - południe
+- **nos** - miecz
 - **nu** - nie
 - **nu-estra** - bezbożnik, heretyk
 - **nawa** - prawda
@@ -138,7 +145,7 @@
 ### R
 
 - **rei** - gniew, złość
-- **ren** - brama
+- **ren** - brama, drzwi
 - **ri** - byk
 - **ros** - dziecko
 - **ryian** - step
@@ -186,7 +193,7 @@
 
 ### X
 
-- **xanar** – topór
+- **xan** – topór
 - **xat** – trucizna
 - **xim** – gnom
 - **xul** - kamień, skała

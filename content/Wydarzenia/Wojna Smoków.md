@@ -14,7 +14,7 @@ Wojna ta była brutalna i wyniszczająca. Kainer, wykorzystując swoje mroczne s
 
 W końcowej fazie wojny bogowie zrozumieli, że walka z Kainerem w jednym wymiarze sprowadziłaby zagładę na cały świat. Dlatego wspólnie użyli magii, by otworzyć drogę do nowo ukształtowanych wymiarów i tam przenieść część bitew.
 
-W tych nieopisanych krainach bogowie ostatecznie pokonali Kainera i wypchnęli go do nowo utworzonego **Wymiaru Umarłych**.
+W tych nieopisanych krainach bogowie ostatecznie pokonali Kainera i wypchnęli go do nowo utworzonego [[Wymiar Umarłych|Wymiaru Umarłych]].
 
 Lanarowie, którzy walczyli na ziemi, zapłacili najwyższą cenę — ich rasa została unicestwiona w starciach z resztkami armii Kainera.
 

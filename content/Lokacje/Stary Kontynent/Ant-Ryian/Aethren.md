@@ -1,8 +1,6 @@
 #Miejsce 
 
-DO UZUPEŁNIENIA
-
-![[Aethren.png|300]]
+![[Aethren nowe kwadrat.png|400]]
 
 **Położenie:** wschodni [[Ant-Ryian]], wysokie pasma górskie w [[Wichrowe Grzbiety|Wichrowych Grzbietach]], nad rzeką [[Athera|Atherą]]
 **Mieszkańcy:** 28 000 (92% elfy, 5% gnomy, 3% ludzie) 
@@ -31,6 +29,7 @@ Wnętrze świątyni jest otwarte na przeciągi; nie ma tu drzwi w tradycyjnym se
 - miejsca inicjacji kapłanów i magów,
 - archiwum 
 
+![[Iglica Burz.png|300]]
 ## Historia
 
 Według niektórych przekazów Aethren nie zostało zbudowane przez elfy, lecz przez [[Lanarowie|lanarów]].  
@@ -55,7 +54,7 @@ Miasto jest znane z chłodnego, zdystansowanego podejścia do obcych – przybys
 
 ## Znaczenie i reputacja
 
-W innych rzęściach [[Stary Kontynent|Starego Kontynentu]] Aethren postrzegane jest jako:
+W innych częściach [[Stary Kontynent|Starego Kontynentu]] Aethren postrzegane jest jako:
 
 - miejsce potężnej, lecz niebezpiecznej wiedzy,
 - duchowe centrum kultu Buaana,

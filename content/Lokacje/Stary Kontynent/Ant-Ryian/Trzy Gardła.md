@@ -1,5 +1,7 @@
 #Miejsce 
 
+![[Trzy Gardła.png|300]]
+
 **Region:** południowo-zachodni [[Ant-Ryian]], w pobliżu miasta [[Kazalfell]]
 **Typ terenu:** okresowo aktywny wulkan z trzema kraterami
 
@@ -20,7 +22,7 @@ Wokół rozciągają się pola lawowe, zastygłe potoki czarnego szkliwa i dolin
 Pomimo zagrożenia wulkan jest źródłem bogactwa:
 
 - **Bazalt i obsydian** – kamień ceniony w budownictwie i rzemiośle.
-- **Metale i minerały** – złoto, miedź, rudy żelaza oraz rzadkie kryształy wydobywane ze zboczy i zastygłych pól lawy.
+- **Metale i minerały** – złoto, miedź, siarka, rudy żelaza oraz rzadkie kryształy wydobywane ze zboczy i zastygłych pól lawy.
 - **Żyzna gleba** – popioły wulkaniczne użyźniają doliny, dzięki czemu możliwa jest uprawa zbóż i winorośli.
 
 ## Krajobraz i okolica

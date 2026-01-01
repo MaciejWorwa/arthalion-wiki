@@ -1,12 +1,13 @@
 #Postać 
 
 **Rasa:** Człowiek z plemienia [[Murahini|Murahinów]]
-**Pochodzenie:** stepu u podnóża [[Orle Góry|Orlich Gór]], [[Ant-Ryian]]  
+**Pochodzenie:** step u podnóża [[Orle Góry|Orlich Gór]], [[Ant-Ryian]]  
 **Wiek:** zmarł w 531 roku III Ery
+
+![[Urran o Tysiącu Oczu.png|300]]
 
 Urran był przywódcą Murahinów, których elitarne oddziały – **Pajęczy Synowie** – dosiadały **bojowych pająków** i atakowały nocą. Po latach najazdów zdobył [[Elonhall]] (490 rok III Ery) i przekształcił je w stolicę plemiennego imperium. Nie ograniczył się do łupów: osiedlił swoich ludzi w mieście, zniewolił mieszkańców, a metropolię zamienił w ogromny obóz wojskowy.
 
-![[urran o tysiącu oczu 3 1.jpg|300]]
 ## Dziedzictwo
 
 Panowanie Urrana storpedowało struktury królestwa Ant-Ryianu: **linia królewska wygasła** w pierwszych latach podboju. Dziedzictwo władcy podtrzymywali jego potomkowie, którzy podzielili między siebie Elonhall, co doprowadziło do bratobójczej wojny o schedę. To właśnie konflikt wnuków Urrana (Draena, Huura i Selaka) rozbił aparat okupacyjny – i umożliwił zwycięstwo [[Powstanie Czarnej Gwiazdy|Powstania Czarnej Gwiazdy]] (613 rok III Ery).

@@ -1,1 +1,0 @@
-Król Ligortu za czasu Równych Żywiołom. Więc info w [[Legenda o Równych Żywiołom]]

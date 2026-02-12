@@ -1,6 +1,6 @@
 #Bóg 
 
-![[Orillan.jpg|400]]
+![[Orillan.png|400]]
 
 **Orillan** – bóg żywiołu lodu, Strażnik Natury i Pan Zwierząt. Jest uosobieniem zimna, cyklu życia i równowagi, w której każdy gatunek ma swoje miejsce. Orillan sprzyja wszystkim, którzy żyją w zgodzie z naturą. Wpływu kultu Orillana są największe w środkowej części kontynentu, obejmując północny [[Ant-Ryian]] oraz południowo-wschodnią część [[Ligort|Ligortu]].
 

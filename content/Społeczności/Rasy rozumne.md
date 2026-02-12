@@ -67,7 +67,7 @@ Ludzie są najbardziej zróżnicowaną rasą Arthalionu — zdolni do wielkich c
 
 Krasnoludy to rasa krępa, muskularna i niezwykle wytrzymała. Ich ciała są przystosowane do życia w górach i pod ziemią, gdzie gęste powietrze i brak światła nie stanowią problemu. Krasnoludy dojrzewają wolniej niż ludzie, ale starzeją się też powoli. Krasnoludy słyną w kowalstwa i górnictwa, a także niezwykłej dumy i honoru.
 
-## [[Morgasi]]
+## [[Morgrasi]]
 
 **Średnia długość życia:** 60–80 lat  
 **Wiek dojrzałości:** ok. 15 lat
@@ -100,4 +100,12 @@ Nie mieli królestw ani struktur, żyli w izolacji i małych grupach. Po ich zag
 Dzieci dwóch światów — elfa i człowieka — półelfy nigdzie nie czują się w pełni u siebie.
 Zyskują jednak to, czego brakuje obu rasom — zdolność rozumienia różnych perspektyw. Potrafią dostrzegać niuanse, unikać skrajności i oceniać świat z dystansem. Wielu półelfów zostaje wędrowcami, najemnikami, uczonymi lub dyplomatami — nie z powołania, lecz z potrzeby ciągłego poszukiwania miejsca, które mogliby nazwać domem.
 
+## [[Xit'lanie]]
+
+**Średnia długość życia:** 8–11 lat  
+**Wiek dojrzałości:** 1 rok
+**Wzrost:** mężczyźni 155–165 cm, kobiety 180–195 cm  
+**Waga:** mężczyźni 35–45 kg, kobiety 50–65 kg
+
+Xit'lanie to insektoidalna, wysoce zorganizowana rasa z Nowego Kontynentu, żyjąca w strukturach roju. Posiadają chitynowe pancerze, cztery kończyny kroczne oraz skrzydła, a ich krótki cykl życia rekompensowany jest przez pamięć genetyczną, pozwalającą dziedziczyć umiejętności przodków. Ich społeczeństwo to bezwzględny matriarchat teokratyczny, w którym jednostka jest niczym, a Rój wszystkim. Choć prowadzą nocny tryb życia, fanatycznie czczą Słońce, składając mu ofiary z własnego życia w zamian za przetrwanie królowej.
 

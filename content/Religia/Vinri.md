@@ -1,6 +1,6 @@
 #Bóg 
 
-![[Vinri 2.png|400]]
+![[Vinri.png|400]]
 
 **Vinri** – bóg żywiołu wody, Pan Głębin. Przedstawiany jako pół byk-pół ryba, o potężnym byczym torsie i rybim ogonie. Patron mądrości, prawa, oceanu i cierpliwej potęgi natury. W mitach jest spokojny, ale nieprzenikniony — jak morze przed burzą. Kirgon powierzył mu opiekę nad północno-wschodnią częścią kontynentu, czyli dzisiejszą Galithią, oraz wszystkimi morzami, oceanami, rzekami i jeziorami.
 

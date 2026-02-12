@@ -1,6 +1,6 @@
 #Bóg 
 
-![[Kirgon_1.png|300]]
+![[Kirgon nowy2.png|400]]
 
 **Kirgon** to postać centralna w religii [[Stary Kontynent|Starego Kontynentu]]. Jest on uznawany za pierwotny byt, stwórcę tego świata i wszelkich istot zamieszkujących jego krainy. W wierzeniach wielu ras, Kirgon jest uważany za pierwszego i najpotężniejszego z bogów, którego dzieło obejmuje stworzenie wszystkiego, co istnieje.
 

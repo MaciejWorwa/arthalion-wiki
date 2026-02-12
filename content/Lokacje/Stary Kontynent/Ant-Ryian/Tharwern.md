@@ -1,7 +1,7 @@
 #Miejsce 
 
 
-**Położenie:** [[Ant-Ryian]], przy północnej granicy z [[Mardania|Mardanią]], między [[Smocze Lasy|Smoczymi Lasami]] a [[Orle Góry|Orlimy Górami]]
+**Położenie:** [[Ant-Ryian]], przy północnej granicy z [[Mardania|Mardanią]], między [[Smocze Lasy|Smoczymi Lasami]] a [[Orle Góry|Orlimi Górami]]
 **Mieszkańcy:** ok. 13 000 (87% leśne elfy, 9% gnomy, 5% ludzie)
 **Władza:**
 **Gospodarka:** wydobycie żelaza i srebra, handel

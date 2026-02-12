@@ -1,6 +1,6 @@
 #Roślina 
 
-![[Złota Wierzba.png|500]]
+![[Złota Wierzba nowa.png|400]]
 
 **Złota Wierzba** była pradawnym, boskim drzewem związanym z [[Pansus|Pansusem]], bogiem ziemi, oszustwa, sprytu i tajemnicy. W tradycji religijnej uchodzi za najważniejszy materialny symbol Pansusa, a zarazem największe drzewo, jakie kiedykolwiek istniało.
 

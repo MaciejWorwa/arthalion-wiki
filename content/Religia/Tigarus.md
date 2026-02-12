@@ -1,6 +1,6 @@
 #Bóg 
 
-![[Tigarus.jpg|300]]
+![[Tigarus 1.png|400]]
 
 **Tigarus** – bóg żywiołu ognia. [[Kirgon]] powierzył mu opiekę nad [[Lanarowie|Lanarami]] i smokami oraz nad południowo-wschodnią częścią kontynentu, znaną dziś jako [[Mardania]]. Tigarus miał czuwać nad tym, by moc Lanarów i smoków była używana mądrze, a ich potęga nie obróciła się przeciwko światu.
 
@@ -10,6 +10,7 @@ Tigarus uosabia niszczycielską pasję, ale też odnowę przez płomień. Jest p
 
 Po śmierci Kirgona, Tigarus wpadł w szał, zesyłając na świat ogromną rzekę lawy, która miała zniszczyć ludzką rasę. Ten kataklizm został jednak powstrzymany przez Pansusa, a w miejscu, gdzie lawa miała pochłonąć wszystko, powstał ciągnący się na wiele kilometrów kanion zwany [[Przełom Gniewu|Przełomem Gniewu]].
 
+![[Tigarus.jpg|300]]
 ### Wygląd i Symbolika
 
 Tigarus, bóg żywiołu ognia, przybiera postać płonącego tygrysa, którego grzbiet lśni w ogniu, a jego oczy żarzą się jak rozżarzone węgle. Jego forma emanuje nieokiełznaną mocą i dziką energią, co odzwierciedla jego rolę jako patrona ognia, zemsty i wojny.
@@ -44,7 +45,6 @@ Najczęstsze obrzędy:
 - rytualne walki,  
 - wypalanie symboli na broni lub skórze,  
 - medytacje przy płomieniach.
-
 
 ### Trzecie Oko Lanarów
 

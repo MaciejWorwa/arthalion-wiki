@@ -1,6 +1,6 @@
 #Nacja 
 
-![[Strażnik Wydm.webp|300]]
+![[Strażnik Wydm.png|300]]
 
 **Strażnicy Wydm** to elitarna kasta wojowników wśród [[Pustynne Elfy|Pustynnych Elfów]], zamieszkujących surowe tereny [[Barin-Amal]], czyli największej pustyni w [[Ant-Ryian|Ant-Ryianie]]. Strażnicy Wydm są symbolem doskonałości bojowej oraz strażnikami honoru i tradycji swojego ludu, których zadaniem jest ochrona elfickich społeczności, jak i pielęgnowanie oraz przekazywanie wiedzy o sztuce przetrwania na pustyni.
 

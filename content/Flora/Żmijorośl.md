@@ -1,6 +1,6 @@
 #Roślina #Stworzenie 
 
-![[żmijorośl.png|300]]
+![[Żmijorośl nowa 2.png|400]]
 ### Wygląd
 
 Żmijorośl to masywna, drapieżna roślina porastająca gęste lasy o ciepłym klimacie. Jej centrum stanowi **olbrzymi kwiat**, osiągający średnicę do dwóch metrów.
@@ -8,6 +8,8 @@
 W stanie „głodu” kwiat jest **biały**, natomiast po pochwyceniu i strawieniu ofiary jego płatki ciemnieją do **krwistej czerwieni**, wchłaniając krew i płyny ustrojowe. Intensywność barwy wskazuje stopień „najedzenia”.
 
 Płatki są **twarde, mięsiste i kolczaste**, zatrzaskują się niczym skorupa, więżąc ofiarę wewnątrz. Z podstawy kwiatu wyrastają grube, wijące się **pnącza z kolcami**, które oplatają zdobycz i wciągają ją do wnętrza rośliny.
+
+![[Żmijorośl nowa 3.png|350]]
 
 ### Zachowanie
 

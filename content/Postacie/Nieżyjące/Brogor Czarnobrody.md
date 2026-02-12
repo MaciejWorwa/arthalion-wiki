@@ -1,0 +1,3 @@
+#Postać 
+
+Założyciel miasta [[Argent]].

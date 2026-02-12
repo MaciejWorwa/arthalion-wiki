@@ -5,11 +5,13 @@
 **Położenie:** Wytycza granicę między [[Ant-Ryian|Ant-Ryian'em]] a [[Ligort|Ligortem]]
 **Mieszkańcy:** [[Krasnoludy ze Szczeliny]], łącznie ok. 300 000 
 **Gospodarka:** górnictwo, hutnictwo, szklarstwo, kowalstwo, płatnerstwo, kamieniarstwo
-**Stolica:** wiszące miasto [[Argent]]
+**Największe miasto:** wiszące miasto [[Argent]]
 
-**Przełom Gniewu** (potocznie: **Szczelina**, w jęz. kontynentalnym: Khar-Rei) to gigantyczna formacja geologiczna i suwerenne państwo-miasto, stanowiące naturalną granicę między [[Ligort|Ligortem]] a [[Ant-Ryian|Ant-Ryianem]]. Jest to monumentalne pęknięcie w skorupie kontynentu, powstałe w wyniku boskiej interwencji [[Tigarus|Tigarusa]], który zesłał rzekę lawy, rozcinając ziemię na dwie części i tworząc ogromną szczelinę w ziemi. Przełom Gniewu jest zamieszkany przez unikalną społeczność krasnoludów zwanych [[Krasnoludy ze Szczeliny|"Szczelinowcami"]].
+**Przełom Gniewu** (potocznie: **Szczelina**, w jęz. kontynentalnym: Khar-Rei) to gigantyczna formacja geologiczna oraz konfederacja wolnych miast, stanowiąca naturalną granicę między [[Ligort|Ligortem]] a [[Ant-Ryian|Ant-Ryianem]]. Jest to monumentalne pęknięcie w skorupie kontynentu, powstałe w wyniku boskiej interwencji [[Tigarus|Tigarusa]], który zesłał rzekę lawy, rozcinając ziemię na dwie części i tworząc ogromną szczelinę w ziemi. Przełom Gniewu jest zamieszkany przez unikalną społeczność krasnoludów zwanych [[Krasnoludy ze Szczeliny|"Szczelinowcami"]], których kultura, inżynieria i struktura społeczna wykształciły się w bezpośrednim związku z życiem nad przepaścią. W praktyce to właśnie one – poprzez kontrolę mostów, światła i szlaków handlowych – kształtują równowagę sił w całym Przełomie.
 
 Przełom jest jedynym bezpiecznym traktem handlowym łączącym wschód z zachodem kontynentu, co czyni go jednym z najważniejszych punktów geopolitycznych na mapie świata.
+
+![[Przełom Gniewu najnowszy.png|300]]
 
 ## 1. Geografia i Struktura
 
@@ -46,6 +48,8 @@ Krasnoludy z Przełomu nie używają klasycznych luster szklanych. Stosują cię
 ## 4. Społeczeństwo i Polityka
 
 Krasnoludy ze Szczeliny, zwane **Szczelinowcami**, różnią się mentalnie od typowych krasnoludów. Nie cierpią na lęk wysokości, a ich kultura opiera się na inżynierii i równowadze.
+
+Wnętrze Przełomu nie stanowi jednolitego państwa, lecz zbiór suwerennych, niezależnych miast, zawieszonych w pionowych ścianach szczeliny i połączonych siecią mostów, wind oraz szlaków linowych. Miasta te współpracują ze sobą w zakresie handlu, obrony i utrzymania infrastruktury, zachowując jednak pełną autonomię polityczną i prawną. Żadne z nich nie uznaje zwierzchnictwa zewnętrznych państw ani władców.
 
 - **Budowniczy Mostów:** Najwyższym szacunkiem w społeczeństwie cieszą się architekci i budowniczowie mostów. W ich kulturze most jest symbolem łączenia tego, co bogowie rozdzielili.
 - **Neutralność:** Przełom Gniewu nie podlega władzy Ligortu ani Ant-Ryianu. Jego suwerenność gwarantuje fakt, że jest to jedyna droga handlowa. Każda armia próbująca podbić Szczelinę musiałaby walczyć na wąskich mostach, które obrońcy mogą w każdej chwili zniszczyć, posyłając najeźdźców w otchłań.

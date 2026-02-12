@@ -1,6 +1,6 @@
 #Stworzenie 
 
-![[Złodziej Myśli.png|400]]
+![[Złodziej myśli nowy złowieszczy.png|350]]
 
 ### Opis
 

@@ -1,6 +1,6 @@
 #Stworzenie 
 
-![[Peszak.png|300]]
+![[peszak 2.png|300]]
 
 **Peszaki** to drobne, nocne stworzenia zamieszkujące głównie lasy cieplejszych krain, takich jak **Mardania**. Choć ich wygląd bywa uznawany za uroczy, a nawet komiczny, w rzeczywistości uchodzą za istoty budzące lęk i przesądy.
 

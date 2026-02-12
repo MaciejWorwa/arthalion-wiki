@@ -2,7 +2,7 @@
 
 **Zawarcie:** rok **998 [[III Era|III Ery]]**
 **Strony przymierza:** Królestwo Elfów (Kentrahs) i Zjednoczone Plemiona Mardanów  
-**Przypieczętowane przez:** małżeństwo elfiej królowej **Lenny** i mardańskiego króla **Barhena**
+**Przypieczętowane przez:** małżeństwo elfiej królowej [[Lenna|Lenny]] i mardańskiego króla [[Barhen|Barhena]]
 **Potomstwo:** król **Keldaros** – półelf, obecnie panujący w [[Kentrahs]]
 
 ---

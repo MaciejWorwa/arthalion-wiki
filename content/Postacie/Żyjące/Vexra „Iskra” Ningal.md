@@ -8,6 +8,6 @@ Vexra to postać ekscentryczna, której ciało nosi ślady niebezpiecznej pracy.
 
 ### Polityka
 
-W Radzie Miejskiej reprezentuje „Blok Progresywny”. Jej głównym celem jest monopolizacja handlu prochem oraz zwiększenie nakładów na badania nad nowymi materiałami wybuchowymi. Wyznaje filozofię, że bezpieczeństwo Kazalfell zależy od siły ognia, a nie grubości murów obronnych.
+W Radzie Miejskiej reprezentuje blok progresywny. Jej głównym celem jest monopolizacja handlu prochem oraz zwiększenie nakładów na badania nad nowymi materiałami wybuchowymi. Wyznaje filozofię, że bezpieczeństwo Kazalfell zależy od siły ognia, a nie grubości murów obronnych.
 
 Vexra pozostaje w stałym, otwartym konflikcie z [[Thorgar Pamiętliwy|Thorgarem Pamiętliwym]] i górnikami, z którymi spiera się o dostęp do głębokich złóż siarki, których eksploatacja zagraża stabilności tuneli.

@@ -6,6 +6,7 @@
 - **ana** - bóg
 - **ankan** - pole, łąka
 - **ant** - wielki, duży
+- **aran** - oddech, dmuchać
 - **arge** - pająk
 - **ark** - mgła
 - **art** - serce
@@ -61,6 +62,7 @@
 ### G
 
 - **gal** - kuc
+- **geli** - szczęście
 - **gon** - świat
 - **grann** - granica, koniec
 - **gras** - gryźć
@@ -115,6 +117,7 @@
 
 - **marwe** - zielony
 - **maur** - ciemność
+- **mor** - czarny, czerń
 - **morg** - węgiel
 - **myrrena** - tajemnica
 
@@ -122,6 +125,7 @@
 
 - **naru** - wyspa
 - **ner** - wstać, obudzić się
+- **nessa** - gwiazda
 - **nil** - południe
 - **nos** - miecz
 - **nu** - nie
@@ -177,6 +181,7 @@
 
 ### V
 
+- **vael** - liść
 - **valora** - siła
 - **van** - port, przystań
 - **veth** - pamięć

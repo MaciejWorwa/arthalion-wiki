@@ -1,6 +1,6 @@
 #Bóg 
 
-![[Pansus.webp|400]]
+![[Pansus 2.png|400]]
 
  **Pansus** –  bóg żywiołu ziemi, patron tajemnic, podziemi i przetrwania. Nazywany Strażnikiem Cieni. W mitach bywa zarówno opiekunem, jak i zdrajcą — bogiem, który zna każde kłamstwo, bo sam je wymyślił.
 

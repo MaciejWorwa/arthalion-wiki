@@ -1,6 +1,6 @@
 #Stworzenie 
 
-![[wargul.png|400]]
+![[Wargul nowy.png|400]]
 
 Wargule to masywne, czworonożne stworzenia wielkości konia, zamieszkujące głębokie podziemia. Choć dzikie są śmiertelnie niebezpieczne, zostały oswojone przez [[Morgrasi|morgrasów]] i stanowią podstawę ich gospodarki. Wykorzystywane są jako wierzchowce, zwierzęta pociągowe oraz istoty zdolne do drążenia tuneli.
 
@@ -10,7 +10,7 @@ Wargul pokryty jest gęstym, ciemnym futrem. Jego ciało jest masywne, o krótki
 
 Najbardziej charakterystycznym elementem wyglądu jest głowa: wargule nie mają oczu, są całkowicie ślepe. Zamiast tego wyposażone są w wachlarzowate, gwiaździste wypustki w miejscu nosa. Dzięki nim wyczuwają drgania, ciepło, zapachy i ruch powietrza, co czyni je niezwykle skutecznymi w podziemnym środowisku. Posiadają także doskonały węch, przewyższający większość znanych zwierząt.
 
-
+![[wargul.png|400]]
 ### Biologia i metabolizm
 
 Wargule są jednymi z najbardziej niezwykłych stworzeń podziemi dzięki obecności symbiotycznych mikroorganizmów w przewodzie pokarmowym. Pozwalają im one trawić substancje, które dla większości organizmów są bezużyteczne – ziemię, zgniłe drewno, grzyby, a nawet skały bogate w minerały.

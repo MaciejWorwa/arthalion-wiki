@@ -1,6 +1,6 @@
 #Nacja 
 
-![[nacja.webp|400]]
+![[krasnoludy leśne 2.png|500]]
 
 **Leśne krasnoludy** to grupa krasnoludów zamieszkująca rozległe lasy na południowy-zachód od [[Góry Północne|Gór Północnych]]. Są znani ze swojej bliskiej więzi z naturą oraz niezwykłych umiejętności w oswajaniu i tresowaniu dzikich zwierząt. Żyjąc z dala od wielkich miast, leśne krasnoludy są ludem niemal całkowicie samowystarczalnym.
 
@@ -17,6 +17,8 @@ Gospodarka leśnych krasnoludów opiera się w głównej mierze na łowiectwie i
 Leśne krasnoludy słyną z oswajania dzikich zwierząt, które następnie wykorzystują jako wierzchowce. Niedźwiedzie i dziki, osiodłane przez krasnoludy, służą im w bitwach i polowaniach. Niedźwiedzi jeźdźcy, uzbrojeni w zabójcze włócznie, są elitarną jednostką, zdolną do przeprowadzania miażdżących szarż na polu bitwy.
 
 W walce leśne krasnoludy preferują broń ręczną, zwłaszcza topory i kusze, które są nie tylko skuteczne, ale także praktyczne w gęstym lesie. Ich walka opiera się na szybkim, zaskakującym ataku, często z wykorzystaniem doskonałej znajomości terenu.
+
+![[nacja.webp|400]]
 
 ### Charakter
 

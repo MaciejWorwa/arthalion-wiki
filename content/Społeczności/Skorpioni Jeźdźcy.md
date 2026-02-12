@@ -1,8 +1,8 @@
 #Nacja 
 
-![[skorpioni jeździec.png|400]]
+![[skorpioni jeździec nowy 2 1.png|600]]
 
-**Skorpioni Jeźdźcy** to elitarna formacja wojowników z plemienia [[Murahini|Murahinów]] zamieszkującego rozległe stepy[[Ant-Ryian|Anr-Ryianu]]. Te potężne jednostki są uznawane za jedne z najgroźniejszych sił wojskowych w regionie, słynące ze swojej brutalnej skuteczności oraz zdolności do przeprowadzania zaskakujących ataków na wrogów. Skorpionowi Jeźdźcy nie tylko budzą grozę na polach bitew, ale również pełnią kluczową rolę w ochronie swojego plemienia i jego bogactw.
+**Skorpioni Jeźdźcy** to elitarna formacja wojowników z plemienia [[Murahini|Murahinów]] zamieszkującego rozległe stepy [[Ant-Ryian|Ant-Ryianu]]. Te potężne jednostki są uznawane za jedne z najgroźniejszych sił wojskowych w regionie, słynące ze swojej brutalnej skuteczności oraz zdolności do przeprowadzania zaskakujących ataków na wrogów. Skorpioni Jeźdźcy nie tylko budzą grozę na polach bitew, ale również pełnią kluczową rolę w ochronie swojego plemienia i jego bogactw.
 
 ### Oswajanie Skorpionów
 

@@ -1,7 +1,6 @@
 #Nacja 
 
-![[pajęczy jeździec.png|400]]
-
+![[pajęczy jeździec nowy.png|600]]
 
 **Pajęczy Jeźdźcy** to  elitarna formacja wojowników z plemion [[Murahini|Murahinów]], słynąca z umiejętności dosiadania gigantycznych pająków, które są kluczowym elementem ich militarnej potęgi. Zamieszkujący rozległe stepy [[Ant-Ryian|Ant-Ryianu]], Murahini wykształcili unikalne techniki oswajania i szkolenia tych przerażających stworzeń, co pozwoliło im zdominować rywalizujące plemiona oraz skutecznie odpierać ataki wrogów.
 

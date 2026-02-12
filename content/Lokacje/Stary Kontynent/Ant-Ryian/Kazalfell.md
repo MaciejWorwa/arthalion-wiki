@@ -13,6 +13,8 @@
 
 Miasto znane jest z mieszaniny kultur – gnomy dominują liczebnie, lecz krasnoludy kontrolują kopalnie i kuźnie. Dla przybyszów Kazalfell bywa przytłaczające: powietrze często przesycone jest zapachem siarki, dymu i metalu, a nad miastem niemal zawsze unosi się cienka, szara mgła. Dla mieszkańców jest to jednak zapach domu — dowód, że Trzy Gardła śpią, a kuźnie i warsztaty wciąż pracują.
 
+![[Kazalfell mapa.png]]
+
 ## Dzielnice
 
 Kazalfell nie jest podzielone według klasycznego schematu bogactwa, lecz według funkcji i bezpieczeństwa. Architektura miasta to system naczyń połączonych, oddzielonych od siebie masywnymi murami, które w razie erupcji lub eksplozji mają ocalić pozostałe części miasta.

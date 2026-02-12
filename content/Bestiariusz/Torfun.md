@@ -1,6 +1,6 @@
 #Stworzenie
 
-![[Torfun.png|400]]
+![[Torfun nowy.png|400]]
 
 **Torfuny** to bagienne stworzenia zamieszkujące mokradła i torfowiska, głównie na terenie [[Ligort|Ligortu]]. Te niezwykle niebezpieczne istoty są znane ze swoich zdolności kamuflażu oraz zabójczej skuteczności w polowaniu na nieostrożne ofiary, które zbyt głęboko zapuściły się na tereny ich naturalnego występowania.
 

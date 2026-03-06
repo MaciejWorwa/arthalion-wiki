@@ -1,6 +1,5 @@
 #Miejsce 
 
-
 **Położenie:** północny-zachod [[Ligort|Ligortu]], [[Kamienne Ostępy]] nad brzegiem rzeki [[Farna|Farny]]
 **Mieszkańcy:** ok. 600 (65% krasnoludy, 24% gnomy, 11% ludzie)
 **Władza:**

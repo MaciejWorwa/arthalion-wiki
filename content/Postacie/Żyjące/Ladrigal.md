@@ -10,7 +10,7 @@
 
 Król Ladrigal to obecny monarcha Ligortu – państwa targanego wewnętrznymi intrygami i zagrożeniami zewnętrznymi. Jest potomkiem **Erwina Żelaznorękiego**, na którego spuściźnie próbuje budować własną władzę, lecz w przeciwieństwie do swego przodka nie uchodzi za władcę niezłomnego.
 
-W oczach wielu Ligortian Ladrigal balansuje pomiędzy rolą opiekuna królestwa a zakładnika możnych rodów, gildii i kapłanów. Jego panowanie nie jest okresem wielkich zwycięstw, lecz **ciągłej walki o utrzymanie równowagi**.
+W oczach wielu Ligortan Ladrigal balansuje pomiędzy rolą opiekuna królestwa a zakładnika możnych rodów, gildii i kapłanów. Jego panowanie nie jest okresem wielkich zwycięstw, lecz **ciągłej walki o utrzymanie równowagi**.
 
 ## Wygląd
 

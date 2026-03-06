@@ -1,6 +1,6 @@
 #Stworzenie
 
-![[Pożeracz Dusz.jpg|300]]
+![[Pożeracz Dusz nowy.png|350]]
 
 **Pożeracze Dusz** to pradawna rasa, która wyginęła pod koniec [[II Era|II Ery]] podczas [[Wojna Czterech Królestw|Wojny Czterech Królestw]]. Ich istnienie zawsze budziło powszechny strach wśród innych ras (byli uważani za wyznawców [[Kainer|Kainera]]), co ostatecznie doprowadziło do ich niemal całkowitej zagłady.
 

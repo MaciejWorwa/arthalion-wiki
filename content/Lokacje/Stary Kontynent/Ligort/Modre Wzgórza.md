@@ -6,7 +6,7 @@
 
 ### Opis
 
-**Modre Wzgórza** to rozległy pas kwiecistych wzgórz rozciągający się na północy **Ligortu**. Nazwa regionu pochodzi od niebieskich kwiatów [[Modrzenica ligortiańska|modrzenicy ligortiańskiej]], które każdego roku zakwitają tam od końca wiosny do połowy lata, tworząc oszałamiające, błękitne dywany.
+**Modre Wzgórza** to rozległy pas kwiecistych wzgórz rozciągający się na północy **Ligortu**. Nazwa regionu pochodzi od niebieskich kwiatów [[Modrzenica ligortańska|modrzenicy ligortańskiej]], które każdego roku zakwitają tam od końca wiosny do połowy lata, tworząc oszałamiające, błękitne dywany.
 
 ### Klimat
 

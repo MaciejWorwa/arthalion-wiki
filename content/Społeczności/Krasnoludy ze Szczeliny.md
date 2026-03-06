@@ -45,6 +45,8 @@ Odpowiada za:
 - wyliczanie kątów padania światła,
 - korekty wraz ze zmianą pozycji słońca w ciągu roku.
 
+![[Heliurg.png|400]]
+
 ### Mosty
 
 Dla Szczelinowca most to coś więcej niż droga – to symbol życia. Ich mosty są modułowe; w razie ataku wroga inżynierowie mogą zwolnić blokady i zrzucić całe sekcje mostu w przepaść w ciągu kilku sekund, odcinając najeźdźcę.

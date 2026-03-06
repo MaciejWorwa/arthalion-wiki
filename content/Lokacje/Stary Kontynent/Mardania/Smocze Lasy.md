@@ -16,6 +16,18 @@ Smocze Lasy są domem dla różnorodnej fauny i flory. Gęsta roślinność skł
 
 W przeszłości Smocze Lasy były ważnym miejscem dla elfów, które znalazły w nich schronienie i źródło życia. Dziś elficka populacja w tym regionie jest znacznie mniejsza niż niegdyś, a ich osady, choć jeszcze obecne, są rzadsze i bardziej izolowane. Elfy te, mimo że wciąż mają żywe wspomnienia o smokach, korzystają z urodzajnych terenów, które dostarczają im cennych surowców, takich jak drewno i pożywienie.
 
+Wśród Leśnych Elfów panuje ścisły matriarchat. Władzę nad plemionami i osadami – budowanymi najczęściej w postaci misternych, połączonych mostami platform zawieszonych wysoko w koronach gigantycznych drzew – sprawują martony.
+
+**Martony** to najstarsze i najbardziej doświadczone kobiety w społeczności, które zazwyczaj obdarzone są zdolnościami magicznymi. To one stanowią najwyższy sąd, decydują o polityce całego klanu, wyznaczają szlaki łowieckie i prowadzą rozmowy dyplomatyczne z wysłannikami z [[Kentrahs]].
+
+Słowo martony jest prawem absolutnym. To one bezpośrednio nadzorują gospodarkę i realizację trybutu – wskazując, które drzewa mogą zostać wycięte bez naruszania równowagi lasu. Społeczeństwo darzy je niemal religijną czcią, wierząc, że dzięki swojej magii są one bezpośrednio połączone z duchem prastarej puszczy.
+
+### Geopolityka
+
+Formalnie Smocze Lasy stanowią integralną część terytorium Mardanii, wyznaczając jej zachodnią granicę. W rzeczywistości jednak mardańska władza kończy się tam, gdzie zaczyna się gęstwina. Korona, świadoma trudności w militarnym opanowaniu i patrolowaniu tak wielkiej dżungli, zawarła z lokalnymi Leśnymi Elfami pakt.
+
+W zamian za uznanie zwierzchnictwa króla Mardanii i regularny trybut, elfy cieszą się niezwykle szeroką autonomią. Sami stanowią swoje prawo, nie wpuszczają do lasu królewskich poborców podatkowych i nie podlegają powszechnemu poborowi. Trybut, który oddają Mardanii, jest jednak niezwykle cenny: to starannie wyselekcjonowane, twarde drewno z prastarych drzew (używane do budowy elitarnych okrętów i broni) oraz rzadkie skóry i mięso dostarczane na królewskie stoły.
+
 ### Smoki
 
 ![[szczątki smoka w Smoczych Lasach.jpg|300]]

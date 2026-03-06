@@ -1,6 +1,6 @@
 #Przedmiot
 
-**Błękitnik** to słynny miód pitny, wytwarzany w [[Ankandil|Ankandilu]]. Jest uznawany za jeden z najbardziej unikalnych trunków na całym kontynencie. Powstaje na bazie miodu zbieranego z pasiek rozlokowanych na stokach [[Modre Wzgórza|Modrych Wzgórz]], gdzie pszczoły żywią się nektarem [[Modrzenica ligortiańska|modrzenicy ligortiańskiej]] – niezwykłego niebieskiego kwiatu.
+**Błękitnik** to słynny miód pitny, wytwarzany w [[Ankandil|Ankandilu]]. Jest uznawany za jeden z najbardziej unikalnych trunków na całym kontynencie. Powstaje na bazie miodu zbieranego z pasiek rozlokowanych na stokach [[Modre Wzgórza|Modrych Wzgórz]], gdzie pszczoły żywią się nektarem [[Modrzenica ligortańska|modrzenicy ligortańskiej]] – niezwykłego niebieskiego kwiatu.
 
 ### Wygląd i właściwości
 

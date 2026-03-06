@@ -18,7 +18,7 @@ Jednakże z biegiem czasu, ich potęga i status zaczęły prowadzić ich na drog
 
 Król Erwin Żelaznoręki, dostrzegając poczynania swoich niegdyś najwierniejszych rycerzy, oskarżył ich o zdradę. Zostali skazani na banicję i wygnani z Ligortu, z groźbą śmierci w przypadku powrotu.
 
-Po wygnaniu, Równi Żywiołom zaszyli się w głębi ligortiańskich lasów. W jednej z jaskiń w sercu lasu, ich losy przybrały przerażający obrót. Po spędzeniu nocy w tym mrocznym miejscu, ich forma uległa drastycznej przemianie. Zmienili się w przerażające upiory, stając się ucieleśnieniem własnych grzechów i przewinień.
+Po wygnaniu, Równi Żywiołom zaszyli się w głębi ligortańskich lasów. W jednej z jaskiń w sercu lasu, ich losy przybrały przerażający obrót. Po spędzeniu nocy w tym mrocznym miejscu, ich forma uległa drastycznej przemianie. Zmienili się w przerażające upiory, stając się ucieleśnieniem własnych grzechów i przewinień.
 
 ### Zachowanie
 

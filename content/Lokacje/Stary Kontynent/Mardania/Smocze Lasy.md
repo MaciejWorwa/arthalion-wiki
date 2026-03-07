@@ -3,7 +3,7 @@
 ![[Smocze Lasy.jpg|400]]
 
 **Położenie:** tereny na granicy Ant-Ryianu i Mardanii
-**Mieszkańcy:** elfy - łącznie około 50 000
+**Mieszkańcy:** elfy - łącznie około 40 000
 **Gospodarka:** łowiectwo, wycinka drzew
 
 **Smocze Lasy** to rozległe, tropikalne lasy leżące na granicy [[Ant-Ryian|Ant-Ryianu]] i [[Mardania|Mardanii]]. Charakteryzują się bujną roślinnością, niezwykle wysokimi drzewami oraz częstymi opadami deszczu. Ich wilgotny, tropikalny klimat sprzyja rozwojowi różnorodnej roślinności i licznych gatunków zwierząt. Ich nazwa pochodzi od smoków, które niegdyś miały zlatywać z [[Wichrowe Grzbiety|Wichrowych Grzbietów]], aby żerować w tych bogatych w zwierzynę terenach.  

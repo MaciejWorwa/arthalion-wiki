@@ -3,7 +3,7 @@
 ![[Granndil.webp|300]]
 
 **Położenie:** [[Mardania]], wschodnia granica [[Smocze Lasy|Smoczych Lasów]], nad brzegiem [[Tessel|rzeki Tessel]]  
-**Mieszkańcy:** ok. 1200 (62% ludzie, 34% elfy, 4% gnomy)  
+**Mieszkańcy:** ok. 1000 (62% ludzie, 34% elfy, 4% gnomy)  
 **Gospodarka:** rolnictwo, handel
 
 ### Opis

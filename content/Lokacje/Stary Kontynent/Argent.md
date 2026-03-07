@@ -1,7 +1,7 @@
 #Miejsce 
 
 **Lokalizacja:** Centralny punkt [[Przełom Gniewu|Przełomu Gniewu]]
-**Populacja:** ok. 65 000 (głównie [[Krasnoludy ze Szczeliny]], mniejszości z zewnątrz)  
+**Populacja:** ok. 55 000 (głównie [[Krasnoludy ze Szczeliny]], mniejszości z zewnątrz)  
 **Władza:** Rada Inżynierów
 **Eksport:** [[Czerwona Stal]], Solaryt, mechanizmy dźwigowe, biżuteria lustrzana
 **Herb Argent:**

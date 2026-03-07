@@ -23,14 +23,14 @@ Rządzący organ **Ant-Ryianu** i **Elonhall**. Rada zastąpiła dawną monarchi
 
 Każdy pierścień reprezentuje inną sferę życia państwa i posiada równy głos w głosowaniach, choć wpływy poszczególnych rad różnią się w praktyce.
 
-| Pierścień         | Skład i wpływy                                                  | Sfera władzy                               |
-| ----------------- | --------------------------------------------------------------- | ------------------------------------------ |
-| **Kupiecki**      | Najbogatsze domy handlowe, m.in. Askenowie i En-Raviel          | Podatki, handel, flota, cła                |
-| **Rzemieślniczy** | Cechy rzemieślnicze: kowale, garbarze, browarnicy, tkacze       | Przemysł i produkcja                       |
-| **Naukowy**       | Akademie, szpitale, biblioteki i laboratoria                    | Nauka, medycyna i prawo                    |
-| **Zbrojny**       | Armia i straż miejska                                           | Obrona, bezpieczeństwo, egzekucja prawa    |
-| **Chłopski**      | Wspólnoty wiejskie, hodowcy, rybacy, przedstawiciele dzielnic   | Rolnictwo, zaopatrzenie, polityka socjalna |
-| **Religijny**     | Zakon Świetlistej Kropli, świątynie Vinriego, Buaana i Orillana | Religia i święta państwowe                 |
+| Pierścień         | Skład i wpływy                                                      | Sfera władzy                               |
+| ----------------- | ------------------------------------------------------------------- | ------------------------------------------ |
+| **Kupiecki**      | Najbogatsze domy handlowe, m.in. Askenowie i En-Raviel              | Podatki, handel, flota, cła                |
+| **Rzemieślniczy** | Cechy rzemieślnicze: kowale, garbarze, browarnicy, tkacze           | Przemysł i produkcja                       |
+| **Naukowy**       | Akademie, szpitale, biblioteki i laboratoria                        | Nauka, medycyna i prawo                    |
+| **Zbrojny**       | Armia i straż miejska                                               | Obrona, bezpieczeństwo, egzekucja prawa    |
+| **Chłopski**      | Wspólnoty wiejskie, hodowcy, rybacy, przedstawiciele dzielnic       | Rolnictwo, zaopatrzenie, polityka socjalna |
+| **Religijny**     | [[Zakon Świetlistej Kropli]], świątynie Vinriego, Buaana i Orillana | Religia i święta państwowe                 |
 
 Decyzje **Rady Złotych Pierścieni** zapadają większością głosów, a przewodniczy im król – wybierany spośród rodów szlacheckich w głosowaniu Rady.  
 

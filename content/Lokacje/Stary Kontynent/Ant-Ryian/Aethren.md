@@ -3,7 +3,7 @@
 ![[Aethren nowe kwadrat.png|400]]
 
 **Położenie:** wschodni [[Ant-Ryian]], wysokie pasma górskie w [[Wichrowe Grzbiety|Wichrowych Grzbietach]], nad rzeką [[Athera|Atherą]]
-**Mieszkańcy:** 28 000 (92% elfy, 5% gnomy, 3% ludzie) 
+**Mieszkańcy:** 11 000 (92% elfy, 5% gnomy, 3% ludzie) 
 **Władza:** 
 **Gospodarka:** 
 

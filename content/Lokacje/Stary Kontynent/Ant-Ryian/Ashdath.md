@@ -3,7 +3,7 @@
 ![[wieczór w Ashdath.jpg|500]]
 
 **Położenie:** [[Ant-Ryian]], wschód pustyni [[Barin-Amal]]
-**Mieszkańcy:** ok. 1900 (niemal wyłącznie [[Pustynne Elfy|Pustynne Elfy]])
+**Mieszkańcy:** ok. 1400 (niemal wyłącznie [[Pustynne Elfy|Pustynne Elfy]])
 **Władza:** rada starszych oazy
 **Gospodarka:** handel, ochrona karawan
 

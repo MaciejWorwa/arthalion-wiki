@@ -8,6 +8,7 @@
 - **ant** - wielki, duży
 - **aran** - oddech, dmuchać
 - **arge** - pająk
+- **ari** - włosy
 - **ark** - mgła
 - **art** - serce
 - **ash** - cichy, cisza
@@ -97,6 +98,7 @@
 
 - **kai** - grób, grobowiec
 - **kal** - rzeka
+- **kael** - klatka, więzienie
 - **kal-kazal** - lawa
 - **kazal** - wulkan
 - **kelda** - pokój, zgoda
@@ -119,6 +121,7 @@
 - **maur** - ciemność
 - **mor** - czarny, czerń
 - **morg** - węgiel
+- **myk** - grzyb
 - **myrrena** - tajemnica
 
 ### N
@@ -157,6 +160,7 @@
 ### S
 
 - **sai** - wąż
+- **sar** - choroba, zaraza
 - **sel** - matka
 - **son** - śmierć
 - **su** - pływać

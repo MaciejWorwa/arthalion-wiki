@@ -2,18 +2,24 @@
 
 ![[Skamielec.png|300]]
 
-**Skamielce** to agresywny i niestabilny typ [[Drenirowie|Drenirów]] charakterystyczny dla [[Kamienne Ostępy|Kamiennych Ostępów]] w północno-zachodnim [[Ligort|Ligorcie]]. Powstają w wyniku klątwy związanej z potężną magią ziemi przenikającą ten region. W przeciwieństwie do [[Pokutnik|Pokutników]] nie są dziełem świadomego rytuału, lecz efektem niekontrolowanej przemiany istot, które przekroczyły zakazane granice lasu.
+**Skamielce** to agresywny i niestabilny typ [[Drenirowie|Drenirów]], powstający w miejscach silnie nasyconych magią ziemi. Najlepiej znane i najczęściej opisywane Skamielce występują w [[Kamienne Ostępy|Kamiennych Ostępach]] w północno-zachodnim [[Ligort|Ligorcie]], gdzie zjawisko to przybrało szczególnie groźną i trwałą formę.
 
-Dla mieszkańców okolicznych ziem Skamielce stanowią zarówno przestrogę, jak i dowód, że Kamienne Ostępy nie wybaczają intruzom.
+Nie są jednak związane wyłącznie z tym regionem. Pojedyncze Skamielce mogą pojawiać się również w innych miejscach, gdzie magia ziemi została zaburzona, skumulowana lub pozostawiona bez kontroli — zwłaszcza tam, gdzie dawne rytuały, śmierć, cierpienie albo długotrwałe oddziaływanie mocy [[Pansus|Pansusa]] zmieniły naturę gleby i roślinności.
+
+Dla mieszkańców okolicznych ziem Skamielce stanowią zarówno przestrogę, jak i dowód, że ziemia potrafi karać tych, którzy naruszają jej granice.
 
 ## Pochodzenie
 
-Skamielce powstają z osób, które zapuściły się poza obszary wyznaczone przez święte menhiry stabilizujące magię ziemi. Najczęściej są to:
+Skamielce powstają z istot, które zostały wystawione na długotrwałe lub gwałtowne działanie nieokiełznanej magii ziemi. W Kamiennych Ostępach najczęściej są to osoby, które zapuściły się poza obszary wyznaczone przez święte menhiry stabilizujące magię regionu.
+
+Najczęściej ofiarami przemiany stają się:
 
 - drwale poszukujący cennego drewna
 - kłusownicy
 - żołnierze lub oddziały zwiadowcze
 - nieostrożni podróżnicy
+- wygnańcy i zbiegowie szukający schronienia w lasach
+- osoby, które zbyt długo przebywały w miejscach przesyconych magią ziemi
 
 Proces przemiany jest powolny i niezwykle bolesny. Ofiara nie ginie od razu — ciało stopniowo sztywnieje, skóra twardnieje jak kora, a kończyny zaczynają przypominać konary. Ostatecznie istota zostaje uwięziona w nowej formie, zakorzeniona w ziemi, z której czerpie energię.
 
@@ -54,16 +60,21 @@ Niektóre wykazują przebłyski dawnej osobowości, zwłaszcza w momentach osła
 
 Takie sytuacje są jednak rzadkie i nieprzewidywalne.
 
-## Związek z Kamiennymi Ostępami
+## Związek z miejscem powstania
 
-Skamielce są niemal wyłącznie związane z obszarem lasu. Powszechnie uważa się, że:
+Skamielce są silnie związane z miejscem, w którym doszło do przemiany. W Kamiennych Ostępach oznacza to przede wszystkim obszary poza granicami aktywnych menhirów. W innych regionach może to być pojedynczy krąg druidyczny, stary gaj, skamieniała polana albo miejsce, gdzie magia ziemi została zaburzona.
 
-- nie mogą przekroczyć granic wyznaczonych przez aktywne menhiry
+Powszechnie uważa się, że Skamielce:
+
 - słabną wraz z oddalaniem się od źródła magii
-- poza strefą oddziaływania magii ziemi ulegają ostatecznemu zastygnięciu
+- poza strefą oddziaływania ziemi stopniowo zastygają
+- najczęściej nie opuszczają miejsca własnej przemiany
+- reagują szczególnie gwałtownie na naruszenie świętych granic
+- mogą przez lata pozostawać nieruchome, przypominając martwe drzewa lub głazy
 
-Gdy menhiry tracą moc, zdarzają się incydenty, podczas których Skamielce zbliżają się do obrzeży lasu lub próbują je opuścić.
+W Kamiennych Ostępach aktywne menhiry ograniczają ich przemieszczanie. Gdy menhiry tracą moc, zdarzają się incydenty, podczas których Skamielce zbliżają się do obrzeży lasu lub próbują je opuścić.
 
+W innych miejscach nie istnieje tak wyraźny system ochronny. Dlatego pojedynczy Skamielec może przez lata pozostawać uśpiony, a potem nagle przebudzić się, gdy ktoś naruszy ognisko mocy, do którego jest przywiązany.
 
 ## Zdolności
 
@@ -105,7 +116,7 @@ Nie jest jasne, czy w tym stanie nadal zachowują świadomość.
 
 ## Znaczenie symboliczne
 
-Dla mieszkańców Ligortu Skamielce są:
+Dla mieszkańców Starego Kontynentu Skamielce są:
 
 - ucieleśnieniem gniewu [[Pansus|Pansusa]]
 - przestrogą przed łamaniem zakazów

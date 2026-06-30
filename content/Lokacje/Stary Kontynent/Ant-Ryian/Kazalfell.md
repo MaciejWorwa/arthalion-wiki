@@ -75,7 +75,7 @@ Rada składa się z pięciu stałych miejsc (dla kluczowych filarów gospodarki)
 
 #### 1. Gildia Alchemików (Alchemicy i Prochmistrzowie)
 
-**Przedstawiciel:** Arcymistrzyni [[Vexra „Iskra” Ningal]] (Gnomka)
+**Przedstawiciel:** Arcymistrzyni [[Vexra Ningal]] (Gnomka)
 
 - **Charakterystyka:** Najbardziej wpływowa i budząca największy lęk frakcja w mieście. Vezra to ekscentryczna, lecz genialna chemiczka, której lewa dłoń została zastąpiona skomplikowaną, mosiężną protezą.
 

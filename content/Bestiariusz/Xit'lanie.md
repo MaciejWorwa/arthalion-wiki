@@ -1,6 +1,6 @@
 #Nacja #Stworzenie 
 
-![[Xit'lan.png|300]]
+![[Xit_lan.png|350]]
 
 **Xit'lanie** są inteligentną rasą zamieszkującą [[Nowy Kontynent]]. Choć ich anatomia, obyczaje i religia wydają się obcym skrajnie odległe, Xit'lanie tworzą złożoną i stabilną cywilizację opartą na kolektywizmie oraz ścisłym porządku religijnym.
 

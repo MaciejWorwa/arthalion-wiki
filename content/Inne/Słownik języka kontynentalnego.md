@@ -65,6 +65,7 @@
 - **gal** - kuc
 - **geli** - szczęście
 - **gon** - świat
+- **gort** - brat
 - **grann** - granica, koniec
 - **gras** - gryźć
 - **grave** - duch
@@ -83,6 +84,7 @@
 
 - **inn** - ziemia, ląd
 - **ishana** - odwaga
+- **itel** - srebro
 - **ith** - mały
 
 ### J
@@ -112,6 +114,7 @@
 - **lach** - żelazo
 - **lan** - lód
 - **lei** - klucz
+- **li** - trzy
 - **lien** - żal, smutek
 - **lun** - księżyc
 
@@ -132,6 +135,8 @@
 - **nil** - południe
 - **nos** - miecz
 - **nu** - nie
+- **nur** - kopiec, garb
+- **nurgul** - wielbłąd
 - **nu-estra** - bezbożnik, heretyk
 - **nawa** - prawda
 
@@ -162,6 +167,7 @@
 - **sai** - wąż
 - **sar** - choroba, zaraza
 - **sel** - matka
+- **solga** - siostra
 - **son** - śmierć
 - **su** - pływać
 
@@ -173,6 +179,7 @@
 - **thar** - stary, starość
 - **thar-jor** - wieczór
 - **tigar** - tygrys
+- **trun** - wędrówka
 
 ### U
 
@@ -181,7 +188,7 @@
 - **un** – ty, twój
 - **und** – pod, poniżej
 - **ungo** – wróg, przeciwnik
-- **ur** – jeden (liczebnik)
+- **ur** – jeden
 
 ### V
 
@@ -189,6 +196,7 @@
 - **valora** - siła
 - **van** - port, przystań
 - **veth** - pamięć
+- **vey** - szeroki
 - **vin** - ryba
 - **vo** - będzie
 - **vuk** - strach

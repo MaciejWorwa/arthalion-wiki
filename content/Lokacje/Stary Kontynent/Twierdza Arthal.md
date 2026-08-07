@@ -32,13 +32,13 @@ Wierzono, że Arthal nie została zbudowana w jednym momencie, lecz „wyrastał
 
 Aby zapewnić równowagę i podzielić swoją władzę, Kirgon stworzył pięć [[Klucze do Twierdzy Arthal|Kluczy do Twierdzy Arthal]] – po jednym dla każdego z bogów żywiołów.
 
-Klucze nie były zabezpieczeniem, lecz znakiem współodpowiedzialności. Pozwalały one uzyskać dostęp do jej najgłębszych sekretów Twierdzy.
+Klucze nie były zabezpieczeniem, lecz znakiem współodpowiedzialności. Pozwalały uzyskać dostęp do najgłębszych sekretów Twierdzy.
 
-Po odejściu bogów klucze zostały przekazane śmiertelnikom i do dziś funkcjonują jako insygnia władzy czterech wielkich królestw. Piąty klucz – [[Lanarowie|Lanarów ]]– zaginął wraz z ich rasą.
+Po odejściu bogów klucze zostały przekazane śmiertelnikom i do dziś funkcjonują jako insygnia władzy czterech wielkich królestw. Piąty klucz – [[Lanarowie|Lanarów]] – zaginął wraz z ich rasą.
 
 ## Upadek i pogrzebanie Twierdzy
 
-Podczas końcowych wydarzeń Wojny Smoków bogowie podjęli decyzję o opuszczeniu Wymiaru Śmiertelników. Aby ostatecznie odciąć Kainera od świata, stworzyli nowe wymiary i zapieczętowali Twierdzę Arthal, grzebiąc ją pod ogromną masą skał i piasku.
+Podczas końcowych wydarzeń Wojny Smoków bogowie podjęli decyzję o opuszczeniu Wymiaru Śmiertelników. Aby ostatecznie odciąć Kainera od świata, utworzyli lub ukształtowali nowe domeny wymiarowe i zapieczętowali Twierdzę Arthal, grzebiąc ją pod ogromną masą skał i piasku. Starszy [[Wymiar Snów]] istniał już wcześniej, ukryty przez Kirgona.
 
 Według niektórych, niepewnych źródeł miejsce to znajduje się dziś pod [[Barin-Amal|Pustynią Barin-Amal]].
 

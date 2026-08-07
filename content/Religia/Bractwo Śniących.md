@@ -1,3 +1,4 @@
+#Organizacja 
 
 **Bractwo Śniących** to tajny zakon wyznawców [[Kirgon|Kirgona]], związany z [[Wymiar Snów|Wymiarem Snów]], proroczymi wizjami, pamięcią miejsc oraz ochroną wiedzy uznawanej za zbyt niebezpieczną, by mogła trafić w ręce królów, kapłanów lub uczonych.
 

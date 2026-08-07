@@ -120,6 +120,7 @@
 
 ### M
 
+- **mark** - most
 - **marwe** - zielony
 - **maur** - ciemność
 - **mor** - czarny, czerń
@@ -130,6 +131,7 @@
 ### N
 
 - **naru** - wyspa
+- **nemen** - kwiat
 - **ner** - wstać, obudzić się
 - **nessa** - gwiazda
 - **nil** - południe
@@ -160,6 +162,7 @@
 - **ren** - brama, drzwi
 - **ri** - byk
 - **ros** - dziecko
+- **run** - jeleń
 - **ryian** - step
 
 ### S

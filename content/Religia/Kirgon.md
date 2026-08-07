@@ -17,7 +17,7 @@ Każdy z tych bogów odpowiadał innemu żywiołowi i został obdarzony konkretn
 2. **[[Pansus]]** –  kamienny pies, reprezentował żywioł ziemi. Otrzymał pieczę nad zachodnią częścią kontynentu, obecnie znaną jako [[Ligort]]. Pansus mimo przebiegłego charakteru miał zapewniać stabilność i siłę ludziom, którzy mieli budować swoje imperia na solidnych fundamentach ziemi.
 3. **[[Tigarus]]** – płonący tygrys, był bogiem ognia. Kirgon powierzył mu opiekę nad [[Lanarowie|Lanarami]] i smokami oraz nad południowo-wschodnią częścią kontynentu, znaną dziś jako [[Mardania]]. Tigarus miał czuwać nad tym, by ognista moc Lanarów i smoków była używana mądrze, a ich potęga nie obróciła się przeciwko światu.
 4. **[[Orillan]]** – lodowy orzeł, bóg żywiołu lodu. Jego zadaniem było dbanie o równowagę w naturze, a Kirgon powierzył mu środkową część kontynentu, obejmującą północny [[Ant-Ryian]] oraz południowo-wschodnią część [[Ligort|Ligortu]]. Orillan miał zapewnić, że każde stworzenie, od najmniejszych owadów po największe bestie, będzie miało swoje miejsce w naturalnym porządku.
-5. **[[Buaan]]** – przyjmujący formę tornada, był bogiem powietrza. Sprawował opiekę nad elfami oraz [[Pożeracze Dusz|Pożeraczami Dusz]], nadzorując ich losy na południu kontynentu, na terenach dzisiejszego południowego [[Ant-Ryian|Ant-Ryianu]] i zachodniej [[Mardania|Mardaniii]].
+5. **[[Buaan]]** – przyjmujący formę tornada, był bogiem powietrza. Sprawował opiekę nad elfami oraz [[Pożeracze Dusz|Pożeraczami Dusz]], nadzorując ich losy na południu kontynentu, na terenach dzisiejszego południowego [[Ant-Ryian|Ant-Ryianu]] i zachodniej [[Mardania|Mardanii]].
 
 ### Powstanie Kainera
 

@@ -69,7 +69,7 @@ Poza murami Kaldornu rozciąga się rozległe Podgrodzie – dzielnica biedoty, 
 
 Kaldorn powstał na przełomie I i II Ery jako niewielka osada rybacka przy zbiegu rzek. Z czasem, dzięki położeniu handlowemu i bogactwu lasów, rozwinął się w potężną metropolię i stolicę Ligortu.
 
-Jednym z najważniejszych wydarzeń w dziejach miasta było [[Oblężenie Kaldornu|oblężenie Kaldornu]] podczas **Wojny Czterech Królestw** (ok. 1600 II Ery). Armie krasnoludów, sprzymierzone z częścią elfich klanów, przez wiele miesięcy oblegały stolicę Ligortu, pragnąc przejąć kontrolę nad strategicznie położonym miastem. Oblężenie zakończyło się dopiero po przybyciu posiłków z południa – Kaldorn ocalał, lecz tysiące obrońców zginęło z głodu, chorób i w walce.
+Jednym z najważniejszych wydarzeń w dziejach miasta było [[Oblężenie Kaldornu|oblężenie Kaldornu]] podczas **Wojny Czterech Królestw** w 1606 roku II Ery. Armie krasnoludów, sprzymierzone z częścią elfich klanów, przez wiele miesięcy oblegały stolicę Ligortu, pragnąc przejąć kontrolę nad strategicznie położonym miastem. Oblężenie zakończyło się dopiero po przybyciu posiłków z południa – Kaldorn ocalał, lecz tysiące obrońców zginęło z głodu, chorób i w walce.
 
 Ciała poległych złożono w katakumbach pod głównym placem miasta, który odtąd nazwano **Placem Pamięci**. Wydarzenie to na zawsze wpisało się w tożsamość Kaldorn:
 - w rocznicę oblężenia odbywa się tu uroczysty **pochód milczenia**,
@@ -90,7 +90,7 @@ Kaldorn, stolica rycerskiego Ligortu, jest miastem, w którym **rycerskość** i
 ### Święta
 
 - **Święto Dwóch Rzek** – odbywa się pierwszego dnia wiosny. Uroczystość związana z rzekami, które oplatają miasto. Procesje wodne, puszczanie lampionów i ofiary z zielonych gałązek do rzek mają zapewnić czystość i dostatek. Dla kupców to także dzień błogosławieństwa handlu – rzeki bowiem są krwiobiegiem gospodarki.
-- **Festiwal Łowiecki** – rozpoczyna się pierwszego dnia jesieni i zazwyczaj trwa trzy dni. Jest to połączenie polowania i rycerskiego turnieju. Rycerze i szlachta urządzają wielką pogoń w pobliskich lasach, a zdobycz staje się głównym daniem uczty. Towarzyszą temu pieśni, walki na arenie oraz występy bardów. Ostatniego dnia festiwalu, schwytane w lesie bestie takie jak wilki lub niedźwiedzie (a czasami nawet [[Troll Leśny|trolle leśne]]) są wypuszczane do walki z najdzielniejszymi rycerzami na arenie Amfiteatru.
+- **Festiwal Łowiecki** – rozpoczyna się pierwszego dnia jesieni i zazwyczaj trwa trzy dni. Jest to połączenie polowania i rycerskiego turnieju. Rycerze i szlachta urządzają wielką pogoń w pobliskich lasach, a zdobycz staje się głównym daniem uczty. Towarzyszą temu pieśni, walki na arenie oraz występy bardów. Ostatniego dnia festiwalu schwytane w lesie bestie, takie jak wilki lub niedźwiedzie (a czasami nawet [[Troll|trolle leśne]]), są wypuszczane do walki z najdzielniejszymi rycerzami na arenie Amfiteatru.
 
 ### Rycerskość
 

@@ -2,7 +2,7 @@
 
 ![[Przełom Gniewu nowy.png|300]]
 
-**Położenie:** Wytycza granicę między [[Ant-Ryian|Ant-Ryian'em]] a [[Ligort|Ligortem]]
+**Położenie:** wytycza granicę między [[Ant-Ryian|Ant-Ryianem]] a [[Ligort|Ligortem]]
 **Mieszkańcy:** [[Krasnoludy ze Szczeliny]], łącznie ok. 300 000 
 **Gospodarka:** górnictwo, hutnictwo, szklarstwo, kowalstwo, płatnerstwo, kamieniarstwo
 **Największe miasto:** wiszące miasto [[Argent]]

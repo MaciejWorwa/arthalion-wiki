@@ -3,7 +3,7 @@
 **Zawarcie:** rok **998 [[III Era|III Ery]]**
 **Strony przymierza:** Królestwo Elfów (Kentrahs) i Zjednoczone Plemiona Mardanów  
 **Przypieczętowane przez:** małżeństwo elfiej królowej [[Lenna|Lenny]] i mardańskiego króla [[Barhen|Barhena]]
-**Potomstwo:** król **Keldaros** – półelf, obecnie panujący w [[Kentrahs]]
+**Potomstwo:** król **Keldaros** – półelf, obecny władca [[Mardania|Mardanii]], rezydujący w [[Kentrahs]]
 
 ---
 
@@ -39,6 +39,6 @@ Ich syn, **Keldaros**, półelf, został koronowany po śmierci ojca i abdykacji
 ### Warunki Przymierza
 
 - Mardanie otrzymali **prawo do własnej ziemi i przedstawicielstwa** w radzie miasta.
-- Elfy zachowały **trzon administracji.
+- Elfy zachowały **trzon administracji**.
 - Obie strony uznały **jedną wspólną stolicę – Kentrahs**, z podziałem dzielnic według przynależności kulturowej.
 - Wspólnym symbolem przymierza stała się **biało-zielona flaga z czarnym słońcem**.

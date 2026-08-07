@@ -9,7 +9,7 @@ Na grafice, od lewej do prawej, przedstawiono klucze Vinriego, Buaana, Orillana,
 
 ### Stworzenie kluczy przez Kirgona
 
-Zgodnie z najstarszymi mitami Kirgon stworzył pięć kluczy w czasach, gdy bogowie żyli jeszcze pośród śmiertelników, a [[Twierdza Arthal ]]była centrum jego wiedzy, potęgi i miejscem, gdzie kształtował fundamenty świata.
+Zgodnie z najstarszymi mitami Kirgon stworzył pięć kluczy w czasach, gdy bogowie żyli jeszcze pośród śmiertelników, a [[Twierdza Arthal]] była centrum jego wiedzy, potęgi i miejscem, gdzie kształtował fundamenty świata.
 
 Kirgon nie postrzegał pozostałych bogów jako poddanych ani przeciwników, lecz jako istoty, które muszą mieć dostęp do wiedzy i mocy Arthal, aby pełnić swoje role w świecie. Twierdza została zbudowana nie dla jednego boga, lecz jako wspólne miejsce dla tych, którzy mieli ukształtować losy świata.
 
@@ -28,7 +28,7 @@ Każdy z bogów otrzymał swój klucz bezpośrednio od Kirgona:
 
 ### Załamanie świata (koniec I Ery)
 
-[[Wojna Smoków]] doprowadziła do katastrofalnej destabilizacji całego [[Wymiar Śmiertelników|Wymiaru Śmiertelników]]. W starciu smoków, bogów i sługów [[Kainer|Kainera]] pękały granice między światami. Ostatecznie bogowie uznali, że jedynym sposobem na pokonanie Kainera i odcięcie go od wpływu na świat było **stworzenie nowych wymiarów** i wypędzenie go do [[Wymiar Umarłych|Wymiaru Umarłych]].
+[[Wojna Smoków]] doprowadziła do katastrofalnej destabilizacji całego [[Wymiar Śmiertelników|Wymiaru Śmiertelników]]. W starciu smoków, bogów i sługów [[Kainer|Kainera]] pękały granice między światami. Ostatecznie bogowie uznali, że jedynym sposobem na pokonanie Kainera i odcięcie go od wpływu na świat było **utworzenie lub ukształtowanie nowych domen wymiarowych** i wypędzenie go do [[Wymiar Umarłych|Wymiaru Umarłych]]. Ukryty [[Wymiar Snów]] istniał już wcześniej.
 
 Koszt był ogromny:
 
@@ -39,15 +39,15 @@ Koszt był ogromny:
 
 ### Przekazanie kluczy śmiertelnikom
 
-Bogowie, wiedząc że opuszczają świat na zawsze i nie będą w stanie strzec kluczy, przekazali je **wybrańcom poszczególnych ras**. Każdy klucz miał stać się symbolem odpowiedzialności.
+Według dominującej wersji mitu bogowie, wiedząc, że opuszczają świat i nie będą w stanie strzec kluczy, przekazali je **wybrańcom poszczególnych ras**. Każdy klucz miał stać się symbolem odpowiedzialności. Niektóre tradycje podważają udział Pansusa w tym wydarzeniu i utrzymują, że jego klucz przekazali ludzie albo pozostali bogowie już po uwięzieniu Boga Ziemi.
 
 Ustalenia bogów były następujące:
 
-- Klucz Pansusa trafił do ludzi
-- Klucz Buaana trafił do elfów
-- Klucz Vinriego trafił do gnomów
-- Klucz Orillana trafił do krasnoludów
-- Klucz Tigarusa trafił do [[Lanarowie|Lanarów]]
+- Klucz Pansusa trafił do ludzi;
+- Klucz Buaana trafił do elfów;
+- Klucz Vinriego trafił do gnomów;
+- Klucz Orillana trafił do krasnoludów;
+- Klucz Tigarusa trafił do [[Lanarowie|Lanarów]].
 
 ### Klucz Lanarów
 
@@ -65,7 +65,9 @@ W tym czasie klucze funkcjonowały jako **święte relikwie**, symbole dawnych w
 
 Pod koniec II Ery narastające konflikty między rasami doprowadziły do serii bitew, które niemal na nowo ogarnęły świat chaosem. Dopiero zawarcie **Wielkiego Sojuszu** odwróciło bieg wydarzeń.
 
-Władzcy poszczególnych krain przejęli wówczas odpowiednie klucze jako **insygnia władzy** – dowód, że to właśnie ich narody są spadkobiercami bogów i strażnikami pieczęci Arthal.
+Władcy poszczególnych krain przejęli wówczas odpowiednie klucze jako **insygnia władzy** – dowód, że to właśnie ich narody są spadkobiercami bogów i strażnikami pieczęci Arthal.
+
+Nie zachowano prostego podziału według ras. Po stuleciach migracji żadne z nowych królestw nie było już jednorodne, dlatego Wielki Sojusz przypisał relikwie państwom związanym z dawnymi domenami bogów. W ten sposób Klucz Vinriego, pierwotnie strzeżony przez gnomy, przypadł Galithii, a Klucz Orillana, przekazany niegdyś krasnoludom, trafił do Ant-Ryianu. Ta zmiana do dziś budzi sprzeciw części rodów gnomich i krasnoludzkich.
 
 ## Współczesne znaczenie kluczy
 

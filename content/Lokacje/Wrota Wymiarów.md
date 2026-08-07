@@ -4,7 +4,7 @@
 ![[brama wymiarów.png|300]]
 
 
-**Wrota Wymiarów** to monumentalne, kamienne konstrukcje stworzone przez bogów w trakcie [[Wojna Smoków|Wojny Smoków,]] gdy stało się jasne, że świat śmiertelników nie jest w stanie unieść dalszej walki istot boskich, smoków i niszczycielskiej mocy żywiołów.
+**Wrota Wymiarów** to monumentalne, kamienne konstrukcje stworzone przez bogów w trakcie [[Wojna Smoków|Wojny Smoków]], gdy stało się jasne, że świat śmiertelników nie jest w stanie unieść dalszej walki istot boskich, smoków i niszczycielskiej mocy żywiołów.
 
 Nie powstały one jako artefakty podróży dla śmiertelników, lecz jako kosmiczne przejścia, umożliwiające bogom opuszczenie świata i przeniesienie się do nowo ukształtowanych wymiarów — odrębnych domen istnienia, w których mogliby dalej istnieć bez niszczenia znanego świata.
 
@@ -12,8 +12,9 @@ Wraz z ich powstaniem zmienił się porządek kosmosu.
 
 ## Czym są Wymiary?
 
-Wbrew powszechnym wierzeniom, wymiary nie są niematerialnymi krainami.
-Każdy z nich jest odrębnym ciałem niebieskim — planetą lub gwiazdą, powstałą lub ukształtowaną w czasie Wojny Smoków, związaną z konkretnym żywiołem i boską domeną.
+Wbrew powszechnym wierzeniom wymiary nie są niematerialnymi krainami. Każdy z nich jest odrębnym ciałem niebieskim — planetą lub gwiazdą — związanym z konkretnym żywiołem i boską domeną.
+
+Większość znanych wymiarów została stworzona albo przekształcona przez bogów w czasie Wojny Smoków. Uczeni nie są zgodni, czy bogowie powołali ich ciała niebieskie z nicości, czy jedynie związali istniejące obiekty z żywiołami. Pewnym wyjątkiem jest [[Wymiar Snów]], utworzony przez [[Kirgon|Kirgona]] znacznie wcześniej i ukrywany przed pozostałymi bogami.
 
 Wrota Wymiarów prowadzą poza Ziemię, ku innym obiektom kosmicznym, które od tego momentu zaczęły współtworzyć układ świata.
 
@@ -62,7 +63,7 @@ To **Wymiar Wody**, domena [[Vinri|Vinriego]].
 Dalej znajduje się ogromna, niemal całkowicie pozbawiona światła planeta — **Wymiar Śmierci**.  
 To właśnie tam, po ostatecznym starciu Wojny Smoków, [[Kainer]] został spętany i uwięziony.
 
-Od tamtej pory wymiar ten stał się miejscem, do którego trafiają dusze zmarłych, odciętym od pozostałych bogów.
+Według dominującej doktryny trafiają tam dusze przejęte przez Kainera. Dusze przyjęte przez innych bogów mają docierać do ich domen; dlatego obrzędy pogrzebowe służą przede wszystkim bezpiecznemu przeprowadzeniu zmarłego przez [[Śmierć i życie po śmierci|Ostatnią Podróż]].
 
 ### Wymiar Lodu — Planeta lodu
 

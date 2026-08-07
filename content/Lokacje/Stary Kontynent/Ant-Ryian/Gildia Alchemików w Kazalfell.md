@@ -1,6 +1,6 @@
 #Miejsce 
 
-**Siedziba główna:** Dzielnica Prochowa w [[Kazalfell ]]
+**Siedziba główna:** Dzielnica Prochowa w [[Kazalfell]]
 **Przywódca:** Arcymistrzyni [[Vexra Ningal]] 
 **Główny profil działalności:** Produkcja czarnego prochu, materiałów wybuchowych, mikstur, [[Kwas Wszechtrawiący|Kwasu Wszechtrawiącego]]
 ### Opis

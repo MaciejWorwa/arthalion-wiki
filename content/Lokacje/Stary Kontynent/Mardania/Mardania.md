@@ -31,7 +31,7 @@ Synem tego małżeństwa i obecnym królem Mardanii jest [[Keldaros]] - półelf
 
 - [[Wichrowe Grzbiety]] – łańcuch górski na południowym zachodzie kraju
 
-- [[Wzgórza Uciekinierów ]]– pofałdowany region w środkowej części kraju, na południe od rzeki Kentry, dawniej wykorzystywany przez Mardanów jako teren ucieczek i kryjówek. Dziś rolnicze zaplecze kraju.
+- [[Wzgórza Uciekinierów]] – pofałdowany region w środkowej części kraju, na południe od rzeki Kentry, dawniej wykorzystywany przez Mardanów jako teren ucieczek i kryjówek. Dziś rolnicze zaplecze kraju.
 
 
 #### Pustynie i suche stepy

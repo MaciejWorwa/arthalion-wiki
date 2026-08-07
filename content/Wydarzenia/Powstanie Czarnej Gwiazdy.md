@@ -1,7 +1,7 @@
 #Wydarzenie 
 
 **Czas**: 613 rok [[III Era|III Ery]]
-**Miejsce:** [[Elonhall]], stolica [[Ant-Ryian|Ant-Ryianu  ]]
+**Miejsce:** [[Elonhall]], stolica [[Ant-Ryian|Ant-Ryianu]]
 **Strony:** mieszkańcy Elonhall vs. siły okupacyjne [[Murahini|Murahinów]]
 **Wynik:** wyzwolenie miasta; upadek władzy Murahinów w stolicy
 

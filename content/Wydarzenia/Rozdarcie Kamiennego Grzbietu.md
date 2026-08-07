@@ -6,7 +6,7 @@ Rok 2310 I Ery
 
 Przed Rozdarciem oba kontynenty nie były oddzielone. Łączył je potężny masyw górski, suche płaskowyże, skaliste pustkowia i głębokie doliny, które razem tworzyły Kamienny Grzbiet. Po kataklizmie większość tych ziem została zatopiona, a po dawnym połączeniu pozostały jedynie rozproszone wyspy, z których najważniejszą jest [[Wyspa Xulinn]].
 
-W miejscu rozerwanego lądu powstał ogromny rów oceaniczny, będący jednocześnie szczeliną w granicy między [[Świat Śmiertelników|Światem Śmiertelników]] a [[Wymiar Wody|Wymiarem Wody]].
+W miejscu rozerwanego lądu powstał ogromny rów oceaniczny, będący jednocześnie szczeliną w granicy między [[Wymiar Śmiertelników|Światem Śmiertelników]] a [[Wymiar Wody|Wymiarem Wody]].
 
 ## Tło
 
@@ -51,7 +51,7 @@ To właśnie ona odpowiada za anomalie w rejonie Xulinn i na wodach ciągnących
 
 W tradycjach Nowego Kontynentu szczególną rolę w Rozdarciu odgrywa [[Avara]], żona Vinriego, zwana Matką Wód.
 
-Według Avaran, gdy Vinri i Pansus rozerwali Kamienny Grzbiet, powstała czeluść zaczęła pochłaniać nie tylko ziemie Kainera, ale również zachodnie krainy. Groziło to zatopieniem znacznej części Nowego Kontynentu.
+Według Avaranów, gdy Vinri i Pansus rozerwali Kamienny Grzbiet, powstała czeluść zaczęła pochłaniać nie tylko ziemie Kainera, ale również zachodnie krainy. Groziło to zatopieniem znacznej części Nowego Kontynentu.
 
 Avara miała wtedy stanąć między czeluścią a lądem. Nie zamknęła rozdarcia, lecz rozprowadziła nadmiar wód po zachodnich ziemiach. Z jej ciała i mocy powstały wielkie rzeki, rozlewiska, delty i mokradła.
 

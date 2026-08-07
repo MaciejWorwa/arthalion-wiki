@@ -3,7 +3,7 @@
 ![[flaga Ant-Ryianu.png|400]]
 
 
-**Stolica:** [[Elonhall ]]
+**Stolica:** [[Elonhall]]
 **Populacja:** ludzie (43%), krasnoludy (7%), gnomy (18%), elfy (32%)
 **Klimat:** Ciepły, suchy (pustynny i półpustynny) 
 **Geografia:** Rozległe stepy, piaszczyste i kamieniste pustynie, najwyższe pasmo górskie kontynentu na północy kraju.
@@ -36,7 +36,7 @@ W przeciwieństwie do zróżnicowanego północnego zachodu, populacja Ant-Ryian
 
 Ant-Ryian jest królestwem uwięzionym we własnych granicach. Państwo to posiada kruchą, niedofinansowaną i skorumpowaną armię. Regularne wojsko nie opuszcza bezpiecznych murów miast, przez co większość kraju to w rzeczywistości dzikie, niekontrolowane terytoria.
 
-Bezkresne stepy i ruiny roją się od plemion goblinów oraz brutalnych [[Murahini|Murahinów]]. Ten dziki lud już w latach 470-490 III Ery wsławił się niszczycielskimi najazdami, siejąc chaos i wymuszając na królestwie budowę fortyfikacji. Z powodu militarnej niemocy, władcy Ant-Ryianu musieli pogodzić się z utratą ogromnych połaci kraju na rzecz tych barbarzyńców. Podróżowanie po królestwie bez ciężko zbrojnej (i bardzo drogiej) eskorty najemników jest równoznaczne z samobójstwem.
+Bezkresne stepy i ruiny roją się od plemion goblinów oraz brutalnych [[Murahini|Murahinów]]. W latach 470-490 III Ery Murahini prowadzili niszczycielskie najazdy, które zakończyły się zdobyciem [[Elonhall]] i okupacją miasta trwającą do 613 roku III Ery. Choć po [[Powstanie Czarnej Gwiazdy|Powstaniu Czarnej Gwiazdy]] utracili stolicę, ich plemiona nadal kontrolują część dzikich terytoriów. Z powodu militarnej niemocy władcy Ant-Ryianu musieli pogodzić się z utratą ogromnych połaci kraju. Podróżowanie po królestwie bez ciężko zbrojnej (i bardzo drogiej) eskorty najemników jest równoznaczne z samobójstwem.
 
 ## Wielka Epidemia
 

@@ -1,6 +1,6 @@
 #Wydarzenie 
 
-**Data:** Rok 120 II Ery
+**Data:** rok 120 II Ery
 
 Po wielkim oblężeniu Białego Szańca i narastającym zagrożeniu ze strony goblińskich hord z Wyżyny Wschodniej, władze Solgarów podjęły decyzję o przeniesieniu głównego ośrodka politycznego w bezpieczniejsze miejsce. Dotychczasowy Biały Szaniec, choć nadal pozostawał potężną twierdzą i symbolem oporu, uznano za zbyt narażony, by pełnił funkcję stałej stolicy całej nacji.
 

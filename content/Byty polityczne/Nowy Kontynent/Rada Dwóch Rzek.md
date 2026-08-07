@@ -1,5 +1,5 @@
 
-**Rada Dwóch Rzek** to najwyższy organ wspólnego zarządu [[Dwurzecze|Dwurzecza]], unii powstałej z sojuszu dwóch ludów: stepowych [[Trunowie|Trunów]] oraz dolinnych elfów [[Veyranie|Veyran.]] Nazwa rady odnosi się do dwóch rzek stanowiących serce nowego państwa — [[Truna|Truny]] i jej dopływu, [[Veyra|Veyry]].
+**Rada Dwóch Rzek** to najwyższy organ wspólnego zarządu [[Dwurzecze|Dwurzecza]], unii powstałej z sojuszu dwóch ludów: stepowych [[Trunowie|Trunów]] oraz dolinnych elfów [[Veyranie|Veyran]]. Nazwa rady odnosi się do dwóch rzek stanowiących serce nowego państwa — [[Truna|Truny]] i jej dopływu, [[Veyra|Veyry]].
 
 W skład Rady wchodzą główni wodzowie, starsi rodów, przywódcy wojskowi i najważniejsi przedstawiciele obu ludów. Trunowie wnoszą do niej tradycję wieców, wodzostwa i konnych drużyn, natomiast Veyranie — doświadczenie dolinnych osad, straży rzecznej, wodnych szlaków i długotrwałych przymierzy.
 

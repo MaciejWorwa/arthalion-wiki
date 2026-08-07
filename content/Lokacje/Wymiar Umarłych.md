@@ -12,4 +12,6 @@ Wraz z powstaniem nowych wymiarów bogowie zbudowali również [[Wrota Wymiarów
 
 To właśnie w tym wymiarze odbyła się ostateczna bitwa bogów z Kainerem podczas Wojny Smoków.  
 
-Gdy ostatni cios został zadany, Kainer został **spętany i uwięziony w tym wymiarze**, który od tego momentu nazywano **Wymiarem Umarłych** — krainą pozbawioną światła życia, odciętą od boskiej obecności. Miejscem, gdzie rzekomo trafiają dusze zmarłych po śmierci.
+Gdy ostatni cios został zadany, Kainer został **spętany i uwięziony w tym wymiarze**, który od tego momentu nazywano **Wymiarem Umarłych** — krainą pozbawioną światła życia i odciętą od obecności pozostałych bogów.
+
+Nie każda dusza ma trafiać do Wymiaru Umarłych. Według powszechnej wiary docierają tam przede wszystkim dusze pochwycone przez Kainera, pozbawione opieki innego boga albo świadomie oddane Władcy Mroku. Obrzędy opisane w [[Śmierć i życie po śmierci|wierzeniach o Ostatniej Podróży]] mają pomóc zmarłemu dotrzeć do bezpiecznej domeny jego patrona.

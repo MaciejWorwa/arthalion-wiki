@@ -1,4 +1,4 @@
-#Nacja 
+#Organizacja #Nacja 
 
 ![[Strażnik Wydm.png|300]]
 
@@ -6,7 +6,7 @@
 
 ### Historia
 
-Strażnicy Wydm mają długą i bogatą historię, która sięga setek lat wstecz, do czasów, kiedy pierwsze elfie klany zdecydowały się na życie na Ant-Ryian'skiej pustyni. W tamtych czasach, przetrwanie na tych jałowych terenach wymagało wyjątkowej determinacji, umiejętności bojowych oraz głębokiego zrozumienia pustynnego ekosystemu.
+Strażnicy Wydm mają długą i bogatą historię, która sięga setek lat wstecz, do czasów, kiedy pierwsze elfie klany zdecydowały się na życie na pustyni [[Barin-Amal]] w Ant-Ryianie. W tamtych czasach przetrwanie na tych jałowych terenach wymagało wyjątkowej determinacji, umiejętności bojowych oraz głębokiego zrozumienia pustynnego ekosystemu.
 
 Strażnicy Wydm pełnią rolę nie tylko wojowników, ale także mentorów i nauczycieli. Ich zadaniem jest szkolenie młodych elfów, które aspirują do bycia częścią tej elitarnej grupy. Szkolenie to jest niezwykle surowe i wymagające, obejmuje nie tylko naukę walki, ale także tropienie, orientację w terenie, sztukę przetrwania w ekstremalnych warunkach oraz znajomość tradycji Pustynnych Elfów. W trakcie tego procesu, młodzi adepci uczą się szanować naturę, a także akceptować filozofię przeznaczenia, która odgrywa kluczową rolę w życiu ich społeczności.
 

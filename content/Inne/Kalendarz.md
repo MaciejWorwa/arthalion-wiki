@@ -1,6 +1,8 @@
 
 Kalendarz używany na Starym Kontynencie opiera się na kulcie bogów żywiołów, z których każdy związany jest z jedną porą roku.
 
+Zasady numeracji lat i zestawienie najważniejszych dat opisuje [[Chronologia]].
+
 Czas w tym kalendarzu ma wymiar nie tylko praktyczny, lecz również religijny i społeczny. Prace, święta, wojny i podróże planowane są zgodnie z tym, czyj wzrok spoczywa aktualnie na świecie.
 
 ## Miesiące Roku

@@ -2,12 +2,12 @@
 
 **Położenie:** wschodni [[Ant-Ryian]], nad rzeką [[Athera|Atherą]]  
 **Mieszkańcy:** ok. 1100 (88% ludzie, 12% elfy)  
-**Władza:** namiestnik królewski z [[Ant-Ryian|Ant-Ryainu]], pod nadzorem garnizonu  
+**Władza:** namiestnik królewski z [[Ant-Ryian|Ant-Ryianu]], pod nadzorem garnizonu  
 **Gospodarka:** handel rzeczny, obsługa szlaków handlowych, przeładunek surowców, rzemiosło wojskowe
 
 ## Opis ogólny
 
-**Czarny Bród** to ufortyfikowane miasto nadrzeczne, położone na strategicznym odcinku Athery, pomiędzy stołecznym [[Elonhall]] a elfickim [[Aethren]] w [[Wichrowe Grzbiety|Wichrowych Grzbietach]]. Choć niewielkie, odgrywa kluczową rolę w łańcuchu gospodarczym wschodniego Ant-Ryainu.
+**Czarny Bród** to ufortyfikowane miasto nadrzeczne, położone na strategicznym odcinku Athery, pomiędzy stołecznym [[Elonhall]] a elfickim [[Aethren]] w [[Wichrowe Grzbiety|Wichrowych Grzbietach]]. Choć niewielkie, odgrywa kluczową rolę w łańcuchu gospodarczym wschodniego Ant-Ryianu.
 
 To tutaj przeładowywana jest ruda żelaza i srebra transportowana ze wschodnich kopalń [[Tharwern]]. Surowiec spływa traktem lądowym, eskortowany przez najemników i żołnierzy, a następnie trafia na barki rzeczne, które kierują się w dół Athery ku Elonhall.
 
@@ -26,7 +26,7 @@ Nazwa miasta wywodzi się od dawnej przeprawy przez rzekę – zanim powstał mo
 
 ## Garnizon
 
-Ze względu na bliskość terytoriów plemion [[Murahini|Murahinów]], w mieście stacjonuje stały garnizon królewskiego wojska Ant-Ryainu.
+Ze względu na bliskość terytoriów plemion [[Murahini|Murahinów]], w mieście stacjonuje stały garnizon królewskiego wojska Ant-Ryianu.
 
 - Około 200–250 żołnierzy piechoty i kuszników.
 - Niewielki oddział jazdy patrolujący szlaki.

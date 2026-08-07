@@ -9,6 +9,8 @@
 
 ![[mapa Elonhall z mostami.png|300]]
 
+![[Elonhall mapa.png]]
+
 **Elonhall**, stolica **Ant-Ryianu**, jest jednym z największych i najbogatszych miast zachodniego kontynentu.  
 Położone na żyznej równinie doliny **Valory**, łączy w sobie tradycję krasnoludzkiej inżynierii, ludzkiej przedsiębiorczości i gnomiej pomysłowości.  
 To miasto-republika, gdzie pieniądz ma większe znaczenie niż królewska korona.
@@ -159,7 +161,7 @@ To najgłośniejsza, najbardziej chaotyczna i zarazem najbardziej dochodowa czę
 - **Most Kupców** – szeroki most łączący Stary Port z Podrzeczem, na którym spotykają się dwa światy: przyjezdni kupcy ze Starego Portu i biedniejsi handlarze z Podrzecza. 
   Pełen kramów, zapachów przypraw i nawoływań sprzedawców, stanowi najżywszy punkt handlowy nad Valorą.
 
-- **Targ Nadbrzeżny** – dziesiątki straganów z egzotycznymi towarami, przyprawami z [[Pustynia Barin-Amal|Barin-Amal]] i wyrobami z [[Ligort|Ligortu]] oraz [[Mardania|Mardanii]].  Za odpowiednią cenę można kupić tam niemal wszystko.
+- **Targ Nadbrzeżny** – dziesiątki straganów z egzotycznymi towarami, przyprawami z [[Barin-Amal]] i wyrobami z [[Ligort|Ligortu]] oraz [[Mardania|Mardanii]]. Za odpowiednią cenę można kupić tam niemal wszystko.
 
 - **Stocznia** – rozległy kompleks warsztatów i doków, w których buduje się i naprawia barki handlowe. Nad wejściem widnieje herb miasta, w powietrzu czuć zapach smoły, metalu i drewna, a stukot młotów słychać od świtu do zmierzchu.
 
@@ -181,7 +183,7 @@ Znajduje się na północ od Starego Portu. Pełna warsztatów, tkanin, barwnik�
 - **Cech Tkaczy** – elegancki budynek z arkadami i witrażami przedstawiającymi najróżniejsze wzory. To tu podpisuje się kontrakty, ustala ceny przędzy i wydaje pozwolenia na eksport.  
 
 - **Ulica Tkacka** – długa, wąska arteria, przy której słychać nieustanny stukot krosien.  
-  W oknach wiszą tkaniny wszystkich kolorów – od szkarłatnych ligortiańskich jedwabi po grube, wełniane płótna z północy.
+  W oknach wiszą tkaniny wszystkich kolorów – od szkarłatnych ligortańskich jedwabi po grube, wełniane płótna z północy.
 
 - **Karczma "Barwny Kocioł"** - serce dzielnicy Kolorowej, gdzie serwują piwo i drinki we wszystkich możliwych barwach. Wnętrze pełne jest światła, kolorowych lamp i śmiechu. Goście piją z glinianych kufli wypełnionych czerwonym, błękitnym lub zielonkawym trunkiem – każdy o innym smaku i mocy. Gwar nie ustaje tu nigdy: goście śpiewają przy bębnach, tańczą na stołach, a ściany pamiętają więcej pieśni niż świątynne chóry.
 
@@ -344,4 +346,3 @@ Najbardziej znanym trunkiem miasta jest **piwo Królewskie**, warzone w **Browar
 - **Pustynia Barin-Amal:** rozwijający się handel przez **Dom En-Raviel**. Import przypraw i ziół, eksport stali, szkła i narzędzi.
 
 - **Murahinowie:** stosunki wrogie. Plemiona na wschód od Elonhall regularnie napadają na karawany, a wojsko Ant-Ryianu utrzymuje stałe patrole wzdłuż szlaków, by chronić handel i granice.
-

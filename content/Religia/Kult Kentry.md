@@ -1,3 +1,4 @@
+#Organizacja 
 
 **Miejsce powstania:** [[Kentrahs]], Dzielnica Portowa (Szary Brzeg)  
 

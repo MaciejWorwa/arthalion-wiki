@@ -1,4 +1,4 @@
-#Nacja
+#Organizacja
 
 **Główne miejsce działalności:** [[Smocze Lasy]], pogranicze [[Mardania|Mardanii]] i [[Ant-Ryian|Ant-Ryianu]], [[Wichrowe Grzbiety]]  
 **Zajęcie:** poszukiwanie smoków, badanie tropów, odzyskiwanie smoczych szczątków, handel trofeami  

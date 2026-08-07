@@ -2,7 +2,7 @@
 
 ![[pustynny elf na wielbłądzie.png|350]]
 
-**Pustynne Elfy** to wojownicza i honorowa społeczność elfów zamieszkująca surowe tereny [[Ant-Ryian|Ant-Ryian'skiej]] Pustyni, znanej również jako [[Barin-Amal]] (co w języku kontynentalnym oznacza "Gorejące Morze"). W przeciwieństwie do innych elfów, które preferują życie w lasach czy na równinach, Pustynne Elfy wybrały życie na jałowych, gorących piaskach, gdzie przetrwać mogą tylko najsilniejsi. Jako władcy autonomicznej enklawy, są jednym z najważniejszych sojuszników militarnych i handlowych królestwa [[Ant-Ryian|Ant-Ryianu]].
+**Pustynne Elfy** to wojownicza i honorowa społeczność elfów zamieszkująca [[Barin-Amal]], wielką pustynię na południu [[Ant-Ryian|Ant-Ryianu]], której nazwa w języku kontynentalnym oznacza „Gorejące Morze”. W przeciwieństwie do innych elfów, które preferują życie w lasach czy na równinach, Pustynne Elfy wybrały życie na jałowych, gorących piaskach, gdzie przetrwać mogą tylko najsilniejsi. Jako władcy autonomicznej enklawy są jednym z najważniejszych sojuszników militarnych i handlowych Ant-Ryianu.
 
 ## Kultura i Społeczeństwo 
 
@@ -37,4 +37,3 @@ Sztuka Pustynnych Elfów odzwierciedla ich środowisko – surowe, lecz pełne g
 Pustynne Elfy są znane ze swojej niezłomnej determinacji i twardości charakteru. Mimo trudnych warunków, w jakich żyją, zachowują głębokie poczucie honoru i szacunku dla tradycji. Są także lojalne wobec swoich wspólnot i gotowe bronić swoich towarzyszy do ostatniego tchu.
 
 Ich życie jest nieustanną walką z przeciwnościami, ale Pustynne Elfy wierzą, że to właśnie te trudności kształtują ich siłę i mądrość. Zgodnie z ich przekonaniem, tylko najsilniejsi przetrwają, a ich przeznaczeniem jest nieustanna walka o przetrwanie na spalonym słońcem piasku Barin-Amal.
-

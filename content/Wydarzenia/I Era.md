@@ -22,17 +22,17 @@
 
 **5. Śmierć Kirgona - Rok 611**
 
-- Po uwolnieniu, Kainer zabił Kirgona, wprowadzając chaos i zniszczenie do świata. Kirgon, który wcześniej był uważany za najwyższego boga, przestał istnieć.
+- Po uwolnieniu Kainer pokonał Kirgona, przejął większość jego mocy i wprowadził do świata chaos oraz śmierć ze starości. Przez tysiąclecia uważano, że Kirgon przestał istnieć. Tylko nieliczne, tajne przekazy sugerują, że fragment świadomości Stwórcy ocalał w [[Wymiar Snów|Wymiarze Snów]].
 
 **6. Wojna Smoków - Lata 2087-2344**
 
 - Rozpoczęła się Wojna Smoków, w której Kainer, wspierany przez armię mrocznych stworzeń, próbował przejąć władzę nad światem. Kluczową rolę w tej wojnie odegrała rasa Lanarów, znana z potężnej magii i umiejętności dosiadania smoków.
-- Podczas Wojny Smoków, gdy walki przerodziły się w katastrofę mogącą doprowadzić do rozpadu samego świata, bogowie podjęli decyzję o wykorzystaniu najpotężniejszej znanej sobie magii: zakrzywienia rzeczywistości. Bogowie wspólnie utworzyli kilka innych, odległych i niedostępnych wymiarów, a także monumentalne [[Wrota Wymiarów|bramy]], łączące te krainy.
+- Podczas Wojny Smoków, gdy walki przerodziły się w katastrofę mogącą doprowadzić do rozpadu samego świata, bogowie podjęli decyzję o wykorzystaniu najpotężniejszej znanej sobie magii: zakrzywienia rzeczywistości. Bogowie wspólnie utworzyli lub ukształtowali większość znanych wymiarów i połączyli je monumentalnymi [[Wrota Wymiarów|Wrotami Wymiarów]]. Wyjątkiem był starszy, ukrywany przez Kirgona Wymiar Snów.
 - Po zwycięstwie nad Kainerem bogowie opuścili [[Wymiar Śmiertelników]].  
 
 **7. Upadek Lanarów - Rok 2344**
 
-- Po intensywnej wieloletniej wojnie, udało się powstrzymać Kainera, jednak rasa [[Laranowie|Lanarów]] została całkowicie wymordowana. Ich dziedzictwo przetrwało jednak do dzisiaj.
+- Po intensywnej wieloletniej wojnie udało się powstrzymać Kainera, jednak rasa [[Lanarowie|Lanarów]] została całkowicie wymordowana. Ich dziedzictwo przetrwało jednak do dzisiaj.
 
 ---
 

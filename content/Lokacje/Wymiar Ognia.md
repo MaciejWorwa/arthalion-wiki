@@ -9,7 +9,7 @@ W powszechnie przyjętej doktrynie religijnej oraz w kosmologii uczonych, Wymiar
 - źródło życia,
 - oraz manifestację boskiej woli [[Tigarus|Tigarusa]].
 
-Nie jest to wymiar dostępny dla istot śmiertelnych w sposób fizyczny ani duchowy. Jego natura jest absolutna i niszcząca — nie istnieje w nim równowaga, a jedynie ciągły proces spalania, przemiany i odnowy.
+Dla żywych śmiertelników wymiar ten jest praktycznie niedostępny: fizyczne przejście bez boskiej ochrony oznacza natychmiastowe unicestwienie ciała. Nie wyklucza to wędrówki dusz. Wyznawcy Tigarusa wierzą, że po śmierci oczyszczona dusza może zostać przyjęta do Wymiaru Ognia, gdzie nie podlega już prawom żywej materii.
 
 Jest on ciągłym oceanem żaru, płomienia i energii, w którym materia nie może istnieć w znanej formie. Wszystko, co trafia do Wymiaru Ognia, zostaje:
 

@@ -2,7 +2,7 @@
 
 ### Geografia
 
-Murahini to dzikie plemię barbarzyńców zamieszkujące rozległe stepy [[Ant-Ryian|Ant-Ryian'u]], nazywanym przez nich Wielkim Stepem. Najwięcej ich wiosek położonych jest na północy kraju, u podnóża [[Orle Góry|Orlich Gór]].
+Murahini to dzikie plemię barbarzyńców zamieszkujące rozległe stepy [[Ant-Ryian|Ant-Ryianu]], nazywane przez nich Wielkim Stepem. Najwięcej ich wiosek leży na północy kraju, u podnóża [[Orle Góry|Orlich Gór]].
 
 ### Gospodarka i Życie Codzienne
 
@@ -23,4 +23,3 @@ Wojownicy Murahinów są znani z umiejętności jazdy na ogromnych pająkach i s
 ###  Wiedza Tajemna
 
 Szaman plemienia Murahinów, jako osoba posiadająca najważniejszą tajemną wiedzę, odpowiada za przygotowanie specjalnych wywarów używanych do oswajania pająków i skorpionów. Wywary te zawierają feromony, które sprawiają, że zwierzęta traktują ludzi jak matki, co umożliwia ich oswajanie i kontrolowanie. Wiedza ta jest przekazywana z pokolenia na pokolenie, a szaman wybiera swojego następcę spośród potomków lub najbardziej obiecujących asystentów.
-

@@ -2,4 +2,4 @@
 
 ![[mamut.jpg|400]]
 
-**Występowanie:** północ kontynentu, tereny północno zachodniej [[Galithia|Galithii]] i północnego [[Ligort|Ligortu]]
+**Występowanie:** północne tereny [[Stary Kontynent|Starego]] i [[Nowy Kontynent|Nowego Kontynentu]] oraz niemal cały [[Kontynent Południowy]].

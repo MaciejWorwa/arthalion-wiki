@@ -1,3 +1,4 @@
+#Organizacja 
 
 **Patron:** [[Vinri]]  
 **Założenie:** prawdopodobnie po odbudowie [[Elonhall]], dokładna data nieznana  

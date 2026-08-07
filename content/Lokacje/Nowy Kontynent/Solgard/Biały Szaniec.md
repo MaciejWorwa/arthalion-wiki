@@ -1,11 +1,11 @@
 #Miejsce 
 
-**Lokalizacja:** południowy-wschód Nowego Kontynentu, [[Trzy Siostry]]
+**Lokalizacja:** południowy wschód Nowego Kontynentu, wapienne wzgórza Trzech Sióstr
 **Populacja:** ok. 24 000 (krasnoludy 68%, ludzie (Avaranie) 18%, gnomy 14%)  
 **Władza:** 
 **Gospodarka:** 
 
-**Biały Szaniec** – krasnoludzki gród warowny położony na trzech wapiennych wzgórzach zwanych [[Trzy Siostry|Trzema Siostrami]]. Stanowi jeden z najważniejszych punktów obronnych na pograniczu [[Jałowe Wzgórza|Jałowych Wzgórz]] i ziem krasnoludzkich. Biały Szaniec jest zarazem twierdzą,  ośrodkiem handlu oraz symbolem oporu przeciw goblińskim hordom.
+**Biały Szaniec** – krasnoludzki gród warowny położony na trzech wapiennych wzgórzach zwanych **Trzema Siostrami**. Stanowi jeden z najważniejszych punktów obronnych na pograniczu [[Jałowe Wzgórza|Jałowych Wzgórz]] i ziem krasnoludzkich. Biały Szaniec jest zarazem twierdzą, ośrodkiem handlu oraz symbolem oporu przeciw goblińskim hordom.
 
 Miasto słynie z białych murów wzniesionych z miejscowego wapienia, rozbudowanej fosy rzecznej oraz trzech fortów osadzonych na szczytach Trzech Sióstr: **Fortu Dolnego**, **Fortu Centralnego** i **Fortu Górnego**.
 
@@ -228,7 +228,7 @@ To właśnie wtedy rzeka została w pełni wykorzystana jako część systemu ob
 
 ### Wielkie oblężenie goblinów
 
-Najważniejszym wydarzeniem w historii Białego Szańca było oblężenie przez zjednoczone hordy goblinów z Wyżyny Wschodniej. Około dwunastu tysięcy goblinów zaatakowało miasto, liczące wówczas nie więcej niż dziesięć tysięcy mieszkańców.
+Najważniejszym wydarzeniem w historii Białego Szańca było [[Oblężenie Białego Szańca|oblężenie z 91 roku II Ery]] przez zjednoczone hordy goblinów z Wyżyny Wschodniej. Około dwunastu tysięcy członków hordy, w tym około dziewięciu tysięcy wojowników, zaatakowało miasto liczące wówczas nie więcej niż dziesięć tysięcy mieszkańców.
 
 Gobliny spaliły podgrodzie, zniszczyły młyny, zajęły część zewnętrznych zabudowań i na krótko opanowały dolne partie Fortu Dolnego na Młodszej Siostrze. Był to jedyny moment, kiedy wróg wdarł się tak głęboko w system obronny Trzech Sióstr.
 
@@ -236,21 +236,21 @@ Miasto przetrwało dzięki położeniu, dyscyplinie obrońców oraz użyciu ślu
 
 Oblężenie zakończyło się odwrotem goblinów, ale straty były ogromne. Zniszczono gospodarcze otoczenie miasta, uszkodzono Fort Dolny i zabito wielu rzemieślników, górników oraz mieszkańców podgrodzia.
 
-### Odbudowa
+### Odbudowa i utrata funkcji stolicy
 
-Po oblężeniu Biały Szaniec został przebudowany. Ograniczono zabudowę poza murami, rozbudowano cysterny, wzmocniono Fort Dolny i zwiększono rolę hydrotechniki. Powstały nowe śluzy, kanały zalewowe i zapasowe bramy wodne.
+Po oblężeniu Biały Szaniec został przebudowany. Ograniczono zabudowę poza murami, rozbudowano cysterny, wzmocniono Fort Dolny i zwiększono rolę hydrotechniki. Powstały nowe śluzy, kanały zalewowe i zapasowe bramy wodne. W 120 roku II Ery, po latach sporów o bezpieczeństwo władz, stolicę Solgardu przeniesiono do [[Iteldorn|Iteldornu]]. Biały Szaniec pozostał najważniejszą twierdzą graniczną państwa.
 
 Od tego czasu miasto nie ufa już samej wysokości i kamieniowi. Jego obrona opiera się na zasadzie wielowarstwowości: jeśli padnie brama, pozostaje dziedziniec; jeśli padnie dziedziniec, pozostają schody; jeśli padnie Fort Dolny, Fort Centralny odcina przejścia; jeśli padnie Fort Centralny, Fort Górny może bronić się sam.
 
 ## Biały Szaniec w 1046 roku III Ery
 
-W 1046 roku III Ery Biały Szaniec jest silniejszy militarnie niż przed oblężeniem, ale słabszy demograficznie i bardziej zamknięty. Jego mieszkańcy żyją w cieniu kolejnego możliwego najazdu.
+W 1046 roku III Ery Biały Szaniec korzysta z systemu obronnego, którego podstawy stworzono po oblężeniu w II Erze i rozwijano przez kolejne stulecia. Pamięć o dawnym ataku nadal kształtuje miejscową kulturę, lecz obecnej sytuacji demograficznej miasta nie należy przedstawiać jako bezpośredniego skutku strat sprzed niemal trzech tysięcy lat. Mieszkańcy wciąż liczą się z możliwością kolejnego najazdu.
 
 Miasto jest bogatsze w doświadczenie, ale biedniejsze w ziemię uprawną. Większość żywności musi sprowadzać albo chronić w silnie strzeżonych gospodarstwach zależnych. Z tego powodu bezpieczeństwo szlaków stało się dla Białego Szańca sprawą życia i śmierci.
 
 Obecnie najważniejsze problemy miasta to:
 
-- odbudowa populacji po stratach wojennych;
+- utrzymanie załogi wystarczającej do obsadzenia rozbudowanych fortyfikacji;
     
 - zależność od importu żywności;
     

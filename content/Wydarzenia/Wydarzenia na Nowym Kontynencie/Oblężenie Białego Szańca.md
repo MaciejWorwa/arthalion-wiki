@@ -1,13 +1,10 @@
 #Wydarzenie 
 
-**Data**: rok 91 II Ery
-**Strony konfliktu**: gobliny (9 tys., najeźdźca), krasnoludy z plemienia Solgarów (10 tys. mieszkańców, garnizon ok. 3000, obrońcy)
-**Skutki**: 
+**Data:** rok 91 II Ery  
+**Strony konfliktu:** zjednoczona horda goblinów (około 12 tys. osób, w tym około 9 tys. wojowników) przeciw Solgarom z [[Biały Szaniec|Białego Szańca]] (około 10 tys. mieszkańców, w tym 2-3 tys. zdolnych do regularnej walki)  
+**Wynik:** zwycięstwo obrońców i rozpad goblińskiej koalicji  
+**Skutki:** zniszczenie podgrodzia, śmierć około tysiąca mieszkańców, wieloletnia odbudowa twierdzy oraz przeniesienie stolicy Solgardu do [[Iteldorn|Iteldornu]] w 120 roku II Ery
 
-
-
-
-TO PONIŻEJ NIE JEST SPRAWDZONE:
 ## Oblężenie Białego Szańca
 
 Atak zjednoczonych hord goblinów z Wyżyny Wschodniej był pierwszym od wielu pokoleń przypadkiem, gdy rozproszone szczepy goblińskie ruszyły pod jednym znakiem. Według późniejszych rachunków pod Biały Szaniec przyszło około dwunastu tysięcy goblinów: wojowników, łuczników, tragarzy, niewolników, zbieraczy padliny i młodych ciągnących za armią w nadziei na łup.

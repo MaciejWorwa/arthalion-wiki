@@ -1,3 +1,3 @@
 #Miejsce 
 
-Stolica Solgardu od 120 roku II Ery. Założony w 112 roku II Ery.
+**Iteldorn** został założony w 112 roku II Ery, a w 120 roku II Ery przejął od [[Biały Szaniec|Białego Szańca]] funkcję stolicy [[Solgard|Solgardu]].

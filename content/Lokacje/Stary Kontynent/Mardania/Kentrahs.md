@@ -95,7 +95,7 @@ Dzielnica Portowa rozciąga się wzdłuż szerokiego zakola rzeki Kentry, w miej
 To najgłośniejsza, najbardziej zatłoczona i barwna część miasta – **ruchliwy węzeł handlu, przemytu, plotek i konfliktów**.
 Choć stanowi **płuca gospodarcze Kentrahs**, mieszkańcy z innych dzielnic patrzą na nią z rezerwą – jako na przestrzeń chaotyczną, niepewną, zawsze o krok od zamieszek.
 
-**Szary Brzeg** to rewir w Dzielnicy Portowej kontrolowany przez gangi i sekty. Największą grozę budzi [[Bractwo Mgły]] – organizacja przemytników i handlarzy ludźmi. W dzielnicy działa również tajemniczy [[Kult Kentry ]]– sekta wyznająca **boginię rzeki**, istotę spoza znanego panteonu. Mówi się, że niektórzy członkowie kultu potrafią rozmawiać z wodą – a inni znikają w niej bez śladu.
+**Szary Brzeg** to rewir w Dzielnicy Portowej kontrolowany przez gangi i sekty. Największą grozę budzi [[Bractwo Mgły]] – organizacja przemytników i handlarzy ludźmi. W dzielnicy działa również tajemniczy [[Kult Kentry]] – sekta wyznająca **boginię rzeki**, istotę spoza znanego panteonu. Mówi się, że niektórzy członkowie kultu potrafią rozmawiać z wodą – a inni znikają w niej bez śladu.
 #### Charakterystyka dzielnicy:
 
 - Zabudowa jest nieregularna, często **wielokrotnie przebudowywana**, przeważnie z drewna, cegły i miejscowego piaskowca – **ściany czernieją od dymu i soli**, dachy są często łatane, a okna zabezpieczone kratami.

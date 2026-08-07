@@ -6,7 +6,7 @@
 
 ### Oswajanie Skorpionów
 
-Oswojenie gigantycznych skorpionów, na których jeżdżą wojownicy, jest procesem długotrwałym i wymagającym. Skorpiony te, należące do najniebezpieczniejszych stworzeń Ant-Ryian'u, są od małego poddawane działaniu specjalnych wywarów przygotowywanych przez plemiennych szamanów. Wywary te zawierają feromony oraz inne składniki, które sprawiają, że skorpiony traktują swoich opiekunów jak matki, co umożliwia ich oswajanie i późniejsze szkolenie.
+Oswojenie gigantycznych skorpionów, na których jeżdżą wojownicy, jest procesem długotrwałym i wymagającym. Skorpiony te, należące do najniebezpieczniejszych stworzeń Ant-Ryianu, są od małego poddawane działaniu specjalnych wywarów przygotowywanych przez plemiennych szamanów. Wywary te zawierają feromony oraz inne składniki, które sprawiają, że skorpiony traktują swoich opiekunów jak matki, co umożliwia ich oswajanie i późniejsze szkolenie.
 
 Trening skorpionów obejmuje naukę reagowania na komendy oraz rozwijanie umiejętności w walce. Skorpiony uczone są również sztuki kamuflażu, która jest kluczowa w taktykach wojennych stosowanych przez Murahinów. Najlepiej wytrenowane osobniki potrafią zakopywać się w piasku, tworząc razem z jeźdźcem niewidoczną pułapkę na wroga. Tylko najbardziej zasłużeni wojownicy mają prawo dosiadać tych stworzeń, co czyni Skorpionich Jeźdźców elitą wśród Murahinów.
 

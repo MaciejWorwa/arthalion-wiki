@@ -2,7 +2,7 @@
 
 ![[Kainer.png|350]]
 
-**Kainer** – bóg śmierci, najpotężniejszy i najbardziej przerażający z bogów, który zyskał miano "Władcy Mroku" po unicestwieniu [[Kirgon|Kirgona]], twórcy świata.
+**Kainer** – bóg śmierci, najpotężniejszy i najbardziej przerażający z bogów, który zyskał miano „Władcy Mroku” po pokonaniu [[Kirgon|Kirgona]] i przejęciu większości mocy twórcy świata. Powszechnie uznano wówczas Kirgona za unicestwionego, choć tajne przekazy o [[Wymiar Snów|Wymiarze Snów]] podważają tę pewność.
 
 ### Powstanie Kainera
 

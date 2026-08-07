@@ -1,7 +1,7 @@
 
 ## Czym jest magia?
 
-Magia w świecie Arthalionu jest ściśle powiązana z panteonem bogów żywiołów. Każdy z pięciu głównych bogów uosabia inny element i obdarza swoich wyznawców (kapłanów) mocą tego żywiołu. Wyróżniamy następujących bogów:
+Magia w świecie Arthalionu jest ściśle powiązana z panteonem bogów żywiołów. Każdy z pięciu głównych bogów uosabia inny element, a jego domena pozostaje źródłem określonego rodzaju mocy nawet po odejściu bogów z [[Wymiar Śmiertelników|Wymiaru Śmiertelników]]. Wyróżniamy następujących bogów:
 
 - **[[Vinri]]** – bóg żywiołu **wody**,
 - **[[Pansus]]** – bóg **ziemi**,
@@ -11,6 +11,8 @@ Magia w świecie Arthalionu jest ściśle powiązana z panteonem bogów żywioł
 
 Oprócz powyższych, istnieje jeszcze **Kainer** – bóg **śmierci** i ciemności. **Magia śmierci** płynąca od Kainera jest postrzegana jako skażona i absolutnie zakazana we wszystkich krainach.
 
+Zdolność do magii wymaga wrodzonej lub nabytej **więzi z domeną żywiołu**. Świątynie nazywają tę więź darem boga, lecz nie oznacza to, że bóstwo osobiście wybiera każdego maga. Moc przepływa między wymiarami przez osłabione granice rzeczywistości, miejsca kultu, relikwie i ślady pozostawione przez [[Wrota Wymiarów|Wrota Wymiarów]]. Kapłaństwo szkoli oraz prawnie sankcjonuje używanie daru, ale nie jest jego jedynym możliwym źródłem. Dzięki temu magia może istnieć także u osób niezrzeszonych.
+
 ## Początki magii
 
 W zamierzchłych czasach najpotężniejszymi magami byli **[[Lanarowie]]** – starożytna rasa patronowana niegdyś przez Tigarusa. Lanarowie znani byli z potężnej magii i unikalnych zdolności (np. telepatycznej komunikacji ze smokami), a co najważniejsze potrafili władać mocą każdego żywiołu. Jako jedyni w historii posiedli pełnię władzy nad ogniem, wodą, ziemią, powietrzem i lodem jednocześnie. To właśnie Lanarowie stworzyli i spisali większość zaklęć – czyli słownych inkantacji wspomagających splatanie magii żywiołów. Działając na prastarym języku, ustrukturyzowali oni magiczne formuły, które przetrwały po dziś dzień.
@@ -19,15 +21,13 @@ Niestety, **[[Wojna Smoków]]** pod koniec Pierwszej Ery doprowadziła do zagła
 
 ## Magia obecnie
 
-W obecnych czasach posługiwanie się magią jest nierozerwalnie związane z religią oraz kultami poszczególnych bogów. Prawo do używania magii mają wyłącznie osoby oficjalnie uznane za kapłanów danego boga. Oznacza to, że ktoś obdarzony darem magicznym musi zostać włączony do odpowiedniej świątyni lub zakonu, gdzie złoży przysięgi i przejdzie szkolenie, aby legalnie korzystać z mocy elementu. Każdy kapłan żywiołu włada tylko jednym żywiołem – tym, który odpowiada jego patronowi. Przykładowo kapłani Vinriego posługują się wyłącznie magią wody, słudzy Pansusa tylko magią ziemi, adepci Tigarusa władają ogniem itd. Taki podział jest restrykcyjnie przestrzegany, a magiczne zdolności są traktowane jako dar od boga, którego nie wolno wykorzystywać wbrew jego woli.
+W obecnych czasach posługiwanie się magią jest prawnie i społecznie związane z religiami poszczególnych bogów. Prawo do publicznego używania magii mają wyłącznie osoby oficjalnie uznane za kapłanów danego boga. Ktoś obdarzony darem magicznym musi więc zostać włączony do odpowiedniej świątyni lub zakonu, gdzie złoży przysięgi i przejdzie szkolenie, aby legalnie korzystać z mocy żywiołu. Większość kapłanów włada tylko jednym żywiołem – tym, z którego domeną jest związana. Przykładowo kapłani Vinriego posługują się magią wody, słudzy Pansusa magią ziemi, a adepci Tigarusa władają ogniem. Taki podział jest restrykcyjnie przestrzegany, a magiczne zdolności są traktowane jako dar od boga, którego nie wolno wykorzystywać wbrew jego woli.
 
 Każdy kult posiada własną hierarchię, rytuały i tajemnice. Inicjacja nowego adepta w szeregi kapłanów żywiołu jest świętym obrzędem, mającym zarówno symbolicznie, jak i praktycznie związać go z mocą patrona. Typowy rytuał inicjacyjny obejmuje m.in.:
 
 - **Próbę żywiołu** – kandydat musi wykazać się odpornością i oddaniem, przechodząc test związany z mocą konkretnego żywiołu. Przykładowo adept ognia bywa poddawany działaniu płomieni (przechodzi przez ogień lub nosi rozgrzany amulet na skórze), adept wody – długotrwałemu zanurzeniu w wodzie, przyszły kapłan lodu spędza noc nago na mrozie, a kapłan ziemi bywa zakopywany żywcem na pewien czas. Celem próby jest oczyszczenie poprzez ból i udowodnienie, że ciało i dusza adepta zniosą dotyk żywiołu bez załamania.
 
 - **Złożenie przysięgi i sakrament** – po pomyślnym zaliczeniu próby kandydat składa uroczystą przysięgę wierności swojemu bogu. W obecności arcykapłana lub rady starszych ślubuje używać daru tylko zgodnie z doktryną kultu oraz poświęcić swoje życie służbie bóstwu i jego społeczności. Często towarzyszy temu namaszczenie magiczne lub ceremonia dotknięcia świętym artefaktem danego żywiołu.
-
-- **Znamię wiary** – nowo wyświęcony kapłan otrzymuje znak przynależności. Jest to tatuaż przedstawiający symbol związany z konkretną wiarą. Dzięki tym symbolom można rozpoznać prawdziwego kapłana od samozwańczego maga. Oczywiście ci drudzy często próbują kopiować tatuaże, aby uniknąć inkwizycji. Po zakończeniu inicjacji nowi kapłani dostają również insygnia kapłańskie – laski, medaliony lub szaty w barwach danego żywiołu.
 
 - **Znamię wiary i insygnia kapłańskie** – Po ukończeniu rytuału inicjacji nowo wyświęcony kapłan otrzymuje rytualny tatuaż – trwały znak wiary, będący zarówno symbolem przynależności do kultu, jak i pieczęcią rozpoznawalności wśród społeczeństwa. Wzór tatuażu zależy od bóstwa, któremu służy dany kapłan, i przedstawia święty znak danego żywiołu: płonące oko Tigarusa, krąg z kroplą Vinriego, tornado Buaana, lodowy pióropusz Orillana lub runę skały Pansusa. Tatuaż umieszczany jest zazwyczaj na wewnętrznej stronie lewego przedramienia.
 
@@ -45,7 +45,7 @@ W efekcie osoby posiadające magiczny dar starają się jak najszybciej wstąpi�
 
 ## Łączenie wielu żywiołów
 
-Chociaż zdecydowana większość osób posługujących się magią może kontrolować tylko jeden żywioł, zdarzają się rzadkie przypadki, gdy jednostka włada więcej niż jedną domeną magii. Mówi się wtedy, że taka osoba została obdarzona darem przez dwóch (lub więcej) bogów jednocześnie. Sytuacje takie są wyjątkowe – to niemal legendy, lecz według podań są możliwe.
+Chociaż zdecydowana większość osób posługujących się magią może kontrolować tylko jeden żywioł, zdarzają się rzadkie przypadki, gdy jednostka włada więcej niż jedną domeną magii. Kapłani mówią wtedy, że taka osoba została obdarzona darem przez dwóch lub więcej bogów jednocześnie; badacze magii opisują to ostrożniej jako wielokrotną więź z domenami. Sytuacje takie są wyjątkowe – to niemal legendy, lecz według podań są możliwe.
 
 Jednostka władająca np. zarówno ogniem, jak i wodą budzi skrajne reakcje. Przez część społeczeństwa może być postrzegana jako cud (wybraniec bogów, być może znak szczególnej misji do spełnienia), ale przez kapłanów częściej traktowana jest z nieufnością. Kapłani jednego boga żywiołu zazwyczaj nie dopuszczają możliwości, by ich wyznawca służył jednocześnie innemu bóstwu – to podważa fundamenty lojalności. Dlatego człowiek o wielożywiołowym talencie znalazłby się w paradoksalnej sytuacji: żaden kult nie chciałby, aby używał mocy „obcego” boga w ich szeregach. Taka osoba musiałaby ukrywać swoją dodatkową moc albo dokonać wyboru jednego patrona i wyrzec się pozostałych zdolności, by w ogóle zostać przyjętą w kręgi kapłańskie. Z tego powodu, jeśli nawet rodzą się osoby multimagiczne, zwykle trzymają ten fakt w tajemnicy. Ich dar bywa ciężarem – zamiast sławy przynosi ryzyko prześladowań.
 

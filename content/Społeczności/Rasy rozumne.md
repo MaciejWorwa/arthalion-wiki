@@ -27,6 +27,14 @@ Elfy są zazwyczaj smukłe i wysokie. Ich rysy są ostre, spojrzenia przenikliwe
 
 Gnomy są drobne, inteligentne i praktyczne. Wyróżnia je bystry umysł i zdolność improwizacji. Cenią sobie spokój, wygodę i poczucie humoru, ale ich ciekawość świata często pcha ich w tarapaty. Choć wyglądają niegroźnie, potrafią być zaskakująco pomysłowi w walce i dyplomacji.
 
+## [[Gulgoci]]
+
+**Średnia długość życia:** brak wiarygodnych danych  
+**Wiek dojrzałości:** brak wiarygodnych danych  
+**Wzrost i waga:** silnie zróżnicowane
+
+Gulgoci są rozumną, płazopodobną rasą zamieszkującą mokradła i deltę [[Avara|Avary]] na [[Nowy Kontynent|Nowym Kontynencie]]. Ich osiadłe społeczności utrzymują się z rybołówstwa, zielarstwa, hodowli i obróbki trzciny. Są cierpliwi i niechętni otwartej wojnie, lecz na własnym terenie potrafią skutecznie bronić się przy użyciu kanałów, bagien i zasadzek.
+
 ## Gobliny
 
 **Średnia długość życia:** 40–60 lat  
@@ -108,4 +116,3 @@ Zyskują jednak to, czego brakuje obu rasom — zdolność rozumienia różnych 
 **Waga:** mężczyźni 35–45 kg, kobiety 50–65 kg
 
 Xit'lanie to insektoidalna, wysoce zorganizowana rasa z Nowego Kontynentu, żyjąca w strukturach roju. Posiadają chitynowe pancerze, cztery kończyny kroczne oraz skrzydła, a ich krótki cykl życia rekompensowany jest przez pamięć genetyczną, pozwalającą dziedziczyć umiejętności przodków. Ich społeczeństwo to bezwzględny matriarchat teokratyczny, w którym jednostka jest niczym, a Rój wszystkim. Choć prowadzą nocny tryb życia, fanatycznie czczą Słońce, składając mu ofiary z własnego życia w zamian za przetrwanie królowej.
-

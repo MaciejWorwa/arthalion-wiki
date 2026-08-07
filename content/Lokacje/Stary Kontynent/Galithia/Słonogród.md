@@ -15,7 +15,7 @@ Słonogród powstał jako północna osada krasnoludzkich rybaków i harpunnikó
 
 Bogactwo miasta opierało się na soli, rybach, tranie, kości wielorybiej, skórach morskich zwierząt oraz handlu z innymi północnymi osadami. Port był również ważnym punktem zaopatrzeniowym dla wypraw wzdłuż zimnych wybrzeży.
 
-W 1033 roku Słonogród został zaatakowany podczas natarcia armii [[Kainer|Kainera]]. Miasto broniło się za kamiennymi falochronami i wąskimi bramami portowymi, ale ostatecznie upadło. Według krasnoludzkich przekazów ostatni obrońcy wycofali się do dolnych magazynów i hal portowych, gdzie walczyli jeszcze długo po przełamaniu murów.
+W 1033 roku III Ery Słonogród został zaatakowany podczas natarcia armii [[Kainer|Kainera]]. Miasto broniło się za kamiennymi falochronami i wąskimi bramami portowymi, ale ostatecznie upadło. Według krasnoludzkich przekazów ostatni obrońcy wycofali się do dolnych magazynów i hal portowych, gdzie walczyli jeszcze długo po przełamaniu murów.
 
 Po upadku miasta nikt nie podjął się jego odbudowy.
 

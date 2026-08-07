@@ -16,17 +16,17 @@
 
 * Okres rozwoju handlu między królestwami, wzrostu miast i wsi oraz rozkwitu kultury. Sztuka, literatura, i magia przeżywają renesans, a podróże między krainami stają się coraz częstsze. Gnomy, dzięki swoim technologicznym zdolnościom, stają się kluczowymi wynalazcami i kupcami tej ery.
 
-#### Najazdy Murahinów - Lata 470-490
+#### Najazdy Murahinów i upadek Elonhall - Lata 470-490
 
-* Dziki lud [[Murahini|Murahinów]], zaczyna przeprowadzać brutalne najazdy na okoliczne wsie i miasta. Plądrują oni osady, siejąc zniszczenie i chaos w regionie. Te ataki wywołują znaczne szkody i przymuszają królestwo do mobilizacji sił obronnych oraz budowy nowych fortyfikacji.
+* Dziki lud [[Murahini|Murahinów]] przez dwie dekady przeprowadza brutalne najazdy na wsie i miasta Ant-Ryianu. W 490 roku kampania kończy się zdobyciem [[Elonhall]]. Najazdy przechodzą w regularną okupację stolicy, trwającą do [[Powstanie Czarnej Gwiazdy|Powstania Czarnej Gwiazdy]] w 613 roku III Ery.
 
 #### Wielka Epidemia - Lata 615-643
 
 * [[Blady Głód|Wielka Epidemia]], która nawiedziła kontynent w latach 615-643, była jedną z najtragiczniejszych i najbardziej niszczycielskich pandemii w historii. Jej początki sięgają roku 615, gdy pierwsze objawy choroby odnotowano w [[Elonhall]] gdzie początkowo uważano ją za lokalną dolegliwość. Jednak w ciągu zaledwie kilku lat, patogen rozprzestrzenił się z zawrotną prędkością, siejąc spustoszenie na całym kontynencie.
 
-#### Odkrycie [[Nowy Kontynent|Nowego Kontynentu]] - Rok 681
+#### Odnowienie kontaktu z [[Nowy Kontynent|Nowym Kontynentem]] - Rok 681
 
-* Żeglarze z Ligortu, płynąc na zachód, odkrywają nowe lądy, które okazują się być zupełnie nieznanym kontynentem. Nowe odkrycia wzbudzają wielkie zainteresowanie i nadzieje na bogactwa oraz możliwości, jakie mogą przynieść nowe ziemie. Ekspedycje wyruszają, by zbadać te tereny, co prowadzi do powstania nowych osad i rozpoczęcia pierwszych kontaktów z lokalnymi, nieznanymi dotąd społecznościami.
+* Żeglarze z Ligortu, płynąc na zachód, odnajdują drogę morską do lądu odciętego od Starego Kontynentu od czasu [[Rozdarcie Kamiennego Grzbietu|Rozdarcia Kamiennego Grzbietu]]. W kronikach Starego Kontynentu wydarzenie nazywa się „odkryciem”, choć Nowy Kontynent od dawna zamieszkują własne ludy i rozwinięte społeczności. Wyprawy zapoczątkowują trwały kontakt, handel i rywalizację między kontynentami.
 
 #### Otwarcie Wrót Wymiarów - Rok 989
 

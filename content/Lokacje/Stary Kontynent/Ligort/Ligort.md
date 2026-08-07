@@ -3,7 +3,7 @@
 ![[flaga Ligortu nowa.png|400]]
 
 **Stolica:** [[Kaldorn]] 
-**Obecny władca:** Król [[Ladrigal ]]
+**Obecny władca:** Król [[Ladrigal]]
 **Ustrój:** Monarchia dziedziczna 
 **Populacja:** ludzie (54%), krasnoludy (20%), gnomy (18%), elfy (8%)
 **Geografia:** Największe pod względem powierzchni królestwo Starego Kontynentu, zdominowane przez rozległe lasy, zdradliwe mokradła, gęstą sieć rzeczną i zielone łąki.
@@ -22,7 +22,7 @@ Złota era ekspansji Ligortu została brutalnie przerwana przez wybuch [[Wojna C
 
 Koniec II Ery przyniósł radykalne zmiany. Groźba całkowitego wyniszczenia ras zmusiła walczące strony do podpisania w 1816 roku II Ery [[Wielki Sojusz|Wielkiego Sojuszu]]. Ustanowił on twarde, nienaruszalne granice państw i uznał autonomię czterech królestw, w tym Ligortu. Każdy z władców, jako insygnium swej władzy, otrzymał jeden z Kluczy do Twierdzy Arthal.
 
-Rozpoczęta tym samym Trzecia Era wymusiła na Ligorcie asymilację dawnych wrogów. Pierwotnie ludzkie królestwo musiało prawnie i administracyjnie zintegrować na swoich ziemiach populacje elfów, gnomów i krasnoludów. W 681 roku III Ery to właśnie ligortańscy żeglarze odkryli [[Nowy Kontynent]], co zapoczątkowało kolejny etap ekspansji królestwa.
+Rozpoczęta tym samym Trzecia Era wymusiła na Ligorcie asymilację dawnych wrogów. Pierwotnie ludzkie królestwo musiało prawnie i administracyjnie zintegrować na swoich ziemiach populacje elfów, gnomów i krasnoludów. W 681 roku III Ery to właśnie ligortańscy żeglarze odnowili kontakt z [[Nowy Kontynent|Nowym Kontynentem]], odnajdując drogę morską do zamieszkanych od dawna ziem. W ligortańskiej historiografii wydarzenie nadal bywa nazywane „odkryciem”, co mieszkańcy Nowego Kontynentu uznają za przejaw pychy.
 
 ## Geografia
 

@@ -12,13 +12,17 @@
 
 * Elfy rozpoczęły intensywne poszukiwania dziedzictwa Lanarów, pragnąc przejąć ich wiedzę i zasoby. Próby te były częściowo udane, zwłaszcza na terenach dzisiejszej [[Mardania|Mardanii]], gdzie powstawały pierwsze plemiona pustynnych elfów zdolnych do życia w trudnych warunkach.
 
+#### Wielka Zima – Lata 388-435
+
+- Świat zmagał się z gwałtownymi zmianami klimatycznymi będącymi następstwem [[Wojna Smoków|Wojny Smoków]]. Najpoważniejszą z nich była [[Wielka Zima]].
+
 #### Narastające Napięcia Między Rasami - Lata 500-1200
 
 * W miarę jak rasy rozszerzały swoje terytoria, napięcia między nimi rosły. Konflikty o ziemie, zasoby i wpływy były coraz bardziej powszechne, zwłaszcza na terenach dzisiejszej Mardanii, gdzie doszło do licznych starć między plemieniem [[Mardanie|Mardanów]] a elfami.
 
 #### Prześladowania Pożeraczy Dusz - Lata 1200-1500
 
-* [[Pożeracze Dusz]], kojarzeni z mrocznymi siłami [[Kainer|Kainera]], stali się celem prześladowań. Większość tej rasy została wytępiona przez inne rasy, obawiające się ich mocy i wpływu.
+* [[Pożeracze Dusz]], kojarzeni z mrocznymi siłami [[Kainer|Kainera]], stali się celem wielowiekowych prześladowań. W latach 1200-1500 rozbito większość ich skupisk i doprowadzono rasę na skraj zagłady. Ostatnie zorganizowane grupy wymordowano podczas [[Wojna Czterech Królestw|Wojny Czterech Królestw]], dlatego jej kres zwykle datuje się dopiero na koniec II Ery.
 
 #### Wojna Czterech Królestw - Lata 1532-1816
 

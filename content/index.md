@@ -49,6 +49,8 @@ Wiki została podzielona na kilka głównych działów, które ułatwiają porus
 Projekt powstał, aby zebrać w jednym miejscu całą wiedzę o uniwersum **Arthalionu**.  
 Treści są stale rozwijane i aktualizowane wraz z powstawaniem kolejnych elementów świata.
 
+Więcej materiałów związanych z Arthalionem — w tym system **tabletop RPG** — znajdziesz na [linktr.ee/maciejworwa](https://linktr.ee/maciejworwa).
+
 ---
 
 ## Wskazówki

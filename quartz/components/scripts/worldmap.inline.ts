@@ -1,6 +1,7 @@
 type MapState = {
   scale: number
-  fitScale: number
+  baseWidth: number
+  baseHeight: number
   x: number
   y: number
 }
@@ -13,7 +14,7 @@ document.addEventListener("nav", () => {
   const image = map.querySelector<HTMLImageElement>("img")!
   const zoomOutput = map.querySelector<HTMLOutputElement>(".world-map__zoom")!
   const loader = map.querySelector<HTMLElement>(".world-map__loader")!
-  const state: MapState = { scale: 1, fitScale: 1, x: 0, y: 0 }
+  const state: MapState = { scale: 1, baseWidth: 0, baseHeight: 0, x: 0, y: 0 }
   const pointers = new Map<number, PointerEvent>()
   let previousPinchDistance = 0
   let resizeFrame = 0
@@ -21,8 +22,8 @@ document.addEventListener("nav", () => {
   const clamp = (value: number, min: number, max: number) => Math.min(max, Math.max(min, value))
 
   const bounds = () => {
-    const width = image.naturalWidth * state.scale
-    const height = image.naturalHeight * state.scale
+    const width = state.baseWidth * state.scale
+    const height = state.baseHeight * state.scale
     return {
       x: Math.max(0, (width - viewport.clientWidth) / 2),
       y: Math.max(0, (height - viewport.clientHeight) / 2),
@@ -33,17 +34,21 @@ document.addEventListener("nav", () => {
     const limit = bounds()
     state.x = clamp(state.x, -limit.x, limit.x)
     state.y = clamp(state.y, -limit.y, limit.y)
-    image.style.transform = `translate3d(${state.x}px, ${state.y}px, 0) scale(${state.scale})`
-    zoomOutput.value = `${Math.round((state.scale / state.fitScale) * 100)}%`
+    image.style.transform = `translate(${state.x}px, ${state.y}px) scale(${state.scale})`
+    zoomOutput.value = `${Math.round(state.scale * 100)}%`
   }
 
   const fit = () => {
     if (!image.naturalWidth || !image.naturalHeight) return
-    state.fitScale = Math.min(
+    const fitScale = Math.min(
       viewport.clientWidth / image.naturalWidth,
       viewport.clientHeight / image.naturalHeight,
     )
-    state.scale = state.fitScale
+    state.baseWidth = image.naturalWidth * fitScale
+    state.baseHeight = image.naturalHeight * fitScale
+    image.style.width = `${state.baseWidth}px`
+    image.style.height = `${state.baseHeight}px`
+    state.scale = 1
     state.x = 0
     state.y = 0
     render()
@@ -51,7 +56,7 @@ document.addEventListener("nav", () => {
 
   const zoomAt = (factor: number, clientX: number, clientY: number) => {
     const previousScale = state.scale
-    const nextScale = clamp(previousScale * factor, state.fitScale, state.fitScale * 8)
+    const nextScale = clamp(previousScale * factor, 1, 8)
     if (nextScale === previousScale) return
 
     const rect = viewport.getBoundingClientRect()

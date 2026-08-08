@@ -98,13 +98,10 @@
 
     img {
       position: absolute;
-      width: 7680px;
       max-width: none;
-      height: 4820px;
       margin: 0;
       opacity: 0;
       transform-origin: center;
-      will-change: transform;
       pointer-events: none;
       transition: opacity 220ms ease;
 

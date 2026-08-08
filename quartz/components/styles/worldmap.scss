@@ -1,0 +1,168 @@
+@use "../../styles/variables.scss" as *;
+
+.world-map {
+  margin: 1.25rem 0 2rem;
+  overflow: hidden;
+  border: 1px solid var(--lightgray);
+  border-radius: 12px;
+  background: var(--light);
+  box-shadow: 0 12px 32px color-mix(in srgb, var(--dark) 10%, transparent);
+
+  &__toolbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.75rem;
+    min-height: 2.8rem;
+    padding: 0.45rem 0.55rem 0.45rem 0.85rem;
+    border-bottom: 1px solid var(--lightgray);
+    background: color-mix(in srgb, var(--light) 92%, var(--secondary));
+  }
+
+  &__hint {
+    color: var(--darkgray);
+    font-size: 0.84rem;
+    line-height: 1.25;
+  }
+
+  &__controls {
+    display: flex;
+    align-items: center;
+    gap: 0.3rem;
+    flex: 0 0 auto;
+
+    button {
+      display: grid;
+      place-items: center;
+      min-width: 2rem;
+      height: 2rem;
+      margin: 0;
+      padding: 0 0.55rem;
+      border: 1px solid var(--lightgray);
+      border-radius: 6px;
+      color: var(--dark);
+      background: var(--light);
+      font: inherit;
+      font-size: 0.85rem;
+      font-weight: 600;
+      cursor: pointer;
+      transition:
+        border-color 120ms ease,
+        background-color 120ms ease,
+        transform 120ms ease;
+
+      &:hover {
+        border-color: var(--secondary);
+        background: var(--highlight);
+      }
+
+      &:active {
+        transform: translateY(1px);
+      }
+
+      &:focus-visible {
+        outline: 2px solid var(--secondary);
+        outline-offset: 2px;
+      }
+    }
+  }
+
+  &__zoom {
+    min-width: 3.25rem;
+    color: var(--darkgray);
+    font-size: 0.8rem;
+    text-align: center;
+  }
+
+  &__viewport {
+    position: relative;
+    display: grid;
+    place-items: center;
+    width: 100%;
+    height: clamp(360px, 56vw, 620px);
+    overflow: hidden;
+    background-color: #101417;
+    background-image: radial-gradient(circle at 50% 45%, #263038 0, #101417 72%);
+    cursor: grab;
+    touch-action: none;
+    user-select: none;
+
+    &:focus-visible {
+      outline: 3px solid var(--secondary);
+      outline-offset: -3px;
+    }
+
+    &.is-dragging {
+      cursor: grabbing;
+    }
+
+    img {
+      position: absolute;
+      width: 7680px;
+      max-width: none;
+      height: 4820px;
+      margin: 0;
+      opacity: 0;
+      transform-origin: center;
+      will-change: transform;
+      pointer-events: none;
+      transition: opacity 220ms ease;
+
+      &.is-loaded {
+        opacity: 1;
+      }
+    }
+  }
+
+  &__loader {
+    position: relative;
+    z-index: 1;
+    padding: 0.55rem 0.8rem;
+    border-radius: 999px;
+    color: #f2f4f5;
+    background: rgb(0 0 0 / 55%);
+    font-size: 0.85rem;
+
+    &[hidden] {
+      display: none;
+    }
+  }
+
+  &:fullscreen {
+    display: flex;
+    flex-direction: column;
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+    border: 0;
+    border-radius: 0;
+
+    .world-map__viewport {
+      flex: 1;
+      height: auto;
+    }
+  }
+}
+
+@media all and not ($desktop) {
+  .world-map {
+    &__toolbar {
+      align-items: flex-start;
+      flex-direction: column;
+      padding: 0.6rem;
+    }
+
+    &__controls {
+      width: 100%;
+
+      button[data-map-action="reset"] {
+        margin-left: auto;
+      }
+    }
+
+    &__viewport {
+      height: min(68vh, 520px);
+      min-height: 320px;
+    }
+  }
+}

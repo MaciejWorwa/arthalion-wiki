@@ -9,6 +9,27 @@ Znajdziesz tu opisy krain i miast, kroniki wydarzeń, wierzenia, a także katalo
 
 ---
 
+## Mapa świata
+
+<section class="world-map" aria-label="Interaktywna mapa świata Arthalion">
+  <div class="world-map__toolbar" aria-label="Sterowanie mapą">
+    <div class="world-map__hint">Przeciągnij, aby przesunąć · użyj kółka, aby przybliżyć</div>
+    <div class="world-map__controls">
+      <button type="button" data-map-action="zoom-out" aria-label="Oddal mapę" title="Oddal">−</button>
+      <output class="world-map__zoom" aria-live="polite">100%</output>
+      <button type="button" data-map-action="zoom-in" aria-label="Przybliż mapę" title="Przybliż">+</button>
+      <button type="button" data-map-action="reset" aria-label="Dopasuj całą mapę" title="Dopasuj całą mapę">Dopasuj</button>
+      <button type="button" data-map-action="fullscreen" aria-label="Otwórz mapę na pełnym ekranie" title="Pełny ekran">⛶</button>
+    </div>
+  </div>
+  <div class="world-map__viewport" tabindex="0" aria-label="Mapa świata. Użyj strzałek, aby ją przesuwać, oraz klawiszy plus i minus, aby zmieniać przybliżenie.">
+    <img src="./Załączniki (np. grafiki)/Mapa.png" alt="Mapa świata Arthalion" draggable="false" loading="lazy" decoding="async">
+    <div class="world-map__loader" role="status">Wczytywanie mapy…</div>
+  </div>
+</section>
+
+---
+
 ## Najważniejsze działy
 
 Wiki została podzielona na kilka głównych działów, które ułatwiają poruszanie się po świecie Arthalionu:

@@ -23,7 +23,7 @@ Znajdziesz tu opisy krain i miast, kroniki wydarzeń, wierzenia, a także katalo
     </div>
   </div>
   <div class="world-map__viewport" tabindex="0" aria-label="Mapa świata. Użyj strzałek, aby ją przesuwać, oraz klawiszy plus i minus, aby zmieniać przybliżenie.">
-    <img src="./Załączniki (np. grafiki)/Mapa.png" alt="Mapa świata Arthalion" draggable="false" loading="lazy" decoding="async">
+    <img src="./Załączniki (np. grafiki)/Mapa.jpg" alt="Mapa świata Arthalion" draggable="false" loading="lazy" decoding="async">
     <div class="world-map__loader" role="status">Wczytywanie mapy…</div>
   </div>
 </section>

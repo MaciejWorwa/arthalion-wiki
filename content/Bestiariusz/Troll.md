@@ -9,7 +9,7 @@ Wszystkie są samotnikami, niewiele łączy je z innymi przedstawicielami własn
 
 ## Trolle Leśne
 
-![[troll leśny.png|300]]
+![[stary troll leśny.png|300]]
 
 Trolle leśne zamieszkują gęste puszcze i prastare lasy. Ich ciała porastają mchy, pnącza i krzewy, co sprawia, że z daleka łatwo pomylić je z fragmentem zarośniętego pnia. Dzięki temu kamuflażowi potrafią godzinami nieruchomo stać wśród drzew, czekając aż zwierzyna sama się zbliży.
 
@@ -19,7 +19,7 @@ Trolle leśne zamieszkują gęste puszcze i prastare lasy. Ich ciała porastają
 
 ## Trolle Górskie
 
-![[troll górski 2.jpg|300]]
+![[troll górski nowy.png|500]]
 
 Trolle górskie żyją w skalistych urwiskach, jaskiniach i na ośnieżonych zboczach. Są bardziej agresywne od leśnych kuzynów – częściej zapuszczają się do osad, by kraść bydło lub atakować podróżników na górskich przełęczach.
 
@@ -37,10 +37,29 @@ Plugawe trolle to osobna, spaczoną mocą [[Kainer|Kainera]] odmiana. Zmutowane,
 **Zachowanie:** są bardziej bezrozumne niż inne trolle – zamiast polować z zasadzki, często rzucają się na wroga z niepohamowaną furią. 
 **Pożywienie:** karmią się mięsem zarówno stworzeń żywych, jak i trupów – nie rozróżniają świeżej zdobyczy od gnijącego truchła.
 
+## Wzrost
+
+Trolle rosną przez całe życie, choć z wiekiem tempo ich wzrostu wyraźnie spada. Dorosły osobnik mierzy zazwyczaj około **3 metrów wzrostu**, jednak stare trolle mogą być znacznie większe. Najstarsze znane osobniki osiągały **ponad 5 metrów**, stając się prawdziwymi olbrzymami górującymi nad innymi przedstawicielami swojego gatunku.
+
+Rozmiar trolla jest więc również pewnym wyznacznikiem jego wieku. Szczególnie wielkie osobniki są rzadkie – większość trolli ginie znacznie wcześniej wskutek walk, głodu lub polowań.
+
 ## Rozmnażanie
 
-Trolle rozmnażają się w sposób budzący grozę. Zamiast rodzić młode w naturalny sposób, **składają zarodki w ciałach ofiar** – najczęściej dużych zwierząt, rzadziej ludzi.
+Trolle są **obojnakami** – każdy osobnik posiada zarówno męskie, jak i żeńskie narządy rozrodcze oraz jest zdolny do **samozapłodnienia**. Dzięki temu nawet pojedynczy troll, odcięty od innych przedstawicieli swojego gatunku, może dać początek nowej populacji.
 
-W ciele nosiciela larwa trolla pożera go od środka, pozostawiając jedynie gnijące szczątki. Po kilku miesiącach z truchła wykluwa się młody troll, który natychmiast zaczyna żerować na resztkach swego „gniazda”.
+Nie rodzą jednak żywych młodych. Troll składa **kilka jaj w martwym ciele** dużego zwierzęcia lub człowieka. Padlina zapewnia rozwijającym się larwom zarówno ochronę, jak i pierwsze źródło pożywienia.
 
-To właśnie ten sposób rozmnażania sprawia, że trolle są postrachem pól bitewnych i pogorzelisk – każde ciało może stać się kolebką nowej bestii. Plotki o trollach pojawiających się nagle w miejscach masowych rzezi nie są przesadą, lecz rzeczywistością.
+Po wykluciu larwy natychmiast zaczynają pożerać otaczające je mięso. Między rodzeństwem szybko rozpoczyna się brutalna rywalizacja – larwa, która je najszybciej i wykazuje największą agresję, rośnie znacznie szybciej od pozostałych. Z czasem zazwyczaj **pożera również słabsze larwy**, przejmując całe dostępne pożywienie.
+
+Dlatego choć z jednego truchła może wykluć się kilka młodych, najczęściej przeżywa tylko jeden troll. Gdy opuszcza resztki swojego „gniazda”, jest już znacznie większy i silniejszy niż w chwili wyklucia, lecz nadal daleki od rozmiarów dorosłego osobnika.
+
+Ten sposób rozmnażania sprawia, że trolle szczególnie dobrze rozprzestrzeniają się w miejscach pełnych padliny – na polach bitew, pogorzeliskach i w okolicach masowych rzezi. Każde pozostawione ciało może stać się kolebką nowego trolla.
+
+**Młody troll:**
+![[młody troll 1.png|300]]
+
+**Dorosły troll:**
+![[młody troll leśny.png|300]] 
+
+**Stary troll:**
+![[stary troll leśny 2.png|300]]

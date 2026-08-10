@@ -42,6 +42,7 @@ Do najbardziej charakterystycznych należą:
 - **morsy**,
 - **foki**,
 - **pingwiny**,
+- **trolle górskie**,
 - **narwale**.
 
 Mamuty mają szczególne znaczenie dla Drimharów. Są oswajane jako zwierzęta transportowe i juczne, a część klanów wykorzystuje je również podczas wojny. Dostarczają mięsa, futer, kości oraz ciosów.

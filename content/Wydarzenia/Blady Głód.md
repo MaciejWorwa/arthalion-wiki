@@ -1,3 +1,4 @@
+#Wydarzenie
 
 **Blady Głód** to śmiertelna choroba, która pojawiła się niedługo po odbiciu miasta [[Elonhall]] z rąk [[Murahini|murahińskich]] okupantów podczas [[Powstanie Czarnej Gwiazdy|Powstania Czarnej Gwiazdy]] (613 [[III Era|III Ery]]).  
 

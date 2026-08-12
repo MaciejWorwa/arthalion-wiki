@@ -1,4 +1,4 @@
-#Miejsce 
+#Państwo 
 
 ![[flaga Dwurzecza.png|350]]
 

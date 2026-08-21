@@ -1,4 +1,4 @@
-#Roślina
+#Roślina #Grzyb
 
 ![[Zastojnica 1.png|300]]
 

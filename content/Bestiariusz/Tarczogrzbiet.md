@@ -1,3 +1,5 @@
+#Stworzenie 
+
 **Występowanie:** [[Wyspa Thadwen]] (tarczogrzbiet złocisty), [[Barin-Amal]] (tarczogrzbiet brunatny)
 
 ![[tarczogrzbiet.png|300]]

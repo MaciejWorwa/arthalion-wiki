@@ -35,6 +35,7 @@
 
 ### D
 
+- **dar** - tarcza
 - **dath** - piasek, pył
 - **dil** - wieś
 - **dorn** - miasto
@@ -82,6 +83,7 @@
 
 ### I
 
+- **ild** - chronić, opiekować, ochrona, opieka
 - **inn** - ziemia, ląd
 - **ishana** - odwaga
 - **itel** - srebro
@@ -181,6 +183,7 @@
 - **thadwe** - słońce
 - **thar** - stary, starość
 - **thar-jor** - wieczór
+- **thera** - planeta
 - **tigar** - tygrys
 - **trun** - wędrówka
 

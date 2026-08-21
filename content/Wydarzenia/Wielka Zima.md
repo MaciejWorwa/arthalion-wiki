@@ -1,6 +1,6 @@
 #Wydarzenie 
 
-**Wielka Zima** był długotrwałym okresem gwałtownego ochłodzenia klimatu, który rozpoczął się niedługo po zakończeniu [[Wojna Smoków|Wojny Smoków]], na początku [[II Era|II Ery]].
+**Wielka Zima** był długotrwałym okresem gwałtownego ochłodzenia klimatu, który rozpoczął się niedługo po zakończeniu [[Wojna Smoków|Wojny Smoków]], na początku [[II Era|II Ery]]. Jej trwanie szacuje się na lata 388-435 II Ery.
 
 Stanowił jedną z wielu zmian klimatycznych będących następstwem katastrofalnych wydarzeń końca Pierwszej Ery.
 

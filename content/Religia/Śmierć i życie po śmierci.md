@@ -1,6 +1,28 @@
 
 W uniwersum Arthalionu śmierć nie jest stanem ostatecznym, lecz okresem niebezpiecznego przejścia. Dusza po opuszczeniu ciała nie znika natychmiast, lecz rozpoczyna tzw. _Ostatnią Podróż_ – czas, w którym jest bezbronna, podatna na wpływy bogów i zagrożona przez [[Kainer|Kainera]], boga śmierci.
 
+## Śmierć
+### Piętno Śmierci
+
+Śmierć nie zawsze była nieodłączną częścią istnienia.
+
+Przed uwolnieniem [Kainera](Kainer) istoty zamieszkujące świat nie starzały się i nie umierały z przyczyn naturalnych. Mogły zginąć wskutek ran, chorób, magii lub przemocy, lecz sam upływ czasu nie prowadził ich ku śmierci.
+
+Zmieniło się to po uwolnieniu Kainera i zabiciu przez niego [Kirgona](Kirgon). Po śmierci Stwórcy Kainer przejął część jego mocy i stał się Bogiem Śmierci. Wtedy na świat zostało nałożone **Piętno Śmierci**.
+
+Od tej chwili ciała zaczęły się starzeć, słabnąć i umierać, a każde narodzone życie otrzymało własny, nieunikniony kres.
+
+Według większości religii nie był to naturalny skutek przemiany świata, lecz świadomy akt zemsty Kainera za wieki uwięzienia. Jednocześnie stanowił fundament jego władzy: im więcej istot umierało, tym więcej dusz rozpoczynało Ostatnią Podróż i mogło ostatecznie znaleźć się w jego domenie.
+
+W tym sensie śmierć jest nie tylko klątwą, lecz również narzędziem władzy Kainera nad śmiertelnikami.
+### Władza nad śmiercią
+
+Jako Pan Śmierci Kainer nie tylko sprowadza śmierć, lecz potrafi również odwlekać ją, wypaczać lub czasowo zawieszać jej działanie.
+
+Jego wyznawcy wierzą, że całkowite podporządkowanie się Bogowi Śmierci może uwolnić człowieka od starości i naturalnego kresu. Nie oznacza to jednak powrotu do dawnej nieśmiertelności. Kainer zachowuje życie swoich sług wyłącznie na własnych warunkach, często przemieniając ich w istoty, które przestają być naprawdę żywe.
+
+Najbardziej znanym przykładem są [licze](Licz) – nekromanci, którzy oddają Kainerowi własne dusze w zamian za wyrwanie się spod działania czasu. Ich ciała przestają się starzeć, lecz stopniowo gniją i ulegają przemianie, podczas gdy ich istnienie zostaje związane z magią śmierci lub samym Wymiarem Umarłych.
+
 ## Ostatnia Podróż Duszy
 
 Zgodnie z powszechnymi wierzeniami, dusza po śmierci:

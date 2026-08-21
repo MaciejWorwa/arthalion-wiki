@@ -23,6 +23,7 @@
 - **120 II Ery** — [[Przeniesienie stolicy do Iteldornu]].
 - **134 II Ery** — powstanie [[Dwurzecze|Unii Dwurzecza]].
 - **135 II Ery** — powstanie [[Avaron|Avaronu]].
+- **388-435 II Ery** — [[Wielka Zima]]
 - **402-413 II Ery** — [[Najazdy Białych Arek]] na południe [[Ant-Ryian|Ant-Ryianu]].
 - **509-570 II Ery** — powstanie elfiego ośrodka w [[Kentrahs]].
 - **1200-1500 II Ery** — nasilone prześladowania [[Pożeracze Dusz|Pożeraczy Dusz]].

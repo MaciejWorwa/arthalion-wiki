@@ -1,6 +1,6 @@
 #Stworzenie 
 
-![[licz.jpg|300]]
+![[licz nowy.png|300]]
 
 **Licze** (zwane też Wiecznymi Cieniami) to istoty, które przekroczyły granicę śmierci, zachowując świadomość kosztem człowieczeństwa. To **nieumarli czarnoksiężnicy**, którzy przez długotrwałe używanie **magii śmierci** zaprzedali swe dusze [[Kainer|Kainerowi]], a ich ciała przestały podlegać naturalnemu rozkładowi – stając się **naczyniami plugastwa** i skupiskami przeklętej mocy.
 

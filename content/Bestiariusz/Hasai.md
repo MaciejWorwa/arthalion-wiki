@@ -1,6 +1,6 @@
 #Stworzenie 
 
-![[Hasai.png|400]]
+![[Hasai nowy.png|400]]
 
 **Hasai** to dwugłowe węże o śnieżnobiałej łusce, zamieszkujące nieprzyjazne tereny [[Orle Góry|Orlich Gór]]. Znane z niezwykłych zdolności myśliwskich, te drapieżniki są jednymi z najgroźniejszych stworzeń tego regionu. Ich zdolność do poruszania się pod warstwą śniegu bez pozostawiania śladów czyni je praktycznie niewidzialnymi dla potencjalnych ofiar.
 

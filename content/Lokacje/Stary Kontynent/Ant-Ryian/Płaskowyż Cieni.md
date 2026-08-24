@@ -1,0 +1,7 @@
+#Miejsce 
+
+**Płaskowyż Cieni** to rozległa i chłodna kraina położona po wschodniej stronie [[Orle Góry|Orlich Gór]]. Swoją nazwę zawdzięcza wysokim szczytom pasma, które przez znaczną część dnia zasłaniają słońce i rzucają na płaskowyż długi cień. W połączeniu z dużą wysokością nad poziomem morza sprawia to, że panuje tu surowy, wietrzny klimat, a temperatury pozostają niskie nawet w cieplejszych porach roku.
+
+Teren jest jałowy i kamienisty, porośnięty głównie niskimi trawami, mchami, porostami oraz odpornymi na mróz krzewami. Silne wiatry wiejące od [[Morze Śródziemne|Morza Śródziemnego]] utrudniają wzrost większej roślinności. Od strony morza płaskowyż kończy się wysokimi, stromymi klifami opadającymi niemal pionowo ku wodzie, przez co dostęp do wybrzeża jest bardzo ograniczony.
+
+Mimo surowych warunków Płaskowyż Cieni nie jest całkowicie pozbawiony życia. W skalnych zagłębieniach i na bardziej osłoniętych zboczach można spotkać niewielkie stada **górskich kóz**, a także świstaki i drobne gryzonie. Nad płaskowyżem krążą **orły, sępy i kruki**, wykorzystujące silne prądy powietrzne powstające przy klifach. Na samych klifach gniazdują liczne ptaki morskie, takie jak mewy, albatrosy i kormorany.

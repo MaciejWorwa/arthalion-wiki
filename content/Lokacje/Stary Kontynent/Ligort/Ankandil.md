@@ -3,7 +3,7 @@
 ![[Ankandil.webp|300]]
 
 **Położenie:** północny [[Ligort]], u podnóża  [[Modre Wzgórza|Modrych Wzgórz]]
-**Mieszkańcy:** ok. 2 500 (99% gnomy, 1% pozostałe rasy)
+**Mieszkańcy:** ok. 1 500 (99% gnomy, 1% pozostałe rasy)
 **Gospodarka**: pszczelarstwo, wytwórstwo miodu pitnego, zielarstwo, handel
 
 Ankandil to największa pszczelarska osada w północnym [[Ligort|Ligorcie]], położona u podnóża  [[Modre Wzgórza|Modrych Wzgórz]]. Znana z:

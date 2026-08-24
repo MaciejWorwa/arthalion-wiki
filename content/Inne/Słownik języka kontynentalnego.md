@@ -149,6 +149,7 @@
 - **oln** - krew
 - **ora** - droga
 - **oril** - orzeł
+- **oss** - jezioro
 
 ### P
 
@@ -233,6 +234,7 @@
 
 - **zal** – sól
 - **zande** – magia
+- **zerit** - niebieski, szafirowy
 - **zir** - wschód
 - **zog** – ząb, kieł
 - **zul** – spać, sen

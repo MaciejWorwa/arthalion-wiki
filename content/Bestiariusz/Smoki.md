@@ -73,7 +73,7 @@ Według legend czerwone smoki nadal mogą zamieszkiwać okolice wulkanu **Kazall
 
 Stare przekazy wspominają również o czerwonych smokach żyjących na [[Wyspa Naruson|Wyspie Naruson]], które miały niegdyś strzec [[Cytadela Śmierci|Cytadeli Śmierci]]. Nie wiadomo jednak, ile prawdy znajduje się w tych opowieściach.
 
-
+![[czerwony smok nowy.png|500]]
 
 ### Zielony smok
 
@@ -88,6 +88,8 @@ Ich gruczoły mogą produkować substancje, które po połączeniu tworzą **żr
 
 Dawne opowieści elfów ze Smoczych Lasów wspominają o smokach zdolnych w krótkim czasie niszczyć całe osady.
 
+![[zielony smok.png|500]]
+
 ### Niebieski smok
 
 **Żywioł:** powietrze  
@@ -98,6 +100,8 @@ Niebieskie smoki zamieszkują przede wszystkim wysokie góry, szczególnie regio
 Są wyjątkowo dobrze przystosowane do długotrwałego lotu oraz poruszania się podczas niesprzyjającej pogody.
 
 Posiadają wyspecjalizowane organy zdolne do gromadzenia i wytwarzania energii elektrycznej. Podczas ataku uwalniają ją przez paszczę w postaci **potężnego wyładowania**, które może razić cele znajdujące się w znacznej odległości.
+
+![[niebieski smok insta.png|350]]
 
 ### Biały smok
 
@@ -113,6 +117,8 @@ Białe smoki posiadają również niezwykłą zdolność **hibernacji**. Potrafi
 Z tego powodu szczególnie trudno stwierdzić, ile białych smoków rzeczywiście przetrwało Wojną Smoków. Pozornie martwa bestia uwięziona głęboko w lodowcu może w rzeczywistości jedynie spać.
 
 W czasach Lanarów białe smoki wykorzystywano między innymi w wysoko położonych twierdzach północnego Ant-Ryianu, np. [[Skrzydlata Twierdza|Skrzydlatej Twierdzy]].
+
+![[biały smok.png|500]]
 
 ### Smok morski
 
@@ -135,9 +141,11 @@ Według jednej z najstarszych teorii smoki morskie nie pochodzą pierwotnie ze �
 
 Nie istnieją jednak dowody pozwalające jednoznacznie potwierdzić tę opowieść.
 
+![[smok morski.png|300]]
+
 ## Łowcy Smoków
 
-Ogromna wartość smoczych szczątków sprawiła, że przez wieki pojawiali się ludzie określający się mianem **Łowców Smoków**.
+Ogromna wartość smoczych szczątków sprawiła, że przez wieki pojawiali się ludzie określający się mianem [[Łowcy Smoków|Łowców Smoków]].
 
 Poszukują oni łusek, kości, pazurów, krwi oraz przede wszystkim smoczych serc. Nawet pojedyncze trofeum może zapewnić łowcy ogromny majątek.
 

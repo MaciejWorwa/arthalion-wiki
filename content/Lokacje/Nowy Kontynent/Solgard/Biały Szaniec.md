@@ -1,7 +1,7 @@
 #Miejsce 
 
 **Lokalizacja:** południowy wschód Nowego Kontynentu, wapienne wzgórza Trzech Sióstr
-**Populacja:** ok. 24 000 (krasnoludy 68%, ludzie (Avaranie) 18%, gnomy 14%)  
+**Populacja:** ok. 14 000 (krasnoludy 68%, ludzie (Avaranie) 18%, gnomy 14%)  
 **Władza:** 
 **Gospodarka:** 
 

@@ -3,7 +3,7 @@
 ![[Jondur.jpg|300]]
 
 **Położenie:** północny-zachod [[Ligort|Ligortu]], [[Góry Północne]] u źródła rzeki [[Farna|Farny]]
-**Mieszkańcy:** ok. 9 000 (78% krasnoludy, 20% gnomy, 2% ludzie)
+**Mieszkańcy:** ok. 7 000 (78% krasnoludy, 20% gnomy, 2% ludzie)
 **Władza:**
 **Gospodarka:** wydobycie złota
 

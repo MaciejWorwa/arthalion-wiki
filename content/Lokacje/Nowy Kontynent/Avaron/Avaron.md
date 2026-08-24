@@ -1,4 +1,4 @@
-#Państwo
+#Miejsce 
 
 ![[flaga Avaronu.png|350]]
 

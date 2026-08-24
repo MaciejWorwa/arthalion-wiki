@@ -1,4 +1,3 @@
-#Miejsce
 
 **Region:** zachodni półwysep [[Ant-Ryian|Ant-Ryianu]] 
 **Znaczenie:** miejsce największej bitwy [[Wojna Smoków|Wojny Smoków]], nekropolia smoków

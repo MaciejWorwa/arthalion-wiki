@@ -3,7 +3,7 @@
 ![[Cienista Skała.png|500]]
 
 **Położenie:** [[Ant-Ryian]], wschodnie [[Spękane Równiny]]  
-**Mieszkańcy:** ok. 7500 (82% ludzie, głównie [[Valoranie]], 11% [[Pustynne Elfy]], 6% krasnoludy, 1% gnomy) 
+**Mieszkańcy:** ok. 6500 (82% ludzie, głównie [[Valoranie]], 11% [[Pustynne Elfy]], 6% krasnoludy, 1% gnomy) 
 **Władza:** Starszyzna Cienistej Skały
 **Gospodarka:** obsługa karawan, hodowla bydła, owiec i kóz, kamieniarstwo, obsługa karawan, handel wodą
 

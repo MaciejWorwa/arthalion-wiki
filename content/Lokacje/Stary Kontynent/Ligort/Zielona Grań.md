@@ -1,7 +1,7 @@
 #Miejsce 
 
 **Położenie:** [[Ligort]], na wschodnim skraju [[Bezkresna Puszcza|Bezkresnej Puszczy]]  
-**Mieszkańcy:** ok. 1 400 (98% elfy leśne, 2% inne rasy)  
+**Mieszkańcy:** ok. 800 (98% elfy leśne, 2% inne rasy)  
 **Władza:** Matrona formalnie podległa królowi [[Ladrigal|Ladrigalowi]]  
 **Gospodarka:** łowiectwo, produkcja łuków i strzał, obróbka drewna, skóry i mięso
 

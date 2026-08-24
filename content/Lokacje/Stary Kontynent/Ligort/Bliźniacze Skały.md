@@ -1,7 +1,7 @@
 #Miejsce 
 
 **Położenie:** [[Ligort]] w głębi [[Wilcze Bory|Wilczych Borów]], u podnóża [[Góry Północne|Gór Północnych]]
-**Mieszkańcy:** ok. 1800 ([[Leśne Krasnoludy]])
+**Mieszkańcy:** ok. 600 ([[Leśne Krasnoludy]])
 **Władza:** [[Rada Złotych Pierścieni]], [[Eldric XIX]]
 **Gospodarka:** łowiectwo, garbarstwo, kamieniarstwo
 **Herb:**

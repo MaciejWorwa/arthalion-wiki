@@ -3,7 +3,7 @@
 ![[Durvan.jpg|400]]
 
 **Położenie:** południowo-zachodnia [[Galithia]], południe [[Góry Północne|Gór Północnych]]
-**Mieszkańcy:** 80 000 (71% krasnoludy, 18% gnomy, 10% ludzie, 1% elfy)
+**Mieszkańcy:** ok. 55 000 (71% krasnoludy, 18% gnomy, 10% ludzie, 1% elfy)
 **Władza:** Król [[Falham]]
 **Gospodarka:** górnictwo, rybołówstwo, harpunnictwo, handel, szkutnictwo
 
@@ -187,7 +187,7 @@ Durvan to potęga gospodarcza Galithii.
 - **Czerwona Stal** – unikalny stop znany ze swojej twardości, który stał się marką krasnoludów Durvanu.
 - **Szkutnictwo** – budowa statków handlowych, harpunniczych i wojennych, cenionych na całym kontynencie.
 - **Rybołówstwo i harpunnictwo** – połowy wielorybów i ogromnych ryb Morza Śródziemnego dostarczają pożywienia, tłuszczu i kości.
-- **Handel** – doki Durvanu są miejscem, gdzie spotykają się kupcy z całego Starego Kontynentu.
+- **Handel** – doki Durvanu są miejscem, gdzie spotykają się kupcy z całego Starego Kontynentu. Miasto importuje duże ilości zboża z Ligortu, gdyż samo nie posiada za bardzo gruntów rolnych.
 
 ## Armia
 

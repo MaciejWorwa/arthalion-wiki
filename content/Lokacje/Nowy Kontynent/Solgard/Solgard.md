@@ -1,4 +1,4 @@
-#Państwo
+#Miejsce 
 
 ![[flaga Solgardu.png|350]]
 

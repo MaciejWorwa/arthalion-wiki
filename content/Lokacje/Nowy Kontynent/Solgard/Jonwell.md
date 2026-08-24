@@ -1,7 +1,7 @@
 #Miejsce 
 
 **Położenie:** [[Solgard]], dolina w górnym biegu rzeki [[Avara|Avary]]  
-**Mieszkańcy:** ok. 4 500 (72% krasnoludy, 13% gnomy, 12% ludzie)  
+**Mieszkańcy:** ok. 3 500 (72% krasnoludy, 13% gnomy, 12% ludzie)  
 **Władza:** zarządca królewski
 **Gospodarka:** płukanie złota
 

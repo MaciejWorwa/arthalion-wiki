@@ -5,21 +5,17 @@
 **Władza:** król [[Keldaros]], lokalnie Rada Xulvanu  
 **Gospodarka:** handel rzeczny i morski, szkutnictwo, rybołówstwo
 
-**Xulvan** jest jednym z najważniejszych portów wschodniej [[Mardania|Mardanii]], położonym przy wąskim wyjściu z Błękitnej Zatoki na otwarte morze.
+**Xulvan** jest jednym z najważniejszych portów wschodniej Mardanii, położonym u ujścia [[Kentra|Kentry]] do [[Błękitna Zatoka|Błękitnej Zatoki]].
 
-Jego znaczenie wynika przede wszystkim z położenia. [[Kentra]] przecina znaczną część Mardanii i uchodzi do zachodniej części Błękitnej Zatoki, dzięki czemu towary z [[Kentrahs]] mogą być spławiane rzeką niemal przez cały kraj. Po dotarciu do zatoki są przewożone dalej do Xulvanu, gdzie trafiają na statki morskie płynące przede wszystkim na [[Wyspa Thadwen|Wyspę Thadwen]].
+Jego znaczenie wynika przede wszystkim z położenia. [[Kentra]] przecina znaczną część Mardanii i uchodzi do Błękitnej Zatoki właśnie w Xulvanie. Dzięki temu towary z [[Kentrahs]] mogą być spławiane rzeką bezpośrednio do miejskich nabrzeży, gdzie przeładowuje się je na statki morskie płynące przede wszystkim na [[Wyspa Thadwen|Wyspę Thadwen]].
 
 W przeciwną stronę płyną przede wszystkim zioła, lekarstwa oraz wyroby gnomich rzemieślników z Thadwen.
 
-## Brama Błękitnej Zatoki
+## Ujście Kentry
 
-Miasto leży bezpośrednio przy przewężeniu oddzielającym Błękitną Zatokę od otwartego morza.
+Xulvan rozwinął się u ujścia Kentry do Błękitnej Zatoki, w miejscu gdzie kończy się żegluga rzeczna, a zaczyna morska. Położenie to pozwala miastu kontrolować znaczną część handlu między centralną Mardanią a wybrzeżem.
 
-Praktycznie każdy większy statek zmierzający do wnętrza zatoki musi przepłynąć w pobliżu Xulvanu. Dzięki temu miasto kontroluje ruch morski prowadzący do ujścia Kentry i dalej w stronę Kentrahs.
-
-Przy wejściu do zatoki znajdują się wieże obserwacyjne i punkty sygnałowe, z których strażnicy wypatrują statków, ostrzegają przed sztormami oraz kontrolują jednostki wpływające na mardańskie wody.
-
-Na wodach tych stale pracują również miejscowi piloci. Znają mielizny, prądy i skały otaczające przewężenie, dlatego kapitanowie większych jednostek często zabierają jednego z nich na pokład przed wejściem do zatoki.
+Przy ujściu znajdują się wieże obserwacyjne, przystanie straży portowej oraz punkty sygnałowe. Miejscowi piloci pomagają większym jednostkom omijać mielizny i łachy nanoszone przez rzekę.
 
 ## Handel
 
@@ -27,7 +23,7 @@ Najważniejszym kierunkiem handlu jest **Wyspa Thadwen**.
 
 Z Xulvanu wypływają tam przede wszystkim towary dostarczane Kentrą z centralnej Mardanii. W drugą stronę sprowadza się produkty pochodzące z ciepłego, wilgotnego klimatu Słonecznej Wyspy, w szczególności owoce, rośliny, zioła oraz wyroby miejscowych rzemieślników.
 
-Towary przeznaczone dla Kentrahs są następnie przewożone przez Błękitną Zatokę do ujścia Kentry i ładowane na barki rzeczne.
+Towary przeznaczone dla Kentrahs są w Xulvanie przeładowywane bezpośrednio ze statków morskich na płaskodenne barki rzeczne, które następnie płyną Kentrą w głąb Mardanii.
 
 ## Wyprawy na Nowy Kontynent
 
@@ -49,11 +45,7 @@ Znajdują się tutaj magazyny, doki, targ rybny oraz składy towarów przywożon
 
 ### Brama Morska
 
-Część miasta położona najbliżej wyjścia z zatoki.
-
-Znajdują się tu wieże obserwacyjne, koszary straży portowej, urząd celny oraz przystanie dla niewielkich szybkich jednostek patrolowych.
-
-To właśnie z Bramy Morskiej obserwuje się wszystkie statki próbujące wpłynąć do Błękitnej Zatoki.
+**Brama Morska** znajduje się przy zewnętrznych nabrzeżach miasta, od strony Błękitnej Zatoki. Mieszczą się tutaj koszary straży portowej, urząd celny, wieże sygnałowe oraz przystanie jednostek patrolujących ujście Kentry.
 
 ### Daleka Keja
 
@@ -62,48 +54,3 @@ Najmniejsze, ale najbardziej rozpoznawalne nabrzeże Xulvanu.
 Cumują przy nim statki przygotowywane do wypraw oceanicznych. W pobliżu stoją magazyny beczek z wodą, suszonej żywności, smoły, zapasowych żagli i lin.
 
 Dla mieszkańców miasta sama nazwa **Daleka Keja** stała się synonimem podróży, z której można już nie wrócić.
-
-
-
-
-
-
-
-
-
-
-## Port dwóch wód
-
-Port Xulvanu dzieli się wyraźnie na część rzeczną i morską.
-
-Barki z Kentrahs są płaskodenne i przystosowane do żeglugi po Kentrze. Statki płynące na Thadwen mają wyższe burty i znacznie głębsze zanurzenie.
-
-Pomiędzy oboma nabrzeżami bez przerwy pracują tragarze, dźwigi i wozy przewożące ładunki.
-
-To właśnie dzięki temu Xulvan nazywany bywa **Portem Dwóch Wód**.
-
-## Wyprawy oceaniczne
-
-Większość miejscowych statków nie opuszcza Błękitnej Zatoki, jednak Xulvan jest również jednym z nielicznych portów Mardanii, z których organizowane są wyprawy przez ocean.
-
-Ich celem jest przede wszystkim [[Antfell]] na zachodnim wybrzeżu [[Nowy Kontynent|Nowego Kontynentu]].
-
-Takie podróże należą do rzadkości. Wymagają dużych statków, ogromnych zapasów i doświadczonych załóg, a utrata jednostki może zrujnować cały dom kupiecki.
-
-Powrót statku z Nowego Kontynentu jest więc w Xulvanie wydarzeniem, które potrafi przyciągnąć do portu pół miasta.
-
-## Dzielnice
-
-### Port Barkowy
-
-Rozciąga się przy ujściowym odcinku Kentry. To tutaj docierają towary spławiane ze stolicy.
-
-### Nabrzeże Thadweńskie
-
-Główny port morski miasta. Dominują tutaj statki kursujące pomiędzy Xulvanem a Słoneczną Wyspą.
-
-### Daleka Keja
-
-Najmniejsze, lecz najsłynniejsze nabrzeże Xulvanu.
-
-Cumują przy nim jednostki przygotowywane do wypraw oceanicznych. Wokół znajdują się magazyny suszonej żywności, beczek z wodą, lin, smoły oraz zapasowych żagli.

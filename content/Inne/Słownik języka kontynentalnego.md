@@ -179,6 +179,7 @@
 
 ### T
 
+- **tar** - wół, krowa, bawół
 - **tess** - zimno
 - **thad** - światło
 - **thadwe** - słońce

@@ -143,6 +143,23 @@ Nie istnieją jednak dowody pozwalające jednoznacznie potwierdzić tę opowieś
 
 ![[smok morski.png|300]]
 
+### Czarny smok
+
+**Magia:** śmierć  
+**Serce:** onyks
+
+Czarne smoki należą do najbardziej tajemniczych stworzeń wspominanych w dawnych zapiskach. Jedyna znana wzmianka o ich istnieniu pochodzi z notatek odnalezionych w [[Drakdorn|Drakdornie]], dotyczących eksperymentów prowadzonych przez lanaryjskich czarnoksiężników podczas [[Wojna Smoków|Wojny Smoków]].
+
+Według tych dokumentów czarne smoki nie stanowiły odrębnego gatunku. Miały powstawać w wyniku długotrwałego poddawania młodych smoków silnemu oddziaływaniu magii śmierci. Proces ten stopniowo zmieniał ich wygląd, zachowanie oraz właściwości magiczne.
+
+Łuski poddanych przemianie smoków ciemniały, aż przybierały niemal całkowicie czarną barwę. Jednocześnie kryształowy rdzeń ich serca ulegał przeobrażeniu, tracąc właściwości charakterystyczne dla pierwotnego żywiołu. Według zapisków ostatecznie przyjmował postać **czarnego onyksu**, zdolnego magazynować i wzmacniać ogromne ilości energii śmierci.
+
+Czarne smoki oraz ich rdzenie miały być wykorzystywane przede wszystkim jako potężne źródła energii podczas rytuałów nekromantycznych. Ich obecność pozwalała czarnoksiężnikom znacząco zwiększać moc zaklęć, których przeprowadzenie w normalnych warunkach wymagałoby ogromnych nakładów energii magicznej.
+
+Eksperymenty wiązały się jednak z poważnymi konsekwencjami. W miarę postępu przemiany smoki stawały się coraz bardziej agresywne i nieprzewidywalne, a ich telepatyczna więź z lanarami stopniowo zanikała. Ostatecznie nawet doświadczeni Smoczy Jeźdźcy nie byli w stanie nad nimi zapanować.
+
+Nie wiadomo, ile czarnych smoków udało się stworzyć ani czy którykolwiek przetrwał upadek lanaryjskiej cywilizacji. Poza zapiskami z Drakdornu nie odnaleziono wiarygodnych dowodów potwierdzających ich istnienie.
+
 ## Łowcy Smoków
 
 Ogromna wartość smoczych szczątków sprawiła, że przez wieki pojawiali się ludzie określający się mianem [[Łowcy Smoków|Łowców Smoków]].

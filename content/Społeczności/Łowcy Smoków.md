@@ -1,6 +1,6 @@
 #Organizacja
 
-**Główne miejsce działalności:** [[Smocze Lasy]], pogranicze [[Mardania|Mardanii]] i [[Ant-Ryian|Ant-Ryianu]], [[Wichrowe Grzbiety]]  
+**Główne miejsce działalności:** [[Smocze Lasy]], pogranicze [[Mardania|Mardanii]] i [[Ant-Ryian|Ant-Ryianu]], [[Wichrowe Grzbiety]], [[Dolina Kości]]  
 **Zajęcie:** poszukiwanie smoków, badanie tropów, odzyskiwanie smoczych szczątków, handel trofeami  
 ## Opis
 
@@ -16,15 +16,15 @@ Po [[Wojna Smoków|Wojnie Smoków]] populacja smoków na Starym Kontynencie gwa�
 
 Przez kolejne stulecia smoki coraz bardziej przechodziły z historii do legendy. W miastach zaczęto wątpić, czy kiedykolwiek istniały naprawdę. Na pograniczu Smoczych Lasów i Wichrowych Grzbietów pamięć o nich przetrwała jednak znacznie dłużej. Elfy przechowywały opowieści o bestiach spadających z nieba, a mieszkańcy gór znajdowali czasem stare kości, łuski albo ślady wypalone w skale.
 
-Z czasem wokół tych znalezisk narodził się handel. Smocze zęby, łuski i pazury stały się towarem dla najbogatszych. Arystokraci kupowali je jako symbole prestiżu, alchemicy jako składniki, a kolekcjonerzy jako dowody obcowania z dawną potęgą świata.
+Z czasem wokół tych znalezisk narodził się handel. Smocze zęby, łuski, pazury i kości stały się poszukiwanym towarem wśród arystokratów, alchemików i kolekcjonerów. Szczególną wartość przypisywano jednak smoczym rdzeniom, niezwykłym kamieniom pochodzącym z serc tych stworzeń. W odróżnieniu od pozostałych szczątków nie traktowano ich wyłącznie jako trofeów. Z czasem zaczęto otaczać je niemal religijną czcią, a niektóre trafiły do świątyń, gdzie przechowywano je jako święte relikwie.
 
-Tam, gdzie pojawił się popyt, pojawili się również ludzie gotowi ryzykować życie.
+Tam, gdzie pojawił się popyt, pojawili się również ludzie gotowi ryzykować życie. Perspektywa zdobycia choćby pojedynczego smoczego rdzenia potrafiła skłonić do wyprawy nawet tych, którzy nigdy wcześniej nie zapuszczali się poza bezpieczne granice własnego królestwa.
 
 ## Kim są Łowcy Smoków
 
 Łowców Smoków można podzielić na kilka grup.
 
-**Kopacze kości** zajmują się poszukiwaniem martwych szczątków. Przeczesują wąwozy, stare jaskinie, urwiska i miejsca wskazane przez elfickie legendy. To oni najczęściej rzeczywiście posiadają smocze trofea, choć pochodzą one z ciał dawno martwych bestii.
+**Kopacze kości** zajmują się poszukiwaniem martwych szczątków. Przeczesują wąwozy, stare jaskinie, urwiska i miejsca wskazane przez elfickie legendy. Szczególnie liczni są w okolicach Doliny Kości, gdzie przeszukują pozostałości smoków sprzed tysięcy lat. To oni najczęściej rzeczywiście posiadają smocze trofea, choć pochodzą one z ciał dawno martwych bestii. Większość z nich marzy o odnalezieniu smoczego rdzenia, którego wartość wielokrotnie przewyższa wszystkie pozostałe znaleziska.
 
 **Tropiciele** badają ślady, zbierają relacje i tworzą mapy możliwych tras lotu smoków. Często zatrudniają elfickich przewodników albo sami pochodzą ze Smoczych Lasów. Są najbardziej użyteczni, ale też najmniej widowiskowi.
 
@@ -54,20 +54,34 @@ Problem polega na tym, że większość tych metod istnieje jedynie w teorii. Ni
 
 ## Trofea
 
-Smocze trofea należą do najcenniejszych przedmiotów, jakie można znaleźć na Starym Kontynencie. Nawet niewielki fragment łuski potrafi osiągnąć cenę większą niż roczny dochód zamożnego gospodarstwa. Cały pazur, ząb lub kość skrzydła mogą zapewnić rodzinie dostatek na wiele lat.
+Smocze szczątki należą do najbardziej poszukiwanych osobliwości Starego Kontynentu. Ich wartość zależy od rodzaju, wielkości, stanu zachowania i możliwości potwierdzenia autentyczności. Nawet niewielki fragment prawdziwej smoczej łuski może osiągnąć znaczną cenę, a dobrze zachowane zęby, pazury czy fragmenty szkieletu stanowią cenny towar dla kolekcjonerów, alchemików i rzemieślników.
 
 Najczęściej sprzedawane trofea to:
-
 - łuski,
 - pazury,
 - zęby,
 - fragmenty kości,
 - rogi i kolce,
 - wyschnięte błony skrzydeł,
-- zaschnięta krew,
-- popiół lub ziemia z miejsca rzekomego smoczego żerowania.
+- zaschnięta krew
 
-Najwięcej prawdziwych trofeów pochodzi nie z polowań, lecz ze szczątków odnalezionych w górach, jaskiniach i starych miejscach śmierci smoków. Zdarza się, że łowcy przez lata szukają jednego zapomnianego szkieletu, aby następnie rozebrać go kawałek po kawałku i sprzedać arystokratom, uczonym lub alchemikom.
+Najcenniejszym ze wszystkich smoczych znalezisk jest jednak **smoczy rdzeń**, niezwykły kamień pochodzący z serca smoka. Rdzenie są tak rzadkie i pożądane, że ich wartość trudno wyrazić w pieniądzach. Dla wielu ludów stanowią święte relikwie, materialne pozostałości po istotach, które niegdyś władały niebem i budziły grozę całych królestw.
+
+Wiele znanych rdzeni przechowywanych jest w specjalnie przygotowanych miejscach wewnątrz świątyń, gdzie otacza się je czcią i strzeże przed złodziejami. Inne znajdują się w skarbcach władców lub prywatnych zbiorach niezwykle zamożnych kolekcjonerów. Ich sprzedaż jest wydarzeniem wyjątkowym, a wieści o odnalezieniu nowego rdzenia potrafią przyciągnąć uwagę możnowładców, kapłanów i poszukiwaczy fortuny z odległych krain.
+
+Najwięcej prawdziwych trofeów pochodzi nie z polowań, lecz ze szczątków odnalezionych w górach, jaskiniach i dawnych miejscach śmierci smoków. Zdarza się, że łowcy przez lata poszukują jednego zapomnianego szkieletu, aby następnie rozebrać go kawałek po kawałku i sprzedać znalezione szczątki. Nawet jeśli nie odnajdą rdzenia, pozostałe trofea mogą zapewnić im znaczny zarobek.
+
+## Polowania na wywerny
+
+Choć od wieków nie odnotowano potwierdzonego przypadku zabicia prawdziwego smoka, wielu Łowców Smoków może pochwalić się pokonaniem [[Wywerny|wywerny]]. Te duże, skrzydlate drapieżniki często bywają mylone ze smokami.
+
+W przeciwieństwie do prawdziwych smoków wywerny można jednak skutecznie tropić i zabijać przy użyciu odpowiednio przygotowanych pułapek, broni dystansowej i znajomości ich zachowania.
+
+Łowcy pozyskują z nich cenne skóry, zęby, pazury, gruczoły jadowe oraz charakterystyczne grzechotki ogonowe.
+
+Część trofeów sprzedawana jest uczciwie, jednak znacznie większe zyski przynosi przedstawianie ich jako szczątków prawdziwych smoków.
+
+W miastach oddalonych od Smoczych Lasów niewielu kupujących potrafi rozpoznać różnicę między kością wywerny a fragmentem smoczego szkieletu. Niektórzy łowcy wykorzystują tę niewiedzę, przedstawiając opowieści o zwykłym, choć niebezpiecznym polowaniu jako świadectwa heroicznych walk z legendarnymi bestiami.
 
 ## Relacje z elfami Smoczych Lasów
 
@@ -87,6 +101,7 @@ Nieoficjalnie jednak władze czasem korzystają z ich działalności. Łowcy dos
 
 Dla Mardanii Łowcy Smoków są więc niewygodni, ale użyteczni — dopóki nie wywołują konfliktów z elfami i dopóki ich śmierć nie wymaga oficjalnych wyjaśnień.
 
+
 ## Niebezpieczeństwa
 
 Większość Łowców Smoków nie ginie od smoczego ognia ani pazurów. Giną od znacznie bardziej przyziemnych zagrożeń.
@@ -103,7 +118,7 @@ Bormfar jest wyjątkiem, ponieważ nie zadowala się szukaniem szczątków. Napr
 
 ## Znaczenie
 
-Łowcy Smoków są dowodem na to, że nawet niemal wymarłe stworzenia mogą wpływać na politykę, gospodarkę i wyobraźnię całych społeczeństw. Smoki nie muszą codziennie palić osad, aby budzić strach. Wystarczy, że gdzieś w górach znajdzie się łuska większa od tarczy, cień przemknie nad koronami drzew albo bogaty arystokrata zapłaci fortunę za ząb, którego pochodzenia nikt nie potrafi potwierdzić.
+Łowcy Smoków są dowodem na to, że nawet niemal wymarłe stworzenia mogą wpływać na politykę, gospodarkę, wierzenia i wyobraźnię całych społeczeństw. Smoki nie muszą codziennie palić osad, aby budzić strach. Wystarczy, że gdzieś w górach znajdzie się łuska większa od tarczy, cień przemknie nad koronami drzew albo z Doliny Kości nadejdzie wieść o odnalezieniu kolejnego smoczego rdzenia. Dla jednych będzie on świętą relikwią, dla innych bezcennym skarbem, a dla Łowców Smoków — spełnieniem marzenia, za którym wielu z nich gotowych jest podążać aż do śmierci.
 
 Dla jednych Łowcy Smoków są ostatnimi ludźmi gotowymi rzucić wyzwanie dawnym potęgom świata. Dla innych są hienami żerującymi na szczątkach stworzeń, których nie rozumieją.
 

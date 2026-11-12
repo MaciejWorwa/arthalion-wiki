@@ -1,6 +1,6 @@
 #Postać
 
-![[etherlin inspiracja 3.jpg|300]]
+![[Etherlin potwierdzony.png|350]]
 
 **Rasa**: elf
 **Wiek**: zmarł w 593 roku II Ery
